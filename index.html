@@ -201,16 +201,10 @@ function listRowItem(it){
 }
 
 function listRowPrediction(p){
-  const confColor = (p.conf||"").includes("낮") ? "#7a7a7a" : "#e0a23f";
   return `<div class="listrow">
     <div class="lr-1">${p.t}</div>
-    <div class="lr-2">
-      <span>🔮</span><span>예측</span>
-      <span class="conf-badge" style="background:${confColor}22;color:${confColor};">${p.conf}</span>
-    </div>
-    <div class="lr-3">${p.d}</div>
-    <div class="lr-4"><span class="tag">연관강도 ${p.strength}</span></div>
-    <div class="lr-5">🧠 Bot3 상호연관성 분석</div>
+    <div class="lr-2"><span>🔮</span><span>예측</span></div>
+    <div class="lr-3" style="-webkit-line-clamp:unset;">${p.d}</div>
   </div>`;
 }
 
