@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 11:16",
+  "generated_at": "2026-11-03 12:25",
   "items": [
     {
       "t": "美 스타트업, AI가 설계한 바이러스 세계 최초 인체 투여",
@@ -8,7 +8,8 @@
       "s": 79,
       "d": "캘리포니아 스타트업 래디컬 뉴메릭스가 항생제 내성균 감염 환자에게 AI가 설계한 박테리오파지를 세계 최초로 투여했다고 밝혔다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://www.techradar.com/pro/a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resistant-bacteria-so-lets-see-how-that-turns-out"
     },
     {
       "t": "AI 투자 붐, 금융시장 불안 신호",
@@ -17,7 +18,8 @@
       "s": 81,
       "d": "나스닥이 AI 투자 수익성에 대한 의구심으로 2.86% 급락했고, 알파벳의 클라우드 매출 호조도 순이익 감소 우려를 가리지 못했다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-2-2026"
     },
     {
       "t": "앤트로픽, 11월 16일 주간 IPO 추진 보도",
@@ -26,7 +28,18 @@
       "s": 76,
       "d": "앤트로픽의 기업공개(IPO)가 2026년 11월 16일 주간에 이뤄질 수 있다는 보도가 나오며 올해 AI 업계 최대 이슈로 꼽히고 있다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://simplifyaitools.com/newsletter/ai-news-november-2026-anthropic-microsoft-google/"
+    },
+    {
+      "t": "애플, 중국서 알리바바 '큐원(Qwen)' AI 탑재한 애플 인텔리전스 테스트 시작",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 66,
+      "d": "알리바바의 Qwen AI 모델이 애플 인텔리전스에 통합돼 11월 4일부터 iOS 개발자 베타에서 테스트가 시작되며, 12월 iOS 27.3 정식 출시와 함께 중국에서 공식 롤아웃된다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.businesstoday.com.my/2026/11/01/alibaba-to-integrate-qwen-ai-into-apple-ios-from-nov-4/"
     },
     {
       "t": "벨기에 총리 드베버, 예산안 협상 실패로 사퇴",
@@ -35,7 +48,18 @@
       "s": 71,
       "d": "벨기에 바르트 드베버 총리가 2026-2027년 연방 예산안 협상 실패로 사퇴서를 제출했으나, 필리프 국왕은 아직 수락 여부를 결정하지 않았다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313"
+    },
+    {
+      "t": "캐나다 제조업, 2026년 들어 첫 수축…관세發 경기둔화 가속",
+      "c": "경제",
+      "ci": "📉",
+      "s": 70,
+      "d": "캐나다 제조업 PMI가 2026년 첫 수축 국면에 진입했으며, 미국의 관세 압박이 신규 주문 급감과 실업·금리 인상 등 경제 전반의 불확실성을 키우고 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://finwire.io/news/economy-news/canadian-manufacturing-contracts-for-first-time-in-2026-as-tariffs-hit-demand"
     },
     {
       "t": "중국 제조업 PMI 49.3으로 위축",
@@ -44,7 +68,38 @@
       "s": 66,
       "d": "중국 국가통계국 제조업 PMI가 10월 50.1에서 49.3으로 하락해 예상치 50.0을 밑돌며 다시 위축 국면에 들어섰다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi"
+    },
+    {
+      "t": "민주당, 조희대 대법원장 국정조사 추진…헌정사 첫 사례",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 72,
+      "d": "더불어민주당이 조희대 대법원장을 겨냥한 국정조사를 11월 5일 국회 본회의 처리를 목표로 추진 중이며, 현직 대법원장이 국정조사 대상에 오르는 것은 헌정사상 최초다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.24news.kr/news/articleView.html?idxno=311706"
+    },
+    {
+      "t": "'국민 아버지' 배우 최불암 별세…각계 조문 행렬 끝에 영결",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 62,
+      "d": "배우 최불암(본명 최영한)이 87세로 별세했으며, 서울아산병원 빈소에 사흘간 조문 행렬이 이어진 뒤 여의도성당에서 장례미사가 거행됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://kormedi.com/2895460/"
+    },
+    {
+      "t": "COP17 생물다양성총회 '예레반 경로' 합의…아프리카 지원금은 오히려 급감",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 66,
+      "d": "유엔생물다양성협약 COP17이 '예레반 경로'에 합의하고 신규 기금을 발표했으나, 정작 가장 필요한 아프리카의 보호구역 국제자금은 32% 감소했다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
     },
     {
       "t": "COP31 기후변화협약 당사국총회, 튀르키예 안탈리아에서 개막 예정",
@@ -53,7 +108,8 @@
       "s": 71,
       "d": "2026년 유엔기후변화협약 당사국총회(COP31)가 11월 9일부터 20일까지 튀르키예 안탈리아에서 열리며, 11~12일에는 정상회의가 예정돼 있다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
     },
     {
       "t": "유럽 전역 청년층, 교육 예산 부족·생활비 상승에 항의 시위",
@@ -62,7 +118,28 @@
       "s": 57,
       "d": "유럽 여러 나라의 청년들이 학교 예산 부족과 높은 생활비에 항의하는 시위를 벌이고 있다고 2026년 11월 2일 보도됐다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
+    },
+    {
+      "t": "美 플로리다 리어젯 추락, 탑승자 9명 전원 사망…NTSB '공중분해 가능성'",
+      "c": "사회",
+      "ci": "✊",
+      "s": 77,
+      "d": "텍사스 오스틴에서 바하마로 가던 리어젯 60기가 플로리다 주택가에 추락해 탑승자 9명 전원이 사망했으며, NTSB는 기체가 공중에서 분해됐을 가능성을 조사 중이다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
+    },
+    {
+      "t": "'잊혀진 입자'가 우주에 물질이 반물질보다 많은 이유를 설명할 열쇠로 제시",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 71,
+      "d": "사우샘프턴대 물리학자들이 수십 년간 무시됐던 '탈동조 우측나선 중성미자'가 빅뱅 이후 물질-반물질 비대칭을 만들었을 가능성을 새롭게 제시했다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.southampton.ac.uk/news/2026/10/forgotten-particle-could-answer-mystery-of-why-we-exist.page"
     },
     {
       "t": "할리우드 경영진 교체 바람, 캘리포니아 10억 달러 세액공제 추진",
@@ -71,7 +148,8 @@
       "s": 55,
       "d": "할리우드 주요 경영진 교체가 이어지는 가운데 캘리포니아주는 영화·TV 제작 일자리 유지를 위해 연 10억 달러 규모 세액공제를 제안했다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://furtherandbetter.substack.com/p/global-tv-film-and-media-industry-87b"
     },
     {
       "t": "마이크로소프트, AI 재편 속 직원 6만 명 희망퇴직 제안",
@@ -80,7 +158,8 @@
       "s": 74,
       "d": "마이크로소프트가 AI로 인한 업무 재편을 이유로 직원 6만 명에게 희망퇴직을 제안했다고 보도됐다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
     },
     {
       "t": "NASA 퍼서비어런스 로버, 화성 주행거리 신기록",
@@ -89,7 +168,28 @@
       "s": 56,
       "d": "NASA의 화성 탐사 로버 퍼서비어런스가 45.2km(28.10마일)를 주행하며 외계 천체 주행거리 역대 최고 기록을 세웠다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://www.sciencedaily.com/news/space_time/"
+    },
+    {
+      "t": "네타냐후, 美 중간선거 이후 이란 공습 재개 압박…가자지구 공습도 지속",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 82,
+      "d": "네타냐후 총리가 트럼프 대통령에게 미 중간선거 직후 이란 공습 재개를 압박했으며, 미국은 걸프 동맹국들에 새로운 충돌 가능성에 대비하라고 경고했다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://spectrumlocalnews.com/nc/triad/international/2026/11/02/netanyahu-pressing-trump-to-attack-iran-after-midterms-officials-say"
+    },
+    {
+      "t": "북한, 신형 클러스터탄두 순항미사일 시험…남북 긴장 고조",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 76,
+      "d": "북한이 신형 클러스터탄두를 장착한 전략순항미사일을 시험발사했으며, DMZ 지뢰 폭발 사건 이후 수 주째 남북 간 군사적 긴장이 단계적으로 고조되고 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.24newshd.tv/03-Nov-2026/pyongyang-blasts-fbi-allegations-test-fires-missiles"
     },
     {
       "t": "우크라이나·러시아 재난경보 앱 해킹, 허위 공습 경보 발송",
@@ -98,7 +198,18 @@
       "s": 70,
       "d": "우크라이나와 러시아의 재난경보 앱이 해킹되어 허위 공습 경보가 발송됐으며, 러시아 점령지 올레슈키의 휴전 만료 시점과 겹쳤다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
+    },
+    {
+      "t": "美, 남아공·르완다 AGOA 특혜관세 박탈…2027년부터 발효",
+      "c": "경제",
+      "ci": "📉",
+      "s": 60,
+      "d": "미국이 아프리카성장기회법(AGOA)에서 남아공과 르완다를 제외하기로 발표했으며, 2027년 1월 1일부터 양국은 일반 관세체계를 적용받게 된다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access"
     },
     {
       "t": "미국 2026 중간선거 최종 유세전",
@@ -107,7 +218,8 @@
       "s": 83,
       "d": "2026년 11월 3일 미국 중간선거를 하루 앞두고 트럼프 대통령과 밴스 부통령이 각각 아이오와와 오하이오에서 마지막 유세를 펼쳤다.",
       "fresh": "volatile",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
     }
   ],
   "predictions": [

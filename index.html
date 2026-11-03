@@ -122,12 +122,16 @@ const TIERS = [
 ];
 let activeCat = "전체";
 let ITEMS = [], PREDICTIONS = [];
+let aiPage = 0;
+const AI_PAGE_SIZE = 10;
 
 function scoreColor(s){ if (s>=80) return "#e0565a"; if (s>=70) return "#3f7fe0"; if (s>=60) return "#e0a23f"; return "#7a7a7a"; }
 
 function card(it){
   const col = scoreColor(it.s);
-  return `<div class="card">
+  const tag = it.url ? "a" : "div";
+  const attrs = it.url ? ` href="${it.url}" target="_blank" rel="noopener" style="display:block; text-decoration:none; color:inherit; cursor:pointer;"` : "";
+  return `<${tag} class="card"${attrs}>
     <div class="card-top">
       <div class="cicon" style="background:${col}22;">${it.ci || CATEGORY_ICON[it.c] || "🗂️"}</div>
       <div class="cat-label">${it.c}</div>
@@ -136,8 +140,8 @@ function card(it){
     <div class="card-title">${it.t}</div>
     <div class="card-desc">${it.d}</div>
     <div class="tagrow"><span class="tag">${it.c}</span><span class="tag">${it.fresh || "volatile"}</span></div>
-    <div class="card-foot">🕒 ${it.date || "오늘 수집"}</div>
-  </div>`;
+    <div class="card-foot">${it.url ? "🔗 출처로 이동" : `🕒 ${it.date || "오늘 수집"}`}</div>
+  </${tag}>`;
 }
 function predCard(p){
   const confColor = (p.conf||"").includes("낮") ? "#7a7a7a" : "#e0a23f";
@@ -154,34 +158,23 @@ function predCard(p){
   </div>`;
 }
 
-const AI_SOURCES = [
-  {t:"GeekNews (긱뉴스)", group:"국내", url:"https://news.hada.io/", ci:"🇰🇷", s:88, d:"오픈소스 프로젝트·논문·프레임워크 동향을 MECE하게 큐레이션하는 국내 최고 테크 커뮤니티. 아침 브리핑용 최적."},
-  {t:"Hugging Face Daily Papers", group:"해외", url:"https://huggingface.co/papers", ci:"🌍", s:90, d:"전 세계 AI 연구원들이 실시간으로 올리는 최신 모델·논문 트렌드. LLM/로컬 생성형 AI 최첨단 흐름 파악 필수."},
-  {t:"TLDR AI", group:"해외", url:"https://tldr.tech/ai", ci:"🌍", s:85, d:"매일 글로벌 AI 뉴스·오픈소스 도구·연구 결과를 5분 만에 읽는 무료 뉴스레터/웹사이트."},
-  {t:"OpenAI 연구 블로그", group:"공식 블로그", url:"https://openai.com/news/", ci:"🏢", s:83, d:"ChatGPT·o1 등 모델 업데이트, 프롬프팅 기술, 안전 가이드라인 원천 소스."},
-  {t:"Anthropic 뉴스룸", group:"공식 블로그", url:"https://www.anthropic.com/news", ci:"🏢", s:82, d:"Claude API 업데이트, 컨텍스트 윈도우 확장, 안전한 AI 에이전트 설계 기법."},
-  {t:"Google DeepMind 블로그", group:"공식 블로그", url:"https://deepmind.google/discover/blog/", ci:"🏢", s:81, d:"Gemini 엔진 기술 고도화, 멀티모달 연구 성과를 다루는 공식 사이트."},
-  {t:"Ben's Bites", group:"해외", url:"https://bensbites.com/", ci:"🌍", s:80, d:"가장 핫한 AI 프로덕트·기술 소식을 쉬운 언어로 위트 있게 요약."},
-  {t:"AI타임스", group:"국내", url:"https://www.aitimes.com/", ci:"🇰🇷", s:78, d:"국내외 빅테크 동향, 정부 정책, 산업별 AI 전환(AX) 뉴스를 다루는 국내 대표 AI 전문 언론사."},
-  {t:"ArXiv Sanity Preserver", group:"해외", url:"https://arxiv-sanity-lite.com/", ci:"🌍", s:74, d:"방대한 AI 논문 중 가장 주목받는 핵심 논문만 필터링해 순위별로 보여주는 무료 사이트."},
-  {t:"인공지능신문", group:"국내", url:"https://www.aitimes.kr/", ci:"🇰🇷", s:72, d:"글로벌 AI 모델 출시 소식, GPU/NPU 하드웨어 동향, 학술 연구 자료를 다루는 무료 기술 매체."},
-  {t:"한국인공지능협회 AI 정보포털", group:"국내", url:"https://report.koraia.org/", ci:"🇰🇷", s:65, d:"국내외 AI 비즈니스 소식, 학술 세미나, 기술 가이드를 실시간 피드로 제공."}
+const AI_ITEMS = [
+  {t:"GPT-6 Astra, 신경망 가중치를 직접 읽고 수정해 Qwen 성능 개선", c:"연구", ci:"🤖", s:75, d:"GPT-6 Astra가 학습 루프나 경사하강법 없이 신경망 가중치를 직접 읽고 수정·작성하는 초기 실험에서, 모델 동작 식별과 가중치 공간 프로그래밍으로 Qwen 성능을 개선해 AI가 다른 AI를 직접 개조하는 사례로 주목받았다.", fresh:"GeekNews", date:"2026-11-03", url:"https://news.hada.io/topic?id=36478"},
+  {t:"오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료", c:"산업", ci:"🤖", s:80, d:"OpenAI가 ChatGPT와 Codex의 사용량 쿼터를 하나로 통합하고 기존 Codex 앱을 1월 중 종료하기로 해, 개발자·구독자 요금 전반에 큰 영향을 주는 정책 변화다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216934"},
+  {t:"르쿤, 다른 AI가 같은 세상 이해하는 조건 증명…학습 샘플 42배 절감", c:"연구", ci:"🤖", s:81, d:"얀 르쿤(Meta)이 서로 다른 AI 모델들이 같은 세상을 이해하고 있다는 조건을 수학적으로 증명하고, 이를 활용해 학습에 필요한 샘플 수를 42배 줄였다고 발표해 학계의 큰 호평을 받았다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216943"},
+  {t:"엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구", c:"산업", ci:"🤖", s:78, d:"엔비디아가 전 세계 데이터센터·클라우드 고객사에 중국 기업 대상 서비스 비중을 49% 이하로 줄이도록 요구해, 반도체 수출통제에 따른 AI 공급망 재편 가능성이 커졌다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216969"},
+  {t:"Wave Forcing: Towards Speed-of-Light Streaming Video Generation", c:"논문", ci:"🌍", s:77, d:"SJTU DENG Lab의 실시간 스트리밍 비디오생성 논문이 Hugging Face Daily Papers 최상위에 오르며, 지연시간을 광속 수준으로 줄이는 연구자 생태계에서 많은 관심을 받았다.", fresh:"HuggingFace", date:"2026-11-03", url:"https://huggingface.co/papers/2611.00859"},
+  {t:"마벨, 루멘텀 154조원에 인수…AI 데이터센터 광통신 강화", c:"산업", ci:"🤖", s:73, d:"마벨 테크놀로지가 광통신 부품업체 루멘텀을 1150억달러(약 154조원)에 인수해, AI 데이터센터 광통신 인프라 경쟁이 가속될 전망이다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216952"},
+  {t:"CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements", c:"논문", ci:"🌍", s:68, d:"컴퓨터 사용 에이전트(CUA)를 오픈월드 환경에서 재귀적으로 확장하는 방법을 다룬 논문이 Hugging Face Daily Papers에 올라, 에이전트 연구 커뮤니티에서 주목받는 주제다.", fresh:"HuggingFace", date:"2026-11-03", url:"https://huggingface.co/papers/2611.03126"},
+  {t:"오픈AI, 웹사이트의 AI 학습 선호 표현을 쉽게 만듦", c:"정책", ci:"🏢", s:65, d:"OpenAI가 웹사이트 운영자가 자사 콘텐츠의 AI 학습 허용 여부를 표현할 수 있는 도구를 개선해, 저작권·AI 학습 동의 관련 마찰을 줄이려는 정책적 움직임이다.", fresh:"OpenAI", date:"2026-10-30", url:"https://openai.com/index/helping-websites-express-ai-training-preferences/"},
+  {t:"국가 슈퍼컴 6호기 '한강' 가동…칩 1.8만개 탑재 세계 10위권 기대", c:"인프라", ci:"🤖", s:70, d:"국가 슈퍼컴퓨터 6호기 '한강'이 GPU 1만8천개를 탑재해 12월 14일 정식 서비스를 시작하며, 전세계 상위 10위권 진입이 기대된다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216948"},
+  {t:"Scaling Git at OpenAI", c:"엔지니어링", ci:"🏢", s:58, d:"OpenAI가 대규모 코드베이스를 위한 Git 인프라 확장 경험을 공개 공유해, 엔지니어링 조직에서 참고할 만한 내용이다.", fresh:"OpenAI", date:"2026-11-02", url:"https://openai.com/index/scaling-git-at-openai/"},
+  {t:"구글, 1년 만에 AI 성능평가 1위 탈환…'제미나이 4 카본' 출시", c:"산업", ci:"🤖", s:86, d:"구글이 벤치마크 1위를 1년 만에 재탈환한 '제미나이 4 카본'을 공개해, 오픈AI·앤트로픽과의 모델 성능 경쟁이 다시 뜨거워졌다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216768"},
+  {t:"중국 AI 거품 붕괴 가속…기술주 시총 640조 증발", c:"경제", ci:"🤖", s:84, d:"중국 AI 관련 기술주의 거품 붕괴가 가속화되며 시가총액 640조원이 증발해, AI 투자 과열에 대한 경고 신호로 해석된다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216748"},
+  {t:"앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지", c:"산업", ci:"🤖", s:79, d:"앤트로픽이 사용량 안내 혼선에 대응해 요금제를 개편하고 기존 5시간 사용 제한을 폐지해, Claude 구독자 경험에 직접 영향을 준다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216846"},
+  {t:"딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축", c:"연구", ci:"🤖", s:75, d:"딥시크가 코딩 전용 슈퍼 에이전트를 공개해, 6개월이라는 짧은 기간에 선두 모델 추격 기반을 구축했다는 평가를 받는다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216865"},
+  {t:"구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개", c:"연구", ci:"🤖", s:72, d:"구글이 음성 입력과 실시간 편집 기능을 갖춘 월드모델 '지니 4'를 공개해, 멀티모달 생성형 AI 경쟁의 새 축을 열었다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216731"}
 ];
-
-function aiCard(it){
-  const col = scoreColor(it.s);
-  return `<a class="card" href="${it.url}" target="_blank" rel="noopener" style="display:block; text-decoration:none; color:inherit;">
-    <div class="card-top">
-      <div class="cicon" style="background:${col}22;">${it.ci}</div>
-      <div class="cat-label">${it.group}</div>
-      <div class="score-badge" style="background:${col}22;color:${col};">${it.s}</div>
-    </div>
-    <div class="card-title">${it.t}</div>
-    <div class="card-desc">${it.d}</div>
-    <div class="tagrow"><span class="tag">${it.group}</span><span class="tag">무료</span></div>
-    <div class="card-foot">🔗 ${it.url}</div>
-  </a>`;
-}
 
 function renderNav(){
   const nav = document.getElementById("navtabs");
@@ -192,14 +185,26 @@ function renderNav(){
 function renderBoard(){
   let html = "";
   if (activeCat === "AI소식") {
-    TIERS.forEach(tier => {
-      const items = AI_SOURCES.filter(i => i.s >= tier.range[0] && i.s <= tier.range[1]).sort((a,b)=>b.s-a.s);
-      html += `<div class="col">
-        <div class="colhead"><span class="dot" style="background:${tier.color}"></span>${tier.label} <span class="colcount">${items.length}</span></div>
-        ${items.length ? items.map(aiCard).join("") : '<div class="empty">해당 구간 소스 없음</div>'}
-      </div>`;
-    });
+    const sorted = [...AI_ITEMS].sort((a,b)=>b.s-a.s);
+    const totalPages = Math.max(1, Math.ceil(sorted.length / AI_PAGE_SIZE));
+    if (aiPage > totalPages - 1) aiPage = totalPages - 1;
+    if (aiPage < 0) aiPage = 0;
+    const start = aiPage * AI_PAGE_SIZE;
+    const pageItems = sorted.slice(start, start + AI_PAGE_SIZE);
+    html = `<div class="col" style="width:100%; max-width:920px;">
+      <div class="colhead"><span class="dot" style="background:#3f7fe0"></span>콘텐츠 평가 (사이트 자체는 평가 대상 아님) <span class="colcount">${sorted.length}건 중 ${start+1}-${start+pageItems.length}</span></div>
+      <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">${pageItems.map(card).join("")}</div>
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-top:10px; padding:0 2px;">
+        <button id="aiPrevBtn" ${aiPage===0?'disabled':''} style="padding:6px 14px; border-radius:8px; border:1px solid var(--border); background:var(--card); color:var(--foreground); cursor:pointer; font-size:12px; opacity:${aiPage===0?'0.4':'1'};">← 이전 페이지</button>
+        <span style="font-size:12px; color:var(--muted-foreground);">${aiPage+1} / ${totalPages} 페이지</span>
+        <button id="aiNextBtn" ${aiPage>=totalPages-1?'disabled':''} style="padding:6px 14px; border-radius:8px; border:1px solid var(--border); background:var(--card); color:var(--foreground); cursor:pointer; font-size:12px; opacity:${aiPage>=totalPages-1?'0.4':'1'};">다음 페이지 →</button>
+      </div>
+    </div>`;
     document.getElementById("board").innerHTML = html;
+    const prevBtn = document.getElementById("aiPrevBtn");
+    const nextBtn = document.getElementById("aiNextBtn");
+    if (prevBtn) prevBtn.onclick = () => { if (aiPage > 0) { aiPage--; renderBoard(); } };
+    if (nextBtn) nextBtn.onclick = () => { if (aiPage < totalPages - 1) { aiPage++; renderBoard(); } };
     return;
   }
   if (activeCat === "예측") {
