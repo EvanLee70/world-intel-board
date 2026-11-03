@@ -164,31 +164,32 @@ function predCard(p){
   </div>`;
 }
 
-const SOURCES = {
-  "국내": [
-    {name:"GeekNews (긱뉴스)", url:"https://news.hada.io/", desc:"오픈소스 프로젝트·논문·프레임워크 동향을 MECE하게 큐레이션하는 국내 최고 테크 커뮤니티. 아침 브리핑용 최적."},
-    {name:"AI타임스", url:"https://www.aitimes.com/", desc:"국내외 빅테크 동향, 정부 정책, 산업별 AI 전환(AX) 뉴스를 다루는 국내 대표 AI 전문 언론사."},
-    {name:"인공지능신문", url:"https://www.aitimes.kr/", desc:"글로벌 AI 모델 출시 소식, GPU/NPU 하드웨어 동향, 학술 연구 자료를 다루는 무료 기술 매체."},
-    {name:"한국인공지능협회 AI 정보포털", url:"https://report.koraia.org/", desc:"국내외 AI 비즈니스 소식, 학술 세미나, 기술 가이드를 실시간 피드로 제공."}
-  ],
-  "해외": [
-    {name:"Hugging Face Daily Papers", url:"https://huggingface.co/papers", desc:"전 세계 AI 연구원들이 실시간으로 올리는 최신 모델·논문 트렌드. LLM/로컬 생성형 AI 최첨단 흐름 파악 필수."},
-    {name:"TLDR AI", url:"https://tldr.tech/ai", desc:"매일 글로벌 AI 뉴스·오픈소스 도구·연구 결과를 5분 만에 읽는 무료 뉴스레터/웹사이트."},
-    {name:"Ben's Bites", url:"https://bensbites.com/", desc:"가장 핫한 AI 프로덕트·기술 소식을 쉬운 언어로 위트 있게 요약."},
-    {name:"ArXiv Sanity Preserver", url:"https://arxiv-sanity-lite.com/", desc:"방대한 AI 논문 중 가장 주목받는 핵심 논문만 필터링해 순위별로 보여주는 무료 사이트."}
-  ],
-  "공식 블로그": [
-    {name:"OpenAI 연구 블로그", url:"https://openai.com/news/", desc:"ChatGPT·o1 등 모델 업데이트, 프롬프팅 기술, 안전 가이드라인 원천 소스."},
-    {name:"Anthropic 뉴스룸", url:"https://www.anthropic.com/news", desc:"Claude API 업데이트, 컨텍스트 윈도우 확장, 안전한 AI 에이전트 설계 기법."},
-    {name:"Google DeepMind 블로그", url:"https://deepmind.google/discover/blog/", desc:"Gemini 엔진 기술 고도화, 멀티모달 연구 성과를 다루는 공식 사이트."}
-  ]
-};
+const AI_SOURCES = [
+  {t:"GeekNews (긱뉴스)", group:"국내", url:"https://news.hada.io/", ci:"🇰🇷", s:88, d:"오픈소스 프로젝트·논문·프레임워크 동향을 MECE하게 큐레이션하는 국내 최고 테크 커뮤니티. 아침 브리핑용 최적."},
+  {t:"Hugging Face Daily Papers", group:"해외", url:"https://huggingface.co/papers", ci:"🌍", s:90, d:"전 세계 AI 연구원들이 실시간으로 올리는 최신 모델·논문 트렌드. LLM/로컬 생성형 AI 최첨단 흐름 파악 필수."},
+  {t:"TLDR AI", group:"해외", url:"https://tldr.tech/ai", ci:"🌍", s:85, d:"매일 글로벌 AI 뉴스·오픈소스 도구·연구 결과를 5분 만에 읽는 무료 뉴스레터/웹사이트."},
+  {t:"OpenAI 연구 블로그", group:"공식 블로그", url:"https://openai.com/news/", ci:"🏢", s:83, d:"ChatGPT·o1 등 모델 업데이트, 프롬프팅 기술, 안전 가이드라인 원천 소스."},
+  {t:"Anthropic 뉴스룸", group:"공식 블로그", url:"https://www.anthropic.com/news", ci:"🏢", s:82, d:"Claude API 업데이트, 컨텍스트 윈도우 확장, 안전한 AI 에이전트 설계 기법."},
+  {t:"Google DeepMind 블로그", group:"공식 블로그", url:"https://deepmind.google/discover/blog/", ci:"🏢", s:81, d:"Gemini 엔진 기술 고도화, 멀티모달 연구 성과를 다루는 공식 사이트."},
+  {t:"Ben's Bites", group:"해외", url:"https://bensbites.com/", ci:"🌍", s:80, d:"가장 핫한 AI 프로덕트·기술 소식을 쉬운 언어로 위트 있게 요약."},
+  {t:"AI타임스", group:"국내", url:"https://www.aitimes.com/", ci:"🇰🇷", s:78, d:"국내외 빅테크 동향, 정부 정책, 산업별 AI 전환(AX) 뉴스를 다루는 국내 대표 AI 전문 언론사."},
+  {t:"ArXiv Sanity Preserver", group:"해외", url:"https://arxiv-sanity-lite.com/", ci:"🌍", s:74, d:"방대한 AI 논문 중 가장 주목받는 핵심 논문만 필터링해 순위별로 보여주는 무료 사이트."},
+  {t:"인공지능신문", group:"국내", url:"https://www.aitimes.kr/", ci:"🇰🇷", s:72, d:"글로벌 AI 모델 출시 소식, GPU/NPU 하드웨어 동향, 학술 연구 자료를 다루는 무료 기술 매체."},
+  {t:"한국인공지능협회 AI 정보포털", group:"국내", url:"https://report.koraia.org/", ci:"🇰🇷", s:65, d:"국내외 AI 비즈니스 소식, 학술 세미나, 기술 가이드를 실시간 피드로 제공."}
+];
 
-function srcCard(s){
-  return `<a class="src-card" href="${s.url}" target="_blank" rel="noopener">
-    <div class="src-name">${s.name}</div>
-    <div class="src-desc">${s.desc}</div>
-    <div class="src-url">${s.url}</div>
+function aiCard(it){
+  const col = scoreColor(it.s);
+  return `<a class="card" href="${it.url}" target="_blank" rel="noopener" style="display:block; text-decoration:none; color:inherit;">
+    <div class="card-top">
+      <div class="cicon" style="background:${col}22;">${it.ci}</div>
+      <div class="cat-label">${it.group}</div>
+      <div class="score-badge" style="background:${col}22;color:${col};">${it.s}</div>
+    </div>
+    <div class="card-title">${it.t}</div>
+    <div class="card-desc">${it.d}</div>
+    <div class="tagrow"><span class="tag">${it.group}</span><span class="tag">무료</span></div>
+    <div class="card-foot">🔗 ${it.url}</div>
   </a>`;
 }
 
@@ -201,10 +202,13 @@ function renderNav(){
 function renderBoard(){
   let html = "";
   if (activeCat === "AI소식") {
-    html = Object.keys(SOURCES).map(group => `<div class="src-col">
-      <div class="colhead"><span class="dot" style="background:#2f6fed"></span>${group} <span class="colcount">${SOURCES[group].length}</span></div>
-      ${SOURCES[group].map(srcCard).join("")}
-    </div>`).join("");
+    TIERS.forEach(tier => {
+      const items = AI_SOURCES.filter(i => i.s >= tier.range[0] && i.s <= tier.range[1]).sort((a,b)=>b.s-a.s);
+      html += `<div class="col">
+        <div class="colhead"><span class="dot" style="background:${tier.color}"></span>${tier.label} <span class="colcount">${items.length}</span></div>
+        ${items.length ? items.map(aiCard).join("") : '<div class="empty">해당 구간 소스 없음</div>'}
+      </div>`;
+    });
     document.getElementById("board").innerHTML = html;
     return;
   }
