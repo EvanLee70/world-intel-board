@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World Intel Board</title>
+<style>
+  :root {
+    --foreground:#14151a; --muted-foreground:#70737c; --accent:#2f6fed;
+    --border:#e7e8ec; --card:#ffffff; --bg:#f4f5f8;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin:0; padding:0; background: var(--bg); }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Pretendard, Roboto, sans-serif;
+    color: var(--foreground);
+  }
+  .app { max-width: 1460px; margin: 0 auto; padding: 20px 16px 40px 16px; }
+
+  .navbar {
+    display:flex; align-items:center; justify-content:space-between;
+    padding: 12px 18px; border:1px solid var(--border); border-radius: 14px;
+    background: var(--card); margin-bottom: 14px;
+  }
+  .brand { display:flex; align-items:center; gap:10px; font-weight:800; font-size:15px; }
+  .brand .logo {
+    width:28px; height:28px; border-radius:8px; background: var(--accent);
+    display:flex; align-items:center; justify-content:center; font-size:15px;
+  }
+  .navtabs { display:flex; gap:18px; font-size:12.5px; color: var(--muted-foreground); flex-wrap:wrap; }
+  .navtabs span { cursor:pointer; padding-bottom:2px; white-space:nowrap; }
+  .navtabs .active { color: var(--foreground); font-weight:700; border-bottom:2px solid var(--accent); }
+  .navright { display:flex; align-items:center; gap:10px; }
+  .iconbtn {
+    width:30px; height:30px; border-radius:8px; border:1px solid var(--border);
+    display:flex; align-items:center; justify-content:center; font-size:13px; color:var(--muted-foreground);
+  }
+
+  .pagehead { display:flex; justify-content:space-between; align-items:flex-end; margin: 4px 6px 14px 6px; flex-wrap:wrap; gap:10px; }
+  .pagehead h1 { font-size:24px; margin:0 0 4px 0; font-weight:800; }
+  .pagehead .sub { font-size:12.5px; color: var(--muted-foreground); }
+  .pill {
+    font-size:12px; padding:7px 14px; border-radius:9px; border:1px solid var(--border);
+    background:var(--card); color:var(--foreground); display:flex; align-items:center; gap:6px;
+  }
+
+  .toolbar {
+    display:flex; justify-content:space-between; align-items:center;
+    margin: 0 6px 14px 6px; padding-bottom: 10px; border-bottom:1px solid var(--border);
+  }
+  .toolright { display:flex; gap:14px; font-size:12px; color: var(--muted-foreground); }
+
+  .board { display:flex; gap:14px; align-items:flex-start; overflow-x:auto; padding-bottom:10px; }
+  .col { width: 268px; flex-shrink:0; }
+  .colhead { display:flex; align-items:center; gap:7px; padding: 4px 6px 10px 6px; font-size:13px; font-weight:700; }
+  .dot { width:9px; height:9px; border-radius:50%; }
+  .colcount { color: var(--muted-foreground); font-weight:600; margin-left:2px; }
+
+  .card {
+    background: var(--card); border:1px solid var(--border); border-radius:12px;
+    padding:12px 13px; margin-bottom:10px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  }
+  .card-top { display:flex; align-items:center; gap:7px; margin-bottom:7px; }
+  .cicon { width:20px; height:20px; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:11px; }
+  .cat-label { font-size:11px; color: var(--muted-foreground); font-weight:600; }
+  .score-badge { margin-left:auto; font-size:11px; font-weight:800; padding:2px 8px; border-radius:7px; }
+  .card-title { font-size:13px; font-weight:700; line-height:1.35; margin-bottom:6px; }
+  .card-desc { font-size:11.5px; color: var(--muted-foreground); line-height:1.5; margin-bottom:9px;
+    display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+  .tagrow { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:8px; }
+  .tag { font-size:9.5px; font-weight:700; padding:3px 7px; border-radius:5px; background: var(--border); color: var(--foreground); opacity:0.85; }
+  .card-foot { font-size:10.5px; color: var(--muted-foreground); display:flex; align-items:center; gap:4px; }
+  .pred-card .card-desc { -webkit-line-clamp:5; }
+  .conf-badge { font-size:10px; font-weight:700; padding:3px 8px; border-radius:7px; }
+  .empty { padding:10px 4px; font-size:11px; color: var(--muted-foreground); }
+  .footer { text-align:center; font-size:11px; color: var(--muted-foreground); margin-top:18px; }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <div class="navbar">
+    <div class="brand"><div class="logo">🌐</div> World Intel</div>
+    <div class="navtabs" id="navtabs"></div>
+    <div class="navright">
+      <div class="iconbtn">🔄</div>
+      <div class="iconbtn">☀️</div>
+    </div>
+  </div>
+
+  <div class="pagehead">
+    <div>
+      <h1>World Intel Board</h1>
+      <div class="sub" id="subline">Bot1 수집 → Bot2 배치 → Bot3 예측, 점수 구간별 칸반 보드</div>
+    </div>
+    <div class="pill">📅 <span id="dateval">-</span></div>
+  </div>
+
+  <div class="toolbar">
+    <div></div>
+    <div class="toolright"><span id="statline"></span></div>
+  </div>
+
+  <div class="board" id="board"></div>
+  <div class="footer">source: wiki/world/* · _ops/world_intel · 매일 자동 수집·배치·예측</div>
+</div>
+
+<script>
+const CATEGORY_ICON = {"정치":"🏛️","경제":"📉","기술":"🤖","과학":"🧬","사회":"✊","국제":"🌐","환경":"🌍","문화":"🎬"};
+const CATEGORIES = [
+  {key:"전체", icon:"🗂️"}, {key:"정치", icon:"🏛️"}, {key:"경제", icon:"📉"},
+  {key:"기술", icon:"🤖"}, {key:"과학", icon:"🧬"}, {key:"사회", icon:"✊"},
+  {key:"국제", icon:"🌐"}, {key:"환경", icon:"🌍"}, {key:"문화", icon:"🎬"}, {key:"예측", icon:"🔮"},
+];
+const TIERS = [
+  {label:"Top 점수", range:[80,100], color:"#e0565a"},
+  {label:"High", range:[70,79], color:"#3f7fe0"},
+  {label:"Medium", range:[60,69], color:"#e0a23f"},
+  {label:"Low", range:[0,59], color:"#7a7a7a"},
+];
+let activeCat = "전체";
+let ITEMS = [], PREDICTIONS = [];
+
+function scoreColor(s){ if (s>=80) return "#e0565a"; if (s>=70) return "#3f7fe0"; if (s>=60) return "#e0a23f"; return "#7a7a7a"; }
+
+function card(it){
+  const col = scoreColor(it.s);
+  return `<div class="card">
+    <div class="card-top">
+      <div class="cicon" style="background:${col}22;">${it.ci || CATEGORY_ICON[it.c] || "🗂️"}</div>
+      <div class="cat-label">${it.c}</div>
+      <div class="score-badge" style="background:${col}22;color:${col};">${it.s}</div>
+    </div>
+    <div class="card-title">${it.t}</div>
+    <div class="card-desc">${it.d}</div>
+    <div class="tagrow"><span class="tag">${it.c}</span><span class="tag">${it.fresh || "volatile"}</span></div>
+    <div class="card-foot">🕒 ${it.date || "오늘 수집"}</div>
+  </div>`;
+}
+function predCard(p){
+  const confColor = (p.conf||"").includes("낮") ? "#7a7a7a" : "#e0a23f";
+  return `<div class="card pred-card">
+    <div class="card-top">
+      <div class="cicon" style="background:${confColor}22;">🔮</div>
+      <div class="cat-label">예측</div>
+      <div class="conf-badge" style="background:${confColor}22;color:${confColor};margin-left:auto;">${p.conf}</div>
+    </div>
+    <div class="card-title">${p.t}</div>
+    <div class="card-desc">${p.d}</div>
+    <div class="tagrow"><span class="tag">연관강도 ${p.strength}</span></div>
+    <div class="card-foot">🧠 Bot3 상호연관성 분석</div>
+  </div>`;
+}
+
+function renderNav(){
+  const nav = document.getElementById("navtabs");
+  nav.innerHTML = CATEGORIES.map(c => `<span class="${c.key===activeCat?'active':''}" data-cat="${c.key}">${c.icon} ${c.key}</span>`).join("");
+  nav.querySelectorAll("span").forEach(el => el.onclick = () => { activeCat = el.dataset.cat; renderNav(); renderBoard(); });
+}
+
+function renderBoard(){
+  let html = "";
+  if (activeCat === "예측") {
+    html = `<div class="col" style="width:340px;">
+      <div class="colhead"><span class="dot" style="background:#8a5fe0"></span>Predictions <span class="colcount">${PREDICTIONS.length}</span></div>
+      ${PREDICTIONS.length ? PREDICTIONS.map(predCard).join("") : '<div class="empty">예측 없음</div>'}
+    </div>`;
+    document.getElementById("board").innerHTML = html;
+    return;
+  }
+  const base = activeCat === "전체" ? ITEMS : ITEMS.filter(i => i.c === activeCat);
+  TIERS.forEach(tier => {
+    const items = base.filter(i => i.s >= tier.range[0] && i.s <= tier.range[1]).sort((a,b)=>b.s-a.s);
+    html += `<div class="col">
+      <div class="colhead"><span class="dot" style="background:${tier.color}"></span>${tier.label} <span class="colcount">${items.length}</span></div>
+      ${items.length ? items.map(card).join("") : '<div class="empty">해당 구간 항목 없음</div>'}
+    </div>`;
+  });
+  if (activeCat === "전체") {
+    html += `<div class="col">
+      <div class="colhead"><span class="dot" style="background:#8a5fe0"></span>Predictions <span class="colcount">${PREDICTIONS.length}</span></div>
+      ${PREDICTIONS.length ? PREDICTIONS.map(predCard).join("") : '<div class="empty">예측 없음</div>'}
+    </div>`;
+  }
+  document.getElementById("board").innerHTML = html;
+}
+
+fetch("./data.json?_=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    ITEMS = data.items || [];
+    PREDICTIONS = data.predictions || [];
+    document.getElementById("dateval").textContent = data.generated_at || "-";
+    const avg = ITEMS.length ? (ITEMS.reduce((a,b)=>a+b.s,0)/ITEMS.length).toFixed(1) : "0";
+    document.getElementById("statline").textContent = `${ITEMS.length}건 수집 · 평균 ${avg}점 · 예측 ${PREDICTIONS.length}건`;
+    renderNav();
+    renderBoard();
+  })
+  .catch(e => {
+    document.getElementById("board").innerHTML = '<div class="empty">데이터 로드 실패: ' + e + '</div>';
+  });
+</script>
+</body>
+</html>
