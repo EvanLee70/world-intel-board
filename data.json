@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 13:20",
+  "generated_at": "2026-11-03 14:04",
   "items": [
     {
       "t": "美 스타트업, AI가 설계한 바이러스 세계 최초 인체 투여",
@@ -112,6 +112,16 @@
       "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
     },
     {
+      "t": "유럽 슈퍼마켓 냉장고 2차 사이버공격…벨기에·스웨덴·이탈리아 식품 손실",
+      "c": "사회",
+      "ci": "✊",
+      "s": 77,
+      "d": "프랑스에서 발생한 첫 공격 이후 수 주 만에 벨기에·스웨덴·이탈리아 슈퍼마켓 냉장·냉동 시스템이 다시 해킹당해 온도가 50도까지 올라가며 식품 손실이 발생했다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+    },
+    {
       "t": "유럽 전역 청년층, 교육 예산 부족·생활비 상승에 항의 시위",
       "c": "사회",
       "ci": "✊",
@@ -150,6 +160,16 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://furtherandbetter.substack.com/p/global-tv-film-and-media-industry-87b"
+    },
+    {
+      "t": "이란, 美 요구 수용 시 호르무즈 해협 이틀 내 재개방 제안",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 74,
+      "d": "이란 외교부가 미국이 제재 해제·자산 동결 해제 요구를 수용하면 호르무즈 해협을 기존 제안보다 빠른 이틀 내에 재개방할 수 있다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.arabnews.jp/en/middle-east/iran-says-strait-of-hormuz-could-reopen-within-two-days-if-us-meets-its-demands-3001221"
     },
     {
       "t": "마이크로소프트, AI 재편 속 직원 6만 명 희망퇴직 제안",
@@ -192,6 +212,26 @@
       "url": "https://www.24newshd.tv/03-Nov-2026/pyongyang-blasts-fbi-allegations-test-fires-missiles"
     },
     {
+      "t": "북한, 바이낸스 63억달러 해킹 배후설에 \\\"터무니없는 궤변\\\" 반박",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 73,
+      "d": "북한이 김여정 명의 담화를 통해 미국의 바이낸스 63억달러 해킹 배후 지목을 '터무니없는 궤변'이라며 부인했다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist"
+    },
+    {
+      "t": "러시아, 자포리자 피난·구호시설 공습으로 최소 29명 사망…美 중간선거와 겹친 대규모 공습",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 86,
+      "d": "러시아가 드론·미사일 365기를 동원한 대규모 공습을 가하며 자포리자 지역 피난·구호시설을 폭격해 최소 29명이 숨지고 48명이 실종됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+    },
+    {
       "t": "우크라이나·러시아 재난경보 앱 해킹, 허위 공습 경보 발송",
       "c": "국제",
       "ci": "🌐",
@@ -215,7 +255,7 @@
       "t": "미국 2026 중간선거 최종 유세전",
       "c": "정치",
       "ci": "🏛️",
-      "s": 83,
+      "s": 85,
       "d": "2026년 11월 3일 미국 중간선거를 하루 앞두고 트럼프 대통령과 밴스 부통령이 각각 아이오와와 오하이오에서 마지막 유세를 펼쳤다.",
       "fresh": "volatile",
       "date": "2026-11-03",
