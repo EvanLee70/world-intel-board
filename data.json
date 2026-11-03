@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 17:05",
+  "generated_at": "2026-11-03 18:48",
   "items": [
     {
       "t": "美 스타트업, AI가 설계한 바이러스 세계 최초 인체 투여",
@@ -62,6 +62,16 @@
       "url": "https://finwire.io/news/economy-news/canadian-manufacturing-contracts-for-first-time-in-2026-as-tariffs-hit-demand"
     },
     {
+      "t": "중국 청정기술 수출 사상 최대…CREA, 생애주기 84억톤 CO₂ 감축 추산",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 75,
+      "d": "CREA 분석에 따르면 2026년 중국의 사상 최대 청정기술 수출이 장비 수명 전체로 약 84억톤, 연간 약 4.5억톤의 CO₂ 배출을 줄일 전망이며 EV 수출은 61% 급증했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.euronews.com/2026/11/02/chinas-record-breaking-clean-tech-exports-could-cut-co2-emissions-by-8400-million-tonnes-r"
+    },
+    {
       "t": "중국 제조업 PMI 49.3으로 위축",
       "c": "경제",
       "ci": "📉",
@@ -70,6 +80,16 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi"
+    },
+    {
+      "t": "중국 희토류 수출통제 유예 11월 10일 만료…0.1% 역외적용 조항 발효 임박",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 92,
+      "d": "중국이 2025년 11월 1년간 유예한 희토류 수출통제 2차 조항이 2026년 11월 10일 만료되며, 중국산 희토류를 0.1%만 포함해도 해외 반도체·방산 기업을 규제 대상으로 끌어들이는 역외적용 조항이 발효될 전망이다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.technology.org/2026/10/19/china-rare-earth-export-pause-november-10/"
     },
     {
       "t": "민주당, 조희대 대법원장 국정조사 추진…헌정사 첫 사례",
@@ -172,6 +192,26 @@
       "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
     },
     {
+      "t": "한진칼 경영권 분쟁 재점화…이틀 연속 급등 끝에 상한가",
+      "c": "경제",
+      "ci": "📉",
+      "s": 92,
+      "d": "호반그룹이 한진칼 최대주주에 올랐을 가능성이 제기되고 조원태 회장이 370억원 추가 매입에 나서면서 한진칼 주가가 11월 2일 16.30%, 3일 29.97% 상한가로 이틀 연속 급등했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://biz.heraldcorp.com/article/10924017"
+    },
+    {
+      "t": "한양증권 해킹…그룹웨어 '다우오피스' 경유, 증권업계 세 번째 유출",
+      "c": "사회",
+      "ci": "✊",
+      "s": 75,
+      "d": "한양증권이 업무용 그룹웨어 다우오피스를 통한 해킹으로 고객정보 15건 등 31건의 개인정보를 유출당했으며, 대신증권·미래에셋자산운용에 이어 금융투자업권 세 번째 사고다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.news1.kr/finance/general-stock/6340688"
+    },
+    {
       "t": "삼성전자, 내년 HBM4 완판…메모리 공급부족 2028년까지 지속 전망",
       "c": "경제",
       "ci": "📉",
@@ -202,6 +242,16 @@
       "url": "https://www.arabnews.jp/en/middle-east/iran-says-strait-of-hormuz-could-reopen-within-two-days-if-us-meets-its-demands-3001221"
     },
     {
+      "t": "킴벌리클라크, 타이레놀 제조사 켄뷰 487억 달러 인수…KMB 14% 급락",
+      "c": "경제",
+      "ci": "📉",
+      "s": 75,
+      "d": "킴벌리클라크가 켄뷰를 기업가치 487억 달러에 현금·주식 혼합으로 인수하며 거래를 종결했으나, 탈크·타이레놀 소송 리스크 승계 우려로 킴벌리클라크 주가는 14% 넘게 하락하고 켄뷰는 12% 상승했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html"
+    },
+    {
       "t": "코스피 3.59%·코스닥 4.08% 급락…AI 거품론 속 반도체주 동반 붕괴",
       "c": "경제",
       "ci": "📉",
@@ -220,6 +270,16 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.khan.co.kr/article/202611031838001/"
+    },
+    {
+      "t": "LHCb, 42년 탐색 끝에 최희귀 붕괴 'Bd→μμ' 첫 증거 확보",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 58,
+      "d": "CERN LHCb 실험이 100억 개 중 1개에서만 일어나는 뷰티 입자 붕괴 Bd→μμ의 첫 증거를 3.2 시그마 유의도로 확보해 42년 탐색에 분기점을 만들었다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://news.liverpool.ac.uk/2026/11/03/university-of-liverpool-detector-helps-scientists-uncover-evidence-of-rarest-particle-decay-after-42-year-search/"
     },
     {
       "t": "마이크로소프트, AI 재편 속 직원 6만 명 희망퇴직 제안",
@@ -280,6 +340,16 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://dealroom.co/news/168755-abu-dhabi-wants-to-be-the-worlds-first-ai-native-government-and-openai-i/"
+    },
+    {
+      "t": "우크라이나·러시아, 11월 10~11일 아부다비서 美 중재 3자 협상",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 87,
+      "d": "미국 특사 위트코프가 우크라이나와 러시아 대표단이 11월 10~11일 아부다비에서 미국 중재로 전후 안전보장·긴장완화를 논의한다고 발표했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
     },
     {
       "t": "러시아, 자포리자 피난·구호시설 공습으로 사망자 33명으로 증가…美 중간선거와 겹친 대규모 공습",
@@ -365,9 +435,21 @@
   "predictions": [
     {
       "t": "AI 산업 거품론과 세계경제 둔화 심화 전망",
-      "d": "AI 투자 거품 논란, 앤트로픽 IPO, 마이크로소프트 구조조정, 중국 제조업 위축이 겹치며 AI 산업과 세계 경제의 추가 둔화 가능성을 예측한다.",
+      "d": "AI 투자 거품 논란, 앤트로픽 IPO, 마이크로소프트 구조조정, 중국 제조업 위축, 골드만삭스의 AI 코딩툴 차단이 겹치며 AI 산업과 세계 경제의 추가 둔화 가능성을 예측한다.",
       "conf": "중간",
-      "strength": 0.9
+      "strength": 1.0
+    },
+    {
+      "t": "AI 인프라 자본 약정 확대와 메모리 공급 병목 심화 전망",
+      "d": "OpenAI의 걸프 자본 유치, 앤트로픽의 8,950억 달러 컴퓨팅 약정, 삼성전자의 HBM4 완판이 겹치며 AI 증설 경쟁이 메모리·전력 공급 병목으로 이어질 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.8
+    },
+    {
+      "t": "사이버 공격 표적의 물리·공공 인프라 확산 전망",
+      "d": "유럽 슈퍼마켓 냉장설비 2차 해킹, 재난경보 앱 해킹, 바이낸스 63억 달러 탈취, 대통령 전용기 탑승자 정보 노출이 겹치며 공격 표적이 물리 설비와 공공 시스템으로 확산될 가능성을 전망한다.",
+      "conf": "낮음~중간",
+      "strength": 0.8
     },
     {
       "t": "유럽 재정위기와 청년층 불만 확산 전망",
