@@ -15,115 +15,150 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Pretendard, Roboto, sans-serif;
     color: var(--foreground);
   }
-  .app { max-width: 1100px; margin: 0 auto; padding: 20px 16px 40px 16px; }
+  .app { width:100%; margin:0; padding: 10px 8px 24px 8px; }
 
-  .navbar {
-    display:flex; align-items:center; justify-content:space-between;
-    padding: 12px 18px; border:1px solid var(--border); border-radius: 14px;
-    background: var(--card); margin-bottom: 14px;
+  .shell { display:flex; gap:10px; align-items:flex-start; }
+
+  /* ---------------- LEFT SIDEBAR ---------------- */
+  .sidebar {
+    width: 200px; flex-shrink:0; display:flex; flex-direction:column; gap:8px;
   }
-  .brand { display:flex; align-items:center; gap:10px; font-weight:800; font-size:15px; }
-  .brand .logo {
-    width:28px; height:28px; border-radius:8px; overflow:hidden; flex-shrink:0;
+  .brandbox {
+    display:flex; align-items:center; gap:10px; padding: 14px 12px;
+    border:1px solid var(--border); border-radius: 14px; background: var(--card);
+  }
+  .brandbox .logo {
+    width:34px; height:34px; border-radius:9px; overflow:hidden; flex-shrink:0;
     display:flex; align-items:center; justify-content:center;
   }
-  .brand .logo img { width:100%; height:100%; object-fit:cover; display:block; }
-  .brand .brand-text { font-size:28px; font-weight:800; line-height:1; }
-  .navtabs { display:flex; gap:18px; font-size:12.5px; color: var(--muted-foreground); flex-wrap:wrap; }
-  .navtabs span { cursor:pointer; padding-bottom:2px; white-space:nowrap; }
-  .navtabs .active { color: var(--foreground); font-weight:700; border-bottom:2px solid var(--accent); }
-  .navright { display:flex; align-items:center; gap:10px; }
-  .iconbtn {
-    width:30px; height:30px; border-radius:8px; border:1px solid var(--border);
-    display:flex; align-items:center; justify-content:center; font-size:13px; color:var(--muted-foreground);
-  }
+  .brandbox .logo img { width:100%; height:100%; object-fit:cover; display:block; }
+  .brandbox .brand-text { font-size:20px; font-weight:800; line-height:1.2; }
 
-  .pagehead { display:flex; justify-content:space-between; align-items:flex-end; margin: 4px 6px 14px 6px; flex-wrap:wrap; gap:10px; }
-  .pagehead h1 { font-size:24px; margin:0 0 4px 0; font-weight:800; }
-  .pagehead .sub { font-size:12.5px; color: var(--muted-foreground); }
-  .pill {
-    font-size:12px; padding:7px 14px; border-radius:9px; border:1px solid var(--border);
-    background:var(--card); color:var(--foreground); display:flex; align-items:center; gap:6px;
-  }
-
-  .toolbar {
-    display:flex; justify-content:space-between; align-items:center;
-    margin: 0 6px 14px 6px; padding-bottom: 10px; border-bottom:1px solid var(--border);
-  }
-  .toolright { display:flex; gap:14px; font-size:12px; color: var(--muted-foreground); }
-
-  /* --- left icon tier rail + right list view --- */
-  .boardwrap { display:flex; gap:14px; align-items:flex-start; }
-  .tiersidebar { display:flex; flex-direction:column; gap:8px; width:72px; flex-shrink:0; }
+  .tiernav { display:flex; flex-direction:column; gap:6px; border:1px solid var(--border); border-radius:14px; background: var(--card); padding:6px; }
   .tierbtn {
-    display:flex; flex-direction:column; align-items:center; gap:4px;
-    padding:12px 4px; border-radius:12px; border:1px solid var(--border);
-    background:var(--card); cursor:pointer; font-size:10.5px; font-weight:600;
-    color: var(--muted-foreground); text-align:center;
+    display:flex; align-items:center; gap:9px;
+    padding:11px 10px; border-radius:10px; border:1px solid transparent;
+    cursor:pointer; font-size:14px; font-weight:700;
+    color: var(--muted-foreground);
   }
-  .tierbtn .ticon { font-size:19px; line-height:1; }
-  .tierbtn .tcount { font-size:9.5px; color: var(--muted-foreground); font-weight:600; }
-  .tierbtn.active { color: var(--foreground); font-weight:800; }
+  .tierbtn .ticon { font-size:17px; line-height:1; }
+  .tierbtn .tlabel { flex:1; }
+  .tierbtn .tcount { font-size:12px; color: var(--muted-foreground); font-weight:700; }
+  .tierbtn.active { color: var(--foreground); }
 
-  .listview { flex:1; min-width:0; display:flex; flex-direction:column; gap:10px; }
-  .listhead { font-size:12.5px; color: var(--muted-foreground); padding: 0 4px 2px 4px; }
+  .widgetbox {
+    border:1px solid var(--border); border-radius:14px; background: var(--card); padding:12px;
+  }
+  .widgetbox .wtitle { font-size:12px; font-weight:800; color: var(--muted-foreground); margin-bottom:8px; }
+  .weatherrow { display:flex; align-items:center; gap:10px; }
+  .weatherrow .wicon { font-size:30px; line-height:1; }
+  .weatherrow .wtemp { font-size:19px; font-weight:800; }
+  .weatherrow .wdesc { font-size:12px; color: var(--muted-foreground); }
+
+  .minical table { width:100%; border-collapse: collapse; font-size:12px; text-align:center; }
+  .minical caption { font-size:13px; font-weight:800; margin-bottom:6px; text-align:left; }
+  .minical th { color: var(--muted-foreground); font-weight:700; padding:3px 0; font-size:10.5px; }
+  .minical td { padding:4px 0; color: var(--foreground); }
+  .minical td.today { background: var(--accent); color:#fff; border-radius:7px; font-weight:800; }
+  .minical td.blank { color: transparent; }
+
+  /* ---------------- RIGHT MAIN ---------------- */
+  .main { flex:1; min-width:0; display:flex; flex-direction:column; gap:8px; }
+
+  .topbar {
+    display:flex; align-items:center; justify-content:space-between;
+    padding: 10px 14px; border:1px solid var(--border); border-radius: 14px; background: var(--card);
+  }
+  .topbar h1 { font-size:22px; margin:0; font-weight:800; }
+  .topbar .sub { font-size:13px; color: var(--muted-foreground); margin-top:2px; }
+  .pill {
+    font-size:14px; padding:8px 16px; border-radius:9px; border:1px solid var(--border);
+    background: var(--bg); color: var(--foreground); display:flex; align-items:center; gap:6px; font-weight:700;
+  }
+
+  .navrow {
+    display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;
+    padding: 10px 14px; border:1px solid var(--border); border-radius: 14px; background: var(--card);
+  }
+  .navtabs { display:flex; gap:16px; font-size:15px; color: var(--muted-foreground); flex-wrap:wrap; }
+  .navtabs span { cursor:pointer; padding-bottom:3px; white-space:nowrap; }
+  .navtabs .active { color: var(--foreground); font-weight:800; border-bottom:2px solid var(--accent); }
+  .toolright { font-size:14px; color: var(--muted-foreground); white-space:nowrap; }
+
+  .listview { display:flex; flex-direction:column; gap:10px; }
+  .listhead { font-size:15px; font-weight:700; color: var(--muted-foreground); padding: 2px 4px; }
   .listrow {
     display:block; text-decoration:none; color:inherit; cursor:pointer;
     background: var(--card); border:1px solid var(--border); border-radius:12px;
-    padding:14px 16px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    padding:16px 18px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
   }
-  .lr-1 { font-size:14px; font-weight:800; line-height:1.4; margin-bottom:5px; }
-  .lr-2 { display:flex; align-items:center; gap:7px; font-size:11.5px; color: var(--muted-foreground); font-weight:600; margin-bottom:7px; }
-  .lr-2 .score-badge { margin-left:auto; font-size:11px; font-weight:800; padding:2px 9px; border-radius:7px; }
-  .lr-3 { font-size:12.5px; color: var(--foreground); opacity:0.85; line-height:1.55; margin-bottom:8px;
+  .lr-1 { font-size:17px; font-weight:800; line-height:1.4; margin-bottom:6px; }
+  .lr-2 { display:flex; align-items:center; gap:8px; font-size:14px; color: var(--muted-foreground); font-weight:600; margin-bottom:8px; }
+  .lr-2 .score-badge { margin-left:auto; font-size:13px; font-weight:800; padding:3px 11px; border-radius:7px; }
+  .lr-3 { font-size:15px; color: var(--foreground); opacity:0.85; line-height:1.55; margin-bottom:9px;
     display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
-  .lr-4 { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:7px; }
-  .tag { font-size:9.5px; font-weight:700; padding:3px 7px; border-radius:5px; background: var(--border); color: var(--foreground); opacity:0.85; }
-  .lr-5 { font-size:10.5px; color: var(--muted-foreground); }
-  .conf-badge { font-size:10px; font-weight:700; padding:3px 8px; border-radius:7px; margin-left:auto; }
+  .lr-4 { display:flex; gap:7px; flex-wrap:wrap; margin-bottom:8px; }
+  .tag { font-size:11px; font-weight:700; padding:4px 8px; border-radius:5px; background: var(--border); color: var(--foreground); opacity:0.85; }
+  .lr-5 { font-size:13px; color: var(--muted-foreground); }
+  .conf-badge { font-size:12px; font-weight:700; padding:4px 10px; border-radius:7px; }
 
   .pager { display:flex; justify-content:space-between; align-items:center; margin-top:4px; padding:0 2px; }
   .pagerbtn {
-    padding:6px 14px; border-radius:8px; border:1px solid var(--border);
-    background:var(--card); color:var(--foreground); cursor:pointer; font-size:12px;
+    padding:7px 16px; border-radius:8px; border:1px solid var(--border);
+    background:var(--card); color:var(--foreground); cursor:pointer; font-size:14px;
   }
-  .pagerlabel { font-size:12px; color: var(--muted-foreground); }
+  .pagerlabel { font-size:14px; color: var(--muted-foreground); }
 
-  .empty { padding:14px 4px; font-size:11.5px; color: var(--muted-foreground); }
-  .footer { text-align:center; font-size:11px; color: var(--muted-foreground); margin-top:18px; }
+  .empty { padding:16px 4px; font-size:14px; color: var(--muted-foreground); }
+  .footer { text-align:center; font-size:13px; color: var(--muted-foreground); margin-top:14px; }
 </style>
 </head>
 <body>
 <div class="app">
+  <div class="shell">
 
-  <div class="navbar">
-    <div class="brand"><div class="logo"><img src="https://raw.githubusercontent.com/EvanLee70/world-intel-board/main/logo.png" alt="세상의 눈 로고"></div><span class="brand-text">세상의 눈</span></div>
-    <div class="navtabs" id="navtabs"></div>
-    <div class="navright">
-      <div class="iconbtn">🔄</div>
-      <div class="iconbtn">☀️</div>
+    <div class="sidebar">
+      <div class="brandbox">
+        <div class="logo"><img src="https://raw.githubusercontent.com/EvanLee70/world-intel-board/main/logo.png" alt="세상의 눈 로고"></div>
+        <div class="brand-text">세상의 눈</div>
+      </div>
+
+      <div class="tiernav" id="tiersidebar"></div>
+
+      <div class="widgetbox">
+        <div class="wtitle">오늘의 날씨</div>
+        <div class="weatherrow">
+          <div class="wicon" id="weatherIcon">☀️</div>
+          <div>
+            <div class="wtemp" id="weatherTemp">-</div>
+            <div class="wdesc" id="weatherDesc">날씨 연동 준비중</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="widgetbox minical" id="minical"></div>
     </div>
-  </div>
 
-  <div class="pagehead">
-    <div>
-      <h1>세상의 눈 모아보기</h1>
-      <div class="sub" id="subline">Bot1 수집 → Bot2 배치 → Bot3 예측 · 좌측 점수 구간 선택 → 리스트로 보기</div>
+    <div class="main">
+      <div class="topbar">
+        <div>
+          <h1>세상의 눈 모아보기</h1>
+          <div class="sub" id="subline">Bot1 수집 → Bot2 배치 → Bot3 예측 · 좌측에서 점수 구간 선택</div>
+        </div>
+        <div class="pill">📅 <span id="dateval">-</span></div>
+      </div>
+
+      <div class="navrow">
+        <div class="navtabs" id="navtabs"></div>
+        <div class="toolright"><span id="statline"></span></div>
+      </div>
+
+      <div class="listview" id="listview"></div>
+
+      <div class="footer">source: wiki/world/* · _ops/world_intel · 매일 자동 수집·배치·예측</div>
     </div>
-    <div class="pill">📅 <span id="dateval">-</span></div>
-  </div>
 
-  <div class="toolbar">
-    <div></div>
-    <div class="toolright"><span id="statline"></span></div>
   </div>
-
-  <div class="boardwrap">
-    <div class="tiersidebar" id="tiersidebar"></div>
-    <div class="listview" id="listview"></div>
-  </div>
-
-  <div class="footer">source: wiki/world/* · _ops/world_intel · 매일 자동 수집·배치·예측</div>
 </div>
 
 <script>
@@ -200,7 +235,7 @@ function renderTierSidebar(){
   bar.innerHTML = all.map(t => `<div class="tierbtn ${activeTier===t.label?'active':''}" data-tier="${t.label}"
       style="${activeTier===t.label ? `border-color:${t.color}; background:${t.color}1a;` : ''}">
       <div class="ticon">${t.icon}</div>
-      <div>${t.label}</div>
+      <div class="tlabel">${t.label}</div>
       <div class="tcount" style="${activeTier===t.label?`color:${t.color};`:''}">${tierCount(t.label)}</div>
     </div>`).join("");
   bar.querySelectorAll(".tierbtn").forEach(el => el.onclick = () => {
@@ -253,6 +288,33 @@ function renderBoard(){
   `;
   wirePager(totalPages);
 }
+
+function renderMiniCalendar(){
+  const now = new Date();
+  const y = now.getFullYear(), m = now.getMonth(), today = now.getDate();
+  const first = new Date(y, m, 1);
+  const startDow = first.getDay();
+  const daysInMonth = new Date(y, m + 1, 0).getDate();
+  const monthNames = ["1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"];
+  let cells = [];
+  for (let i = 0; i < startDow; i++) cells.push(null);
+  for (let d = 1; d <= daysInMonth; d++) cells.push(d);
+  while (cells.length % 7 !== 0) cells.push(null);
+  let rows = "";
+  for (let r = 0; r < cells.length; r += 7) {
+    rows += "<tr>" + cells.slice(r, r + 7).map(d => {
+      if (d === null) return '<td class="blank">·</td>';
+      return `<td class="${d === today ? 'today' : ''}">${d}</td>`;
+    }).join("") + "</tr>";
+  }
+  document.getElementById("minical").innerHTML = `
+    <table>
+      <caption>${y}년 ${monthNames[m]}</caption>
+      <thead><tr><th>일</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th><th>토</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>`;
+}
+renderMiniCalendar();
 
 const AI_ITEMS = [
   {t:"GPT-6 Astra, 신경망 가중치를 직접 읽고 수정해 Qwen 성능 개선", c:"연구", ci:"🤖", s:75, d:"GPT-6 Astra가 학습 루프나 경사하강법 없이 신경망 가중치를 직접 읽고 수정·작성하는 초기 실험에서, 모델 동작 식별과 가중치 공간 프로그래밍으로 Qwen 성능을 개선해 AI가 다른 AI를 직접 개조하는 사례로 주목받았다.", fresh:"GeekNews", date:"2026-11-03", url:"https://news.hada.io/topic?id=36478"},
