@@ -76,6 +76,16 @@
   .conf-badge { font-size:10px; font-weight:700; padding:3px 8px; border-radius:7px; }
   .empty { padding:10px 4px; font-size:11px; color: var(--muted-foreground); }
   .footer { text-align:center; font-size:11px; color: var(--muted-foreground); margin-top:18px; }
+  .src-col { width: 320px; flex-shrink:0; }
+  .src-card {
+    display:block; text-decoration:none; color:inherit;
+    background: var(--card); border:1px solid var(--border); border-radius:12px;
+    padding:12px 13px; margin-bottom:10px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  }
+  .src-card:hover { border-color: var(--accent); }
+  .src-name { font-size:13px; font-weight:700; margin-bottom:4px; }
+  .src-desc { font-size:11.5px; color: var(--muted-foreground); line-height:1.5; margin-bottom:6px; }
+  .src-url { font-size:10.5px; color: var(--accent); word-break:break-all; }
 </style>
 </head>
 <body>
@@ -110,7 +120,7 @@
 <script>
 const CATEGORY_ICON = {"정치":"🏛️","경제":"📉","기술":"🤖","과학":"🧬","사회":"✊","국제":"🌐","환경":"🌍","문화":"🎬"};
 const CATEGORIES = [
-  {key:"전체", icon:"🗂️"}, {key:"정치", icon:"🏛️"}, {key:"경제", icon:"📉"},
+  {key:"전체", icon:"🗂️"}, {key:"AI소식", icon:"📰"}, {key:"정치", icon:"🏛️"}, {key:"경제", icon:"📉"},
   {key:"기술", icon:"🤖"}, {key:"과학", icon:"🧬"}, {key:"사회", icon:"✊"},
   {key:"국제", icon:"🌐"}, {key:"환경", icon:"🌍"}, {key:"문화", icon:"🎬"}, {key:"예측", icon:"🔮"},
 ];
@@ -154,6 +164,34 @@ function predCard(p){
   </div>`;
 }
 
+const SOURCES = {
+  "국내": [
+    {name:"GeekNews (긱뉴스)", url:"https://news.hada.io/", desc:"오픈소스 프로젝트·논문·프레임워크 동향을 MECE하게 큐레이션하는 국내 최고 테크 커뮤니티. 아침 브리핑용 최적."},
+    {name:"AI타임스", url:"https://www.aitimes.com/", desc:"국내외 빅테크 동향, 정부 정책, 산업별 AI 전환(AX) 뉴스를 다루는 국내 대표 AI 전문 언론사."},
+    {name:"인공지능신문", url:"https://www.aitimes.kr/", desc:"글로벌 AI 모델 출시 소식, GPU/NPU 하드웨어 동향, 학술 연구 자료를 다루는 무료 기술 매체."},
+    {name:"한국인공지능협회 AI 정보포털", url:"https://report.koraia.org/", desc:"국내외 AI 비즈니스 소식, 학술 세미나, 기술 가이드를 실시간 피드로 제공."}
+  ],
+  "해외": [
+    {name:"Hugging Face Daily Papers", url:"https://huggingface.co/papers", desc:"전 세계 AI 연구원들이 실시간으로 올리는 최신 모델·논문 트렌드. LLM/로컬 생성형 AI 최첨단 흐름 파악 필수."},
+    {name:"TLDR AI", url:"https://tldr.tech/ai", desc:"매일 글로벌 AI 뉴스·오픈소스 도구·연구 결과를 5분 만에 읽는 무료 뉴스레터/웹사이트."},
+    {name:"Ben's Bites", url:"https://bensbites.com/", desc:"가장 핫한 AI 프로덕트·기술 소식을 쉬운 언어로 위트 있게 요약."},
+    {name:"ArXiv Sanity Preserver", url:"https://arxiv-sanity-lite.com/", desc:"방대한 AI 논문 중 가장 주목받는 핵심 논문만 필터링해 순위별로 보여주는 무료 사이트."}
+  ],
+  "공식 블로그": [
+    {name:"OpenAI 연구 블로그", url:"https://openai.com/news/", desc:"ChatGPT·o1 등 모델 업데이트, 프롬프팅 기술, 안전 가이드라인 원천 소스."},
+    {name:"Anthropic 뉴스룸", url:"https://www.anthropic.com/news", desc:"Claude API 업데이트, 컨텍스트 윈도우 확장, 안전한 AI 에이전트 설계 기법."},
+    {name:"Google DeepMind 블로그", url:"https://deepmind.google/discover/blog/", desc:"Gemini 엔진 기술 고도화, 멀티모달 연구 성과를 다루는 공식 사이트."}
+  ]
+};
+
+function srcCard(s){
+  return `<a class="src-card" href="${s.url}" target="_blank" rel="noopener">
+    <div class="src-name">${s.name}</div>
+    <div class="src-desc">${s.desc}</div>
+    <div class="src-url">${s.url}</div>
+  </a>`;
+}
+
 function renderNav(){
   const nav = document.getElementById("navtabs");
   nav.innerHTML = CATEGORIES.map(c => `<span class="${c.key===activeCat?'active':''}" data-cat="${c.key}">${c.icon} ${c.key}</span>`).join("");
@@ -162,6 +200,14 @@ function renderNav(){
 
 function renderBoard(){
   let html = "";
+  if (activeCat === "AI소식") {
+    html = Object.keys(SOURCES).map(group => `<div class="src-col">
+      <div class="colhead"><span class="dot" style="background:#2f6fed"></span>${group} <span class="colcount">${SOURCES[group].length}</span></div>
+      ${SOURCES[group].map(srcCard).join("")}
+    </div>`).join("");
+    document.getElementById("board").innerHTML = html;
+    return;
+  }
   if (activeCat === "예측") {
     html = `<div class="col" style="width:340px;">
       <div class="colhead"><span class="dot" style="background:#8a5fe0"></span>Predictions <span class="colcount">${PREDICTIONS.length}</span></div>
