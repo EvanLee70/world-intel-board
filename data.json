@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 15:36",
+  "generated_at": "2026-11-03 17:03",
   "items": [
     {
       "t": "美 스타트업, AI가 설계한 바이러스 세계 최초 인체 투여",
@@ -22,13 +22,13 @@
       "url": "https://www.riotimesonline.com/global-economy-briefing-november-2-2026"
     },
     {
-      "t": "앤트로픽, 11월 16일 주간 IPO 추진 보도",
+      "t": "앤트로픽, 11월 16일 주간 IPO 추진…수정 S-1서 성장 둔화·분기 손실 공개",
       "c": "기술",
       "ci": "🤖",
-      "s": 76,
-      "d": "앤트로픽의 기업공개(IPO)가 2026년 11월 16일 주간에 이뤄질 수 있다는 보도가 나오며 올해 AI 업계 최대 이슈로 꼽히고 있다.",
+      "s": 84,
+      "d": "앤트로픽이 11월 16일 주간 IPO를 추진하는 가운데, 수정 S-1 공시에서 3분기 매출 170억 달러와 성장률 둔화(약 47%), 영업손실 전환, 컴퓨팅 약정 8,950억 달러가 드러났다.",
       "fresh": "volatile",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "url": "https://simplifyaitools.com/newsletter/ai-news-november-2026-anthropic-microsoft-google/"
     },
     {
@@ -162,6 +162,26 @@
       "url": "https://www.southampton.ac.uk/news/2026/10/forgotten-particle-could-answer-mystery-of-why-we-exist.page"
     },
     {
+      "t": "골드만삭스, 트레이더·뱅커의 AI 코딩툴 접근 차단…엔지니어로 한정",
+      "c": "경제",
+      "ci": "📉",
+      "s": 77,
+      "d": "골드만삭스가 내부 검토 후 Claude Code·GitHub Copilot 등 고급 AI 코딩 도구 접근을 소프트웨어 엔지니어로 한정하고 트레이더·뱅커의 접근을 차단했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
+    },
+    {
+      "t": "삼성전자, 내년 HBM4 완판…메모리 공급부족 2028년까지 지속 전망",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "삼성전자가 2027년 HBM4 물량을 완판했다고 밝히며 메모리 공급 부족이 2028년까지 이어질 것으로 전망했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.etoday.co.kr/news/view/2641658"
+    },
+    {
       "t": "할리우드 경영진 교체 바람, 캘리포니아 10억 달러 세액공제 추진",
       "c": "문화",
       "ci": "🎬",
@@ -190,6 +210,16 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.newspim.com/news/view/20261103001185"
+    },
+    {
+      "t": "대통령 전용기 탑승자 168명 개인정보, 5개월간 유출 방치",
+      "c": "사회",
+      "ci": "✊",
+      "s": 71,
+      "d": "이재명 대통령 등 공군 1호기 탑승자 168명의 여권정보 등 개인정보가 바이러스토탈에 5개월간 노출됐다가 뒤늦게 확인됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.khan.co.kr/article/202611031838001/"
     },
     {
       "t": "마이크로소프트, AI 재편 속 직원 6만 명 희망퇴직 제안",
@@ -242,14 +272,34 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist"
     },
     {
-      "t": "러시아, 자포리자 피난·구호시설 공습으로 최소 29명 사망…美 중간선거와 겹친 대규모 공습",
+      "t": "OpenAI, 아부다비와 정부·에너지·투자 4건 협약 체결",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 88,
+      "d": "OpenAI가 아부다비 정부·ADNOC·G42·무바달라·Inception42와 4건의 협약을 체결하며 'AI 네이티브 정부' 구상에 참여했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://dealroom.co/news/168755-abu-dhabi-wants-to-be-the-worlds-first-ai-native-government-and-openai-i/"
+    },
+    {
+      "t": "러시아, 자포리자 피난·구호시설 공습으로 사망자 33명으로 증가…美 중간선거와 겹친 대규모 공습",
       "c": "국제",
       "ci": "🌐",
       "s": 62,
-      "d": "러시아가 드론·미사일 365기를 동원한 대규모 공습을 가하며 자포리자 지역 피난·구호시설을 폭격해 최소 29명이 숨지고 48명이 실종됐다.",
+      "d": "러시아가 드론·미사일 365기를 동원한 대규모 공습을 가하며 자포리자 지역 피난·구호시설을 폭격해 사망자가 최소 33명으로 늘었다.",
       "fresh": "volatile",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+    },
+    {
+      "t": "태양, 역대 최강 X28 플레어 분출…저궤도 위성 추적 일시 실패",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 70,
+      "d": "2026년 11월 4일 태양이 GOES 위성 관측 사상 최강인 X28급 플레어를 분출해 저궤도 위성 다수가 궤도를 이탈하고 美 공군이 일시적으로 추적에 실패했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/"
     },
     {
       "t": "英-EU, 브렉시트 식품·농산물 수출 검역 폐지 초안 합의",
