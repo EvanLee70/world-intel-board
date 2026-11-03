@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>세상의 눈 모아보기</title>
+<script src="https://cdn.jsdelivr.net/npm/lunar-javascript@1.7.7/lunar.min.js"></script>
 <style>
   :root {
     --foreground:#14151a; --muted-foreground:#70737c; --accent:#2f6fed;
@@ -386,12 +387,23 @@ const AI_ITEMS = [
   {t:"위키백과 편집자들, AI 생성 글 찾아내고 정리하는 방법 공유", c:"정책", ci:"🤖", s:49, d:"위키백과 편집자 커뮤니티가 AI가 생성한 저품질 문서를 식별하고 정리하는 방법론을 공유해, 온라인 백과사전의 콘텐츠 신뢰성 유지 노력을 보여준다.", fresh:"GeekNews", date:"2026-11-03", url:"https://news.hada.io/articles"}
 ];
 
+function lunarSuffix(dateStr){
+  try {
+    const parts = (dateStr || "").split(" ")[0].split("-").map(Number);
+    if (parts.length < 3 || typeof Solar === "undefined") return "";
+    const lunar = Solar.fromYmd(parts[0], parts[1], parts[2]).getLunar();
+    const lm = lunar.getMonth();
+    const leap = lm < 0 ? "윤" : "";
+    return ` (음력 ${lunar.getYear()}년 ${leap}${Math.abs(lm)}월 ${lunar.getDay()}일)`;
+  } catch(e) { return ""; }
+}
+
 fetch("./data.json?_=" + Date.now())
   .then(r => r.json())
   .then(data => {
     ITEMS = data.items || [];
     PREDICTIONS = data.predictions || [];
-    document.getElementById("dateval").textContent = data.generated_at || "-";
+    document.getElementById("dateval").textContent = (data.generated_at || "-") + lunarSuffix(data.generated_at);
     const avg = ITEMS.length ? (ITEMS.reduce((a,b)=>a+b.s,0)/ITEMS.length).toFixed(1) : "0";
     document.getElementById("statline").textContent = `${ITEMS.length}건 수집 · 평균 ${avg}점 · 예측 ${PREDICTIONS.length}건`;
     renderNav();
