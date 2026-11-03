@@ -15,7 +15,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Pretendard, Roboto, sans-serif;
     color: var(--foreground);
   }
-  .app { max-width: 1460px; margin: 0 auto; padding: 20px 16px 40px 16px; }
+  .app { max-width: 1100px; margin: 0 auto; padding: 20px 16px 40px 16px; }
 
   .navbar {
     display:flex; align-items:center; justify-content:space-between;
@@ -52,29 +52,44 @@
   }
   .toolright { display:flex; gap:14px; font-size:12px; color: var(--muted-foreground); }
 
-  .board { display:flex; gap:14px; align-items:flex-start; overflow-x:auto; padding-bottom:10px; }
-  .col { width: 268px; flex-shrink:0; }
-  .colhead { display:flex; align-items:center; gap:7px; padding: 4px 6px 10px 6px; font-size:13px; font-weight:700; }
-  .dot { width:9px; height:9px; border-radius:50%; }
-  .colcount { color: var(--muted-foreground); font-weight:600; margin-left:2px; }
-
-  .card {
-    background: var(--card); border:1px solid var(--border); border-radius:12px;
-    padding:12px 13px; margin-bottom:10px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  /* --- left icon tier rail + right list view --- */
+  .boardwrap { display:flex; gap:14px; align-items:flex-start; }
+  .tiersidebar { display:flex; flex-direction:column; gap:8px; width:72px; flex-shrink:0; }
+  .tierbtn {
+    display:flex; flex-direction:column; align-items:center; gap:4px;
+    padding:12px 4px; border-radius:12px; border:1px solid var(--border);
+    background:var(--card); cursor:pointer; font-size:10.5px; font-weight:600;
+    color: var(--muted-foreground); text-align:center;
   }
-  .card-top { display:flex; align-items:center; gap:7px; margin-bottom:7px; }
-  .cicon { width:20px; height:20px; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:11px; }
-  .cat-label { font-size:11px; color: var(--muted-foreground); font-weight:600; }
-  .score-badge { margin-left:auto; font-size:11px; font-weight:800; padding:2px 8px; border-radius:7px; }
-  .card-title { font-size:13px; font-weight:700; line-height:1.35; margin-bottom:6px; }
-  .card-desc { font-size:11.5px; color: var(--muted-foreground); line-height:1.5; margin-bottom:9px;
-    display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
-  .tagrow { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:8px; }
+  .tierbtn .ticon { font-size:19px; line-height:1; }
+  .tierbtn .tcount { font-size:9.5px; color: var(--muted-foreground); font-weight:600; }
+  .tierbtn.active { color: var(--foreground); font-weight:800; }
+
+  .listview { flex:1; min-width:0; display:flex; flex-direction:column; gap:10px; }
+  .listhead { font-size:12.5px; color: var(--muted-foreground); padding: 0 4px 2px 4px; }
+  .listrow {
+    display:block; text-decoration:none; color:inherit; cursor:pointer;
+    background: var(--card); border:1px solid var(--border); border-radius:12px;
+    padding:14px 16px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  }
+  .lr-1 { font-size:14px; font-weight:800; line-height:1.4; margin-bottom:5px; }
+  .lr-2 { display:flex; align-items:center; gap:7px; font-size:11.5px; color: var(--muted-foreground); font-weight:600; margin-bottom:7px; }
+  .lr-2 .score-badge { margin-left:auto; font-size:11px; font-weight:800; padding:2px 9px; border-radius:7px; }
+  .lr-3 { font-size:12.5px; color: var(--foreground); opacity:0.85; line-height:1.55; margin-bottom:8px;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .lr-4 { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:7px; }
   .tag { font-size:9.5px; font-weight:700; padding:3px 7px; border-radius:5px; background: var(--border); color: var(--foreground); opacity:0.85; }
-  .card-foot { font-size:10.5px; color: var(--muted-foreground); display:flex; align-items:center; gap:4px; }
-  .pred-card .card-desc { -webkit-line-clamp:5; }
-  .conf-badge { font-size:10px; font-weight:700; padding:3px 8px; border-radius:7px; }
-  .empty { padding:10px 4px; font-size:11px; color: var(--muted-foreground); }
+  .lr-5 { font-size:10.5px; color: var(--muted-foreground); }
+  .conf-badge { font-size:10px; font-weight:700; padding:3px 8px; border-radius:7px; margin-left:auto; }
+
+  .pager { display:flex; justify-content:space-between; align-items:center; margin-top:4px; padding:0 2px; }
+  .pagerbtn {
+    padding:6px 14px; border-radius:8px; border:1px solid var(--border);
+    background:var(--card); color:var(--foreground); cursor:pointer; font-size:12px;
+  }
+  .pagerlabel { font-size:12px; color: var(--muted-foreground); }
+
+  .empty { padding:14px 4px; font-size:11.5px; color: var(--muted-foreground); }
   .footer { text-align:center; font-size:11px; color: var(--muted-foreground); margin-top:18px; }
 </style>
 </head>
@@ -93,7 +108,7 @@
   <div class="pagehead">
     <div>
       <h1>세상의 눈 모아보기</h1>
-      <div class="sub" id="subline">Bot1 수집 → Bot2 배치 → Bot3 예측, 점수 구간별 칸반 보드</div>
+      <div class="sub" id="subline">Bot1 수집 → Bot2 배치 → Bot3 예측 · 좌측 점수 구간 선택 → 리스트로 보기</div>
     </div>
     <div class="pill">📅 <span id="dateval">-</span></div>
   </div>
@@ -103,7 +118,11 @@
     <div class="toolright"><span id="statline"></span></div>
   </div>
 
-  <div class="board" id="board"></div>
+  <div class="boardwrap">
+    <div class="tiersidebar" id="tiersidebar"></div>
+    <div class="listview" id="listview"></div>
+  </div>
+
   <div class="footer">source: wiki/world/* · _ops/world_intel · 매일 자동 수집·배치·예측</div>
 </div>
 
@@ -112,50 +131,127 @@ const CATEGORY_ICON = {"정치":"🏛️","경제":"📉","기술":"🤖","과�
 const CATEGORIES = [
   {key:"전체", icon:"🗂️"}, {key:"AI소식", icon:"📰"}, {key:"정치", icon:"🏛️"}, {key:"경제", icon:"📉"},
   {key:"기술", icon:"🤖"}, {key:"과학", icon:"🧬"}, {key:"사회", icon:"✊"},
-  {key:"국제", icon:"🌐"}, {key:"환경", icon:"🌍"}, {key:"문화", icon:"🎬"}, {key:"예측", icon:"🔮"},
+  {key:"국제", icon:"🌐"}, {key:"환경", icon:"🌍"}, {key:"문화", icon:"🎬"},
 ];
 const TIERS = [
-  {label:"Top 점수", range:[80,100], color:"#e0565a"},
-  {label:"High", range:[70,79], color:"#3f7fe0"},
-  {label:"Medium", range:[60,69], color:"#e0a23f"},
-  {label:"Low", range:[0,59], color:"#7a7a7a"},
+  {label:"Top점수", range:[80,100], color:"#e0565a", icon:"🔴"},
+  {label:"High",    range:[70,79],  color:"#3f7fe0", icon:"🔵"},
+  {label:"Medium",  range:[60,69],  color:"#e0a23f", icon:"🟡"},
+  {label:"Low",     range:[0,59],   color:"#7a7a7a", icon:"⚪"},
 ];
+const PRED_TIER = {label:"예측", color:"#8a5fe0", icon:"🔮"};
+
 let activeCat = "전체";
+let activeTier = "Top점수";
 let ITEMS = [], PREDICTIONS = [];
-let aiPage = 0;
-const AI_PAGE_SIZE = 10;
+let listPage = 0;
+const PAGE_SIZE = 10;
 
 function scoreColor(s){ if (s>=80) return "#e0565a"; if (s>=70) return "#3f7fe0"; if (s>=60) return "#e0a23f"; return "#7a7a7a"; }
 
-function card(it){
+function listRowItem(it){
   const col = scoreColor(it.s);
   const tag = it.url ? "a" : "div";
-  const attrs = it.url ? ` href="${it.url}" target="_blank" rel="noopener" style="display:block; text-decoration:none; color:inherit; cursor:pointer;"` : "";
-  return `<${tag} class="card"${attrs}>
-    <div class="card-top">
-      <div class="cicon" style="background:${col}22;">${it.ci || CATEGORY_ICON[it.c] || "🗂️"}</div>
-      <div class="cat-label">${it.c}</div>
-      <div class="score-badge" style="background:${col}22;color:${col};">${it.s}</div>
+  const attrs = it.url ? ` href="${it.url}" target="_blank" rel="noopener"` : "";
+  return `<${tag} class="listrow"${attrs}>
+    <div class="lr-1">${it.t}</div>
+    <div class="lr-2">
+      <span>${it.ci || CATEGORY_ICON[it.c] || "🗂️"}</span><span>${it.c}</span>
+      <span class="score-badge" style="background:${col}22;color:${col};">${it.s}</span>
     </div>
-    <div class="card-title">${it.t}</div>
-    <div class="card-desc">${it.d}</div>
-    <div class="tagrow"><span class="tag">${it.c}</span><span class="tag">${it.fresh || "volatile"}</span></div>
-    <div class="card-foot">${it.url ? "🔗 출처로 이동" : `🕒 ${it.date || "오늘 수집"}`}</div>
+    <div class="lr-3">${it.d}</div>
+    <div class="lr-4"><span class="tag">${it.c}</span><span class="tag">${it.fresh || "volatile"}</span></div>
+    <div class="lr-5">${it.url ? "🔗 출처로 이동" : `🕒 ${it.date || "오늘 수집"}`}</div>
   </${tag}>`;
 }
-function predCard(p){
+
+function listRowPrediction(p){
   const confColor = (p.conf||"").includes("낮") ? "#7a7a7a" : "#e0a23f";
-  return `<div class="card pred-card">
-    <div class="card-top">
-      <div class="cicon" style="background:${confColor}22;">🔮</div>
-      <div class="cat-label">예측</div>
-      <div class="conf-badge" style="background:${confColor}22;color:${confColor};margin-left:auto;">${p.conf}</div>
+  return `<div class="listrow">
+    <div class="lr-1">${p.t}</div>
+    <div class="lr-2">
+      <span>🔮</span><span>예측</span>
+      <span class="conf-badge" style="background:${confColor}22;color:${confColor};">${p.conf}</span>
     </div>
-    <div class="card-title">${p.t}</div>
-    <div class="card-desc">${p.d}</div>
-    <div class="tagrow"><span class="tag">연관강도 ${p.strength}</span></div>
-    <div class="card-foot">🧠 Bot3 상호연관성 분석</div>
+    <div class="lr-3">${p.d}</div>
+    <div class="lr-4"><span class="tag">연관강도 ${p.strength}</span></div>
+    <div class="lr-5">🧠 Bot3 상호연관성 분석</div>
   </div>`;
+}
+
+function renderNav(){
+  const nav = document.getElementById("navtabs");
+  nav.innerHTML = CATEGORIES.map(c => `<span class="${c.key===activeCat?'active':''}" data-cat="${c.key}">${c.icon} ${c.key}</span>`).join("");
+  nav.querySelectorAll("span").forEach(el => el.onclick = () => {
+    activeCat = el.dataset.cat; listPage = 0; renderNav(); renderBoard();
+  });
+}
+
+function tierCount(tierKey){
+  if (tierKey === "예측") return PREDICTIONS.length;
+  const base = activeCat === "AI소식" ? AI_ITEMS : (activeCat === "전체" ? ITEMS : ITEMS.filter(i => i.c === activeCat));
+  const t = TIERS.find(x => x.label === tierKey);
+  return base.filter(i => i.s >= t.range[0] && i.s <= t.range[1]).length;
+}
+
+function renderTierSidebar(){
+  const all = [...TIERS, PRED_TIER];
+  const bar = document.getElementById("tiersidebar");
+  bar.innerHTML = all.map(t => `<div class="tierbtn ${activeTier===t.label?'active':''}" data-tier="${t.label}"
+      style="${activeTier===t.label ? `border-color:${t.color}; background:${t.color}1a;` : ''}">
+      <div class="ticon">${t.icon}</div>
+      <div>${t.label}</div>
+      <div class="tcount" style="${activeTier===t.label?`color:${t.color};`:''}">${tierCount(t.label)}</div>
+    </div>`).join("");
+  bar.querySelectorAll(".tierbtn").forEach(el => el.onclick = () => {
+    activeTier = el.dataset.tier; listPage = 0; renderTierSidebar(); renderBoard();
+  });
+}
+
+function renderPager(total, totalPages, start, shown){
+  return `<div class="pager">
+    <button class="pagerbtn" id="prevBtn" ${listPage===0?'disabled':''} style="opacity:${listPage===0?'0.4':'1'};">← 이전 페이지</button>
+    <span class="pagerlabel">${total}건 중 ${start+1}-${start+shown} · ${listPage+1} / ${totalPages} 페이지</span>
+    <button class="pagerbtn" id="nextBtn" ${listPage>=totalPages-1?'disabled':''} style="opacity:${listPage>=totalPages-1?'0.4':'1'};">다음 페이지 →</button>
+  </div>`;
+}
+
+function wirePager(totalPages){
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  if (prevBtn) prevBtn.onclick = () => { if (listPage > 0) { listPage--; renderBoard(); } };
+  if (nextBtn) nextBtn.onclick = () => { if (listPage < totalPages - 1) { listPage++; renderBoard(); } };
+}
+
+function renderBoard(){
+  renderTierSidebar();
+  const view = document.getElementById("listview");
+  let sorted, rowFn, label;
+
+  if (activeTier === "예측") {
+    sorted = [...PREDICTIONS];
+    rowFn = listRowPrediction;
+    label = "예측 (Bot3 상호연관성 분석)";
+  } else {
+    const base = activeCat === "AI소식" ? AI_ITEMS : (activeCat === "전체" ? ITEMS : ITEMS.filter(i => i.c === activeCat));
+    const t = TIERS.find(x => x.label === activeTier);
+    sorted = base.filter(i => i.s >= t.range[0] && i.s <= t.range[1]).sort((a,b) => b.s - a.s);
+    rowFn = listRowItem;
+    label = activeCat === "AI소식" ? `${activeTier} · 콘텐츠 평가 (사이트 자체는 평가 대상 아님)` : `${activeTier} 점수 구간 · ${activeCat}`;
+  }
+
+  const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
+  if (listPage > totalPages - 1) listPage = totalPages - 1;
+  if (listPage < 0) listPage = 0;
+  const start = listPage * PAGE_SIZE;
+  const pageItems = sorted.slice(start, start + PAGE_SIZE);
+
+  view.innerHTML = `
+    <div class="listhead">${label}</div>
+    ${pageItems.length ? pageItems.map(rowFn).join("") : '<div class="empty">해당 구간에 항목이 없습니다</div>'}
+    ${sorted.length ? renderPager(sorted.length, totalPages, start, pageItems.length) : ""}
+  `;
+  wirePager(totalPages);
 }
 
 const AI_ITEMS = [
@@ -173,64 +269,19 @@ const AI_ITEMS = [
   {t:"중국 AI 거품 붕괴 가속…기술주 시총 640조 증발", c:"경제", ci:"🤖", s:84, d:"중국 AI 관련 기술주의 거품 붕괴가 가속화되며 시가총액 640조원이 증발해, AI 투자 과열에 대한 경고 신호로 해석된다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216748"},
   {t:"앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지", c:"산업", ci:"🤖", s:79, d:"앤트로픽이 사용량 안내 혼선에 대응해 요금제를 개편하고 기존 5시간 사용 제한을 폐지해, Claude 구독자 경험에 직접 영향을 준다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216846"},
   {t:"딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축", c:"연구", ci:"🤖", s:75, d:"딥시크가 코딩 전용 슈퍼 에이전트를 공개해, 6개월이라는 짧은 기간에 선두 모델 추격 기반을 구축했다는 평가를 받는다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216865"},
-  {t:"구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개", c:"연구", ci:"🤖", s:72, d:"구글이 음성 입력과 실시간 편집 기능을 갖춘 월드모델 '지니 4'를 공개해, 멀티모달 생성형 AI 경쟁의 새 축을 열었다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216731"}
+  {t:"구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개", c:"연구", ci:"🤖", s:72, d:"구글이 음성 입력과 실시간 편집 기능을 갖춘 월드모델 '지니 4'를 공개해, 멀티모달 생성형 AI 경쟁의 새 축을 열었다.", fresh:"AI타임스", date:"2026-11-03", url:"https://www.aitimes.com/news/articleView.html?idxno=216731"},
+  {t:"OpenAI, 생물·신약개발 특화 'GPT-Rosalind-6' 시스템 카드 공개", c:"산업", ci:"🤖", s:73, d:"OpenAI가 GPT-6 Astra와 가중치를 공유하는 생물학·신약개발 특화 추론모델 'GPT-Rosalind-6'의 시스템 카드 애덴덤을 공개했으며, 생물무기 오용 방지 안전장치를 갖춘 채 자격을 갖춘 연구자에게만 제공된다.", fresh:"TLDR AI", date:"2026-11-02", url:"https://deploymentsafety.openai.com/gpt-rosalind-6"},
+  {t:"사전학습 데이터 0.1% 오염만으로 코딩 에이전트에 원격코드 백도어 심기 가능", c:"논문", ci:"🌍", s:77, d:"연구진이 사전학습 데이터의 0.1%만 악성으로 조작해도 AI 코딩 에이전트에 지속적인 원격 코드 실행 백도어를 심을 수 있음을 실증해, AI 공급망 보안에 대한 경각심을 높였다.", fresh:"TLDR AI", date:"2026-11-02", url:"https://arxiv.org/abs/2610.37741"},
+  {t:"Ben's Bites, 'AI가 너무 과하다' - 주간 AI 소식 정리", c:"산업", ci:"🤖", s:52, d:"벤 토셀이 AI 도구 과잉사용에 대한 성찰과 함께 구글 '제미나이 4 카본'·'지니 4' 출시, 전문가 86%가 에이전트 제안을 따른다는 연구 등 한 주의 AI 소식을 정리했다.", fresh:"Ben's Bites", date:"2026-10-29", url:"https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it"},
+  {t:"CMU·JHU, 사전학습·후속학습 통합한 '단일 알고리즘' 파운데이션 모델 학습법 제안", c:"논문", ci:"🌍", s:74, d:"CMU·JHU 연구진이 사전학습·미드트레이닝·SFT·RL을 하나의 최대우도 알고리즘으로 통합하는 'Unified Training'을 제안해, 계산 효율과 어려운 추론 문제에 대한 일반화 성능을 함께 개선했다.", fresh:"ArXiv Sanity", date:"2026-10-29", url:"https://arxiv.org/abs/2610.40564"},
+  {t:"몬드리안AI, 검색부터 업무 배분까지 대신하는 개인 AI 비서 '런유어봇' 공개", c:"산업", ci:"🤖", s:57, d:"몬드리안AI가 네이버·카카오톡과 지라·깃허브 연동으로 사용자 요청을 분석해 실제 업무를 대신 수행하는 멀티에이전트 개인비서 '런유어봇'을 공개하고 이달 무료 베타를 시작했다.", fresh:"인공지능신문", date:"2026-11-03", url:"https://www.aitimes.kr/news/articleView.html?idxno=42567"},
+  {t:"펜실베이니아대, 초당 440회 처리하는 로봇 시각 AI 'F³' 개발…기존보다 최대 5배 빨라", c:"연구", ci:"🌍", s:62, d:"펜실베이니아대가 이벤트 카메라 데이터를 VGA 해상도에서 초당 440프레임으로 처리하는 로봇 시각 AI 'F³'를 개발해, 환경별 재학습 없이 자율주행차·드론·사족보행 로봇에 적용 가능함을 입증했다.", fresh:"인공지능신문", date:"2026-11-03", url:"https://www.aitimes.kr/news/articleView.html?idxno=42568"},
+  {t:"한국인공지능협회, 2026 AI 스타트업 참여기업·회원기관 합동전략회의 개최", c:"정책", ci:"🏢", s:41, d:"한국인공지능협회(KORAIA)가 2026 AI 스타트업 지원사업 참여기업과 회원기관을 대상으로 합동전략회의를 열어 국내 AI 스타트업 생태계 지원 방향과 협력 방안을 논의했다.", fresh:"한국인공지능협회", date:"2026-10-29", url:"https://koraia.org/default/mp5/sub1.php?com_board_basic=read_form&com_board_idx=568&sub=01&com_board_id=9"},
+  {t:"앤트로픽, 파이썬 SDK에 분석·지출한도·역할기반 접근제어(RBAC) 정식 기능 추가", c:"엔지니어링", ci:"🏢", s:52, d:"앤트로픽이 파이썬 SDK v2.4.0을 공개해 분석(analytics)·지출 한도·역할기반 접근제어(RBAC) 기능을 정식 반영하고, 툴 사용·컨텍스트 압축 한도에 대한 세션 오류 타입도 추가했다.", fresh:"Anthropic", date:"2026-11-02", url:"https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0"},
+  {t:"Google DeepMind 'PlanAssist', 영국 지방정부 건축 인허가 심사시간 최대 58% 단축", c:"산업", ci:"🤖", s:60, d:"구글 딥마인드의 제미나이 기반 AI 도구 'PlanAssist'가 영국 지방정부 파일럿에서 건축 인허가 심사시간을 최대 58% 단축시켰으며, 12개 의회로 확대돼 2027년 전국 도입을 앞두고 있다.", fresh:"DeepMind", date:"2026-10-31", url:"https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"},
+  {t:"CoworkOS, 코덱스·딥시크 하니스와 경쟁하는 범용 에이전트 협업 하니스 공개", c:"논문", ci:"🌍", s:66, d:"중국 인민대 연구진이 작업 전략과 실행 관리를 분리한 범용 에이전트 협업 하니스 'CoworkOS'를 공개해, 계층적 작업공간과 영속 메모리로 12개 벤치마크에서 코덱스·딥시크 하니스에 경쟁력 있는 성능을 보였다.", fresh:"HuggingFace", date:"2026-11-02", url:"https://arxiv.org/abs/2611.03178"},
+  {t:"OpenAI, 보안 버그 바운티 대폭 인상…핵심 제품 최대 17만 2천 달러", c:"정책", ci:"🏢", s:60, d:"OpenAI가 ChatGPT·Codex·API의 critical 등급 보안 버그 바운티 기준 보상을 3만 달러로, 보너스 포함 최대 17만 2천 달러까지 인상했다고 발표했다.", fresh:"OpenAI", date:"2026-11-02", url:"https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/"}
 ];
-
-function renderNav(){
-  const nav = document.getElementById("navtabs");
-  nav.innerHTML = CATEGORIES.map(c => `<span class="${c.key===activeCat?'active':''}" data-cat="${c.key}">${c.icon} ${c.key}</span>`).join("");
-  nav.querySelectorAll("span").forEach(el => el.onclick = () => { activeCat = el.dataset.cat; renderNav(); renderBoard(); });
-}
-
-function renderBoard(){
-  let html = "";
-  if (activeCat === "AI소식") {
-    const sorted = [...AI_ITEMS].sort((a,b)=>b.s-a.s);
-    const totalPages = Math.max(1, Math.ceil(sorted.length / AI_PAGE_SIZE));
-    if (aiPage > totalPages - 1) aiPage = totalPages - 1;
-    if (aiPage < 0) aiPage = 0;
-    const start = aiPage * AI_PAGE_SIZE;
-    const pageItems = sorted.slice(start, start + AI_PAGE_SIZE);
-    html = `<div class="col" style="width:100%; max-width:920px;">
-      <div class="colhead"><span class="dot" style="background:#3f7fe0"></span>콘텐츠 평가 (사이트 자체는 평가 대상 아님) <span class="colcount">${sorted.length}건 중 ${start+1}-${start+pageItems.length}</span></div>
-      <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">${pageItems.map(card).join("")}</div>
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-top:10px; padding:0 2px;">
-        <button id="aiPrevBtn" ${aiPage===0?'disabled':''} style="padding:6px 14px; border-radius:8px; border:1px solid var(--border); background:var(--card); color:var(--foreground); cursor:pointer; font-size:12px; opacity:${aiPage===0?'0.4':'1'};">← 이전 페이지</button>
-        <span style="font-size:12px; color:var(--muted-foreground);">${aiPage+1} / ${totalPages} 페이지</span>
-        <button id="aiNextBtn" ${aiPage>=totalPages-1?'disabled':''} style="padding:6px 14px; border-radius:8px; border:1px solid var(--border); background:var(--card); color:var(--foreground); cursor:pointer; font-size:12px; opacity:${aiPage>=totalPages-1?'0.4':'1'};">다음 페이지 →</button>
-      </div>
-    </div>`;
-    document.getElementById("board").innerHTML = html;
-    const prevBtn = document.getElementById("aiPrevBtn");
-    const nextBtn = document.getElementById("aiNextBtn");
-    if (prevBtn) prevBtn.onclick = () => { if (aiPage > 0) { aiPage--; renderBoard(); } };
-    if (nextBtn) nextBtn.onclick = () => { if (aiPage < totalPages - 1) { aiPage++; renderBoard(); } };
-    return;
-  }
-  if (activeCat === "예측") {
-    html = `<div class="col" style="width:340px;">
-      <div class="colhead"><span class="dot" style="background:#8a5fe0"></span>Predictions <span class="colcount">${PREDICTIONS.length}</span></div>
-      ${PREDICTIONS.length ? PREDICTIONS.map(predCard).join("") : '<div class="empty">예측 없음</div>'}
-    </div>`;
-    document.getElementById("board").innerHTML = html;
-    return;
-  }
-  const base = activeCat === "전체" ? ITEMS : ITEMS.filter(i => i.c === activeCat);
-  TIERS.forEach(tier => {
-    const items = base.filter(i => i.s >= tier.range[0] && i.s <= tier.range[1]).sort((a,b)=>b.s-a.s);
-    html += `<div class="col">
-      <div class="colhead"><span class="dot" style="background:${tier.color}"></span>${tier.label} <span class="colcount">${items.length}</span></div>
-      ${items.length ? items.map(card).join("") : '<div class="empty">해당 구간 항목 없음</div>'}
-    </div>`;
-  });
-  if (activeCat === "전체") {
-    html += `<div class="col">
-      <div class="colhead"><span class="dot" style="background:#8a5fe0"></span>Predictions <span class="colcount">${PREDICTIONS.length}</span></div>
-      ${PREDICTIONS.length ? PREDICTIONS.map(predCard).join("") : '<div class="empty">예측 없음</div>'}
-    </div>`;
-  }
-  document.getElementById("board").innerHTML = html;
-}
 
 fetch("./data.json?_=" + Date.now())
   .then(r => r.json())
@@ -244,7 +295,7 @@ fetch("./data.json?_=" + Date.now())
     renderBoard();
   })
   .catch(e => {
-    document.getElementById("board").innerHTML = '<div class="empty">데이터 로드 실패: ' + e + '</div>';
+    document.getElementById("listview").innerHTML = '<div class="empty">데이터 로드 실패: ' + e + '</div>';
   });
 </script>
 </body>
