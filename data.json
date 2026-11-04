@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 03:33",
+  "generated_at": "2026-11-04 04:44",
   "items": [
     {
       "id": "ai-datacenter-ballot-measures-rejected",
@@ -110,6 +110,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist"
+    },
+    {
+      "id": "bitcoin-77k-breakdown-crypto-selloff",
+      "t": "비트코인 7만7000달러 붕괴…장중 7만3000달러, 2024년 11월 이후 최저",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "비트코인이 11월 4일 7만7000달러선을 내주고 장중 7만3000달러까지 밀려 2024년 11월 이후 최저를 기록했고, 암호화폐 전체 시가총액도 2.39% 줄어 2조5900억 달러를 하회했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.newspim.com/news/view/20261103001345"
     },
     {
       "id": "brazil-fossil-fuel-deforestation-roadmaps",
@@ -231,6 +242,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://view.asiae.co.kr/article/2026110407270500276"
+    },
+    {
+      "id": "europe-flights-cruise-bomb-threats",
+      "t": "유럽 항공편 7편·이스라엘행 크루즈선, 하루에 허위 폭탄위협…바르샤바 공항 일시 폐쇄",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 62,
+      "d": "11월 3일 유럽에서 항공편 7편과 승객 1,500명을 태운 이스라엘행 크루즈선이 폭탄 위협을 받아 바르샤바 공항이 일시 폐쇄되고 이탈리아 공군이 전투기를 띄웠으나, 폭발물은 발견되지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found"
     },
     {
       "id": "europe-supermarket-fridge-cyberattack-round2",
@@ -387,6 +409,17 @@
       "url": "https://zdnet.co.kr/view/?no=20261103160804"
     },
     {
+      "id": "kim-jongun-nampho-shipyard-warships",
+      "t": "김정은, 남포조선소 시찰 '가장 선진적 군함' 선언…같은 날 김여정 '대화 필요 없다'",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 57,
+      "d": "김정은이 11월 2일 남포조선소를 시찰해 '가장 선진적이고 강력한 군함' 보유 의지를 밝혔고, 같은 11월 4일 김여정은 미국과 대화할 필요가 없다는 담화를 냈다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/04/north-korea-s-kim-vows-to-build-most-advanced-warships"
+    },
+    {
       "id": "kimberly-clark-kenvue-acquisition",
       "t": "킴벌리클라크, 타이레놀 제조사 켄뷰 487억 달러 인수…KMB 14% 급락",
       "c": "경제",
@@ -396,6 +429,28 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html"
+    },
+    {
+      "id": "korea-fabricated-indictment-special-counsel-bill",
+      "t": "'조작기소 특검법' 법사위 상정…국민의힘 10분 만에 집단 퇴장, 11월 5일 본회의 처리 목표",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 70,
+      "d": "더불어민주당이 11월 4일 법사위 전체회의에서 '조작기소 특검법'을 상정하자 국민의힘이 약 10분 만에 집단 퇴장하고 모든 법안에 대한 필리버스터를 예고했으며, 민주당은 11월 5일 본회의 처리를 목표로 한다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.news1.kr/politics/assembly/6342692"
+    },
+    {
+      "id": "korea-humanoid-data-factory-opening",
+      "t": "과기정통부 'AI 휴머노이드 데이터 팩토리' 개소…국내 첫 이족보행 전용 데이터 생산시설, 로봇 12대 가동",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 74,
+      "d": "과학기술정보통신부가 한국기계연구원·ETRI와 함께 국내 첫 이족보행 휴머노이드 전용 데이터 생산시설인 'AI 휴머노이드 데이터 팩토리'를 11월 4일 개소하고 로봇 12대를 가동한다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216973"
     },
     {
       "id": "korea-stock-market-ai-bubble-selloff",
@@ -451,6 +506,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://news.liverpool.ac.uk/2026/11/03/university-of-liverpool-detector-helps-scientists-uncover-evidence-of-rarest-particle-decay-after-42-year-search/"
+    },
+    {
+      "id": "luckin-coffee-q3-2026-record-profit",
+      "t": "루이싱커피 3분기 사상 최대 이익…순이익 51%↑ 21.45억 위안, 5억 달러 자사주 매입",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "루이싱커피가 2026년 3분기 Non-GAAP 순이익 21억4500만 위안으로 분기 사상 최대를 기록하고 5억 달러 자사주 매입을 승인했으며, 매장은 33% 늘어 38,900개가 됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.thestandard.com.hk/finance/article/347426/Luckin-Coffee-posts-record-quarterly-profit-announces-US500-million-buyback"
     },
     {
       "id": "marvell-lumentum-ai-photonics-merger",
@@ -539,6 +605,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://dealroom.co/news/168755-abu-dhabi-wants-to-be-the-worlds-first-ai-native-government-and-openai-i/"
+    },
+    {
+      "id": "openai-chatgpt-search-20-percent-google",
+      "t": "오픈AI \\\"챗GPT 검색량이 구글의 20%\\\"…주간 활성 사용자 12억 명 돌파",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 81,
+      "d": "오픈AI가 챗GPT를 통한 검색 쿼리량이 구글 전체 검색량의 약 20%에 도달했고 주간 활성 사용자가 12억 명을 넘었다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216977"
     },
     {
       "id": "palantir-q3-2026-tcv-slowdown",
@@ -660,6 +737,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
+    },
+    {
+      "id": "unesco-itu-brazil-ai-climate-institute",
+      "t": "유네스코·ITU·브라질, 'AI 기후연구소' 설립…아마존 산림파괴 AI 감시 실증",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 55,
+      "d": "유네스코가 브라질 정부·ITU와 함께 브라질리아에 '인공지능 기후연구소(AICI)'를 설립해 개발도상국의 자원 효율적 AI 설계를 지원하고 아마존 유역 산림파괴 예방 실증을 추진한다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.unesco.org/en/articles/unesco-brazilian-government-and-itu-partner-launch-green-ai-climate-institute"
     },
     {
       "id": "us-agoa-south-africa-rwanda-removal",
