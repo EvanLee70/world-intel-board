@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 06:42",
+  "generated_at": "2026-11-04 08:44",
   "items": [
     {
       "id": "ai-datacenter-ballot-measures-rejected",
@@ -453,6 +453,17 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html"
     },
     {
+      "id": "korea-821tn-budget-review-start",
+      "t": "역대 최대 821조 예산안 심사 개시…162조 '미래대응기금' 쟁점, 野 27조 삭감 vs 與 4대 분야 증액",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 82,
+      "d": "국회 예결위가 11월 4일 821조 원 규모 2027년도 예산안 종합정책질의에 돌입했고, 162조 원 미래대응기금의 용처를 놓고 여야가 정면 충돌했다. 법정 처리시한은 12월 2일이다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.fnnews.com/news/202611040608451257"
+    },
+    {
       "id": "korea-fabricated-indictment-special-counsel-bill",
       "t": "'조작기소 특검법' 법사위 상정…국민의힘 10분 만에 집단 퇴장, 11월 5일 본회의 처리 목표",
       "c": "정치",
@@ -607,6 +618,17 @@
       "url": "https://spectrumlocalnews.com/nc/triad/international/2026/11/02/netanyahu-pressing-trump-to-attack-iran-after-midterms-officials-say"
     },
     {
+      "id": "nikke-pc-launcher-supply-chain-attack",
+      "t": "'니케' PC 런처 공급망 침해…레벨 인피니트 CDN 자바스크립트 4개 변조, 암호화폐 지갑 28종·SSH 키 표적",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 77,
+      "d": "텐센트 계열 레벨 인피니트의 CDN 공식 자바스크립트 파일 4개가 9월 27일부터 변조돼, 니케 PC 런처를 실행하면 원격 제어·자료 탈취가 가능한 상태였다고 회사가 11월 4일 인정했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.etnews.com/20261104000227"
+    },
+    {
       "id": "north-korea-cluster-warhead-missile-test",
       "t": "북한, 신형 클러스터탄두 순항미사일 시험…남북 긴장 고조",
       "c": "국제",
@@ -750,6 +772,17 @@
       "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end"
     },
     {
+      "id": "trump-iran-war-election-defeat-admission",
+      "t": "트럼프, 이란 전쟁이 중간선거 패인 중 하나임을 인정…공격 재개는 \\\"서두를 것 없다\\",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 82,
+      "d": "트럼프 대통령이 11월 3일 WSJ·FT 인터뷰에서 이란 전쟁이 공화당 중간선거 부진의 원인 중 하나였다고 인정하면서도 개전 결정은 옳았다고 말하고, 선거 후 공격 재개는 서두르지 않겠다며 협상 가능성을 강조했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.hankyung.com/article/2026110460957"
+    },
+    {
       "id": "uk-eu-brexit-food-deal",
       "t": "英-EU, 브렉시트 식품·농산물 수출 검역 폐지 초안 합의",
       "c": "경제",
@@ -882,6 +915,17 @@
       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
     },
     {
+      "id": "us-stocks-nov3-mixed-semiconductor-rebound",
+      "t": "11월 3일 뉴욕증시 혼조…다우 -0.38%, 나스닥 +0.83%, AMD +3.65%·엔비디아 +2.29% 반도체 반발 매수",
+      "c": "경제",
+      "ci": "📉",
+      "s": 82,
+      "d": "11월 3일 뉴욕증시는 다우가 0.38% 하락하고 S&P500·나스닥은 상승 마감했다. AI 반도체주에 저가 매수세가 들어온 반면 애플·팔란티어는 하락해 지수 간 방향이 갈렸다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267647"
+    },
+    {
       "id": "venezuela-phased-transition-plan",
       "t": "美, 베네수엘라에 3단계 민주주의 전환 이행 촉구…2027년 대선 일정 제시",
       "c": "정치",
@@ -924,6 +968,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.newspim.com/news/view/20261103001143"
+    },
+    {
+      "id": "yeoksam-serial-arson-suspect-disclosed",
+      "t": "역삼동 특허법인 연쇄방화 피의자 신상공개…77세 이명수, 26명 부상·살인미수 추가",
+      "c": "사회",
+      "ci": "✊",
+      "s": 50,
+      "d": "서울경찰청이 10월 20일 역삼동 건물 두 곳에 연쇄 방화해 26명을 다치게 한 77세 이명수의 신상을 11월 3일부터 30일간 공개했고, 경찰은 살인미수 혐의를 추가 적용했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=392652"
     },
     {
       "id": "yoon-election-law-appeal-ruling",
@@ -975,7 +1030,7 @@
     },
     {
       "t": "AI 섹터 정치 리스크의 3경로(연방 감독·지방 입지·상장 심사) 동시 수렴 전망",
-      "d": "미 중간선거 민주당 강세 개표에 데이터센터 주민투표 반대 6건 전승과 워런 상원의원의 앤트로픽 S-1 질의가 같은 48시간에 겹치면서, AI 자본지출에 대한 정치적 압력이 연방 감독·지방 입지·상장 심사 세 경로로 동시에 들어오는 국면을 전망한다.",
+      "d": "미 중간선거에서 민주당이 상원 53-41·하원 최소 245석으로 양원을 동시 장악한 확정 결과에 데이터센터 주민투표 반대 6건 전승과 워런 상원의원의 앤트로픽 S-1 질의가 같은 48시간에 겹치면서, AI 자본지출에 대한 정치적 압력이 연방 감독·지방 입지·상장 심사 세 경로로 동시에 들어오는 국면을 전망한다.",
       "conf": "중간~높음",
       "strength": 1.0
     },
@@ -1012,6 +1067,12 @@
     {
       "t": "AI 섹터 밖 지배구조·대형 M&A로의 자금 이동 전망",
       "d": "코스피 AI 거품론 급락과 같은 날 한진칼이 경영권 분쟁으로 상한가를 기록하고 킴벌리클라크가 켄뷰를 487억 달러에 인수하면서, 일정이 특정된 비AI 이벤트 드리븐 종목으로 자금이 이동할 가능성을 전망한다.",
+      "conf": "낮음~중간",
+      "strength": 0.8
+    },
+    {
+      "t": "추론 원가 경쟁축의 이동, 범용 GPU에서 '이기종 조합 + 오케스트레이션'으로 전환 전망",
+      "d": "AMD가 퓨리오사AI·망고부스트와 MOU를 맺고 CPU+GPU+NPU+DPU 레퍼런스 클러스터를 2027년 봄 서울에 구축한다고 발표한 것과 AMD의 데이터센터 97% 급증, HBM 공급 부족, 래블업의 상장 첫날 25% 하락이 한 축에 놓이면서, 추론 원가 경쟁의 기준이 범용 GPU 성능에서 작업별 가속기 조합으로 이동할 가능성을 전망한다.",
       "conf": "낮음~중간",
       "strength": 0.8
     },
@@ -1055,7 +1116,7 @@
       "t": "우크라이나·러시아 정전 국면 불안정, 확전 신호 전망",
       "d": "자포리자 구호시설 공습과 재난경보 앱 해킹에 11월 10~11일 아부다비 美 중재 3자 협상 일정이 더해지며, 우크라이나·러시아 정전 국면의 불안정성이 확정된 분기점을 맞을 가능성을 전망한다.",
       "conf": "중간",
-      "strength": 0.8
+      "strength": 0.9
     },
     {
       "t": "유엔 환경 총회 연쇄, 기후·생물다양성 재원 논란 지속 전망",
@@ -1071,9 +1132,9 @@
     },
     {
       "t": "초박빙 상원 구도에서 현직 의원 건강 변수 전망",
-      "d": "상원 53-45 초박빙 구도로 치러진 미 중간선거 직전, 민주당 머피 상원의원의 뇌졸중 입원이 겹치며 상원 표결력에 건강 변수가 미칠 영향을 예측한다.",
+      "d": "상원 초박빙 구도를 전제로 세운 건강 변수 축이, 중간선거에서 민주당이 53석(순증 7석)으로 확정되며 사전에 명시한 반증 조건을 충족해 종결된 기록이다.",
       "conf": "낮음",
-      "strength": 0.7
+      "strength": 0.8
     },
     {
       "t": "미국 관세·무역정책 재편, 교역국 경제 동시다발 충격 전망",
