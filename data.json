@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-04 02:17",
+  "generated_at": "2026-11-04 02:40",
   "items": [
+    {
+      "t": "AI 데이터센터 주민투표 10개 주 41건 부쳐져…결정된 6건 전부 개발 반대, 텍사스는 신규 승인 중단",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 87,
+      "d": "11월 3일 미 중간선거에서 10개 주 41건의 데이터센터 주민투표가 부쳐졌고 결정된 6건 모두 개발 반대로 나왔으며, 텍사스 주지사는 감사 완료까지 신규 승인을 중단했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.usnews.com/news/politics/articles/2026-10-29/ai-data-center-boom-faces-backlash-at-us-ballot-box"
+    },
     {
       "t": "美 스타트업, AI가 설계한 바이러스 세계 최초 인체 투여",
       "c": "과학",
@@ -192,6 +202,16 @@
       "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
     },
     {
+      "t": "쿠팡 3분기 영업손실 6,423억 원…3분기 연속 적자, 누적 1조 8,318억으로 역대 최대",
+      "c": "경제",
+      "ci": "📉",
+      "s": 88,
+      "d": "쿠팡Inc가 11월 4일 SEC 제출 3분기 실적에서 영업손실 4억 5,000만 달러(6,423억 원)를 공시했고, 1~3분기 누적 영업손실 1조 8,318억 원으로 종전 최대인 2021년 기록을 넘어섰다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://view.asiae.co.kr/article/2026110407270500276"
+    },
+    {
       "t": "유럽 슈퍼마켓 냉장고 2차 사이버공격…벨기에·스웨덴·이탈리아 식품 손실",
       "c": "사회",
       "ci": "✊",
@@ -210,6 +230,16 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
+    },
+    {
+      "t": "워시 연준, 12월 금리 '인상' 확률 85%까지…10월 FOMC 동결에 인상 반대표 2명",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "케빈 워시 체제 연준이 10월 28일 금리를 3.75~4.00%로 동결했으나 2명이 인상을 주장했고, CME FedWatch 기준 12월 9일 인상 확률이 85%까지 올랐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.noradarealestate.com/blog/interest-rates-hike-odds-december-2026-jump-85-after-feds-recent-decision/"
     },
     {
       "t": "美 플로리다 리어젯 추락, 탑승자 9명 전원 사망…NTSB '공중분해 가능성'",
@@ -310,6 +340,16 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege"
+    },
+    {
+      "t": "LG엔솔 ESS 수주잔고 160GWh·2028년까지 완판…K배터리 3사, 美 LFP ESS로 중국 공백 흡수",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "LG에너지솔루션이 ESS 수주잔고 160GWh로 2028년 공급분 대부분을 확정하고 북미 CAPA를 내년 말 70GWh로 늘리며, 삼성SDI 60GWh·SK온은 전기차 라인을 ESS로 전환한다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://zdnet.co.kr/view/?no=20261103160804"
     },
     {
       "t": "킴벌리클라크, 타이레놀 제조사 켄뷰 487억 달러 인수…KMB 14% 급락",
@@ -582,6 +622,16 @@
       "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-says-canada-us-very-close-to-having-a-deal-following-pm-carney-saying-they-had-a-good-conversation/"
     },
     {
+      "t": "민주당 압승 전망에 美 지수선물 하락…나스닥100 선물 -2%, 예측시장 스윕 확률 95%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 91,
+      "d": "미 중간선거 개표가 민주당 강세로 흐르자 11월 4일 아시아 시간대 나스닥100 선물이 최대 2% 하락했고, 민주당 의회의 AI 기업 감독 강화 우려가 하락 이유로 지목됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html"
+    },
+    {
       "t": "美, 카타르 중재 이란 초안 합의(MOU) 승인…브렌트유 7% 급락 103.60달러",
       "c": "국제",
       "ci": "🌐",
@@ -612,6 +662,16 @@
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
     },
     {
+      "t": "美 중간선거 개표, 민주당 상원 2석 플립·조지아 주지사 탈환…양원 다수당은 미확정",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 81,
+      "d": "미 중간선거 개표에서 민주당이 노스캐롤라이나·뉴햄프셔 상원 2석과 조지아·콜로라도 주지사를 플립했고, 예측기관은 하원 84%·상원 64% 민주당 승리를 보지만 수집 시점에 양원 다수당 프로젝션은 나오지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+    },
+    {
       "t": "美, 베네수엘라에 3단계 민주주의 전환 이행 촉구…2027년 대선 일정 제시",
       "c": "정치",
       "ci": "🏛️",
@@ -620,6 +680,26 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition"
+    },
+    {
+      "t": "보이저 1호, 11월 18일 인공물 최초 '1광일' 도달…259억 km, 왕복 통신 2일",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 54,
+      "d": "NASA 보이저 1호가 2026년 11월 18일 오전 2시 16분(PST) 지구에서 1광일(259억 km·173.14AU) 거리에 도달하며, 발사 후 49년 2개월 11일이 걸린 인류 최초 기록이다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+    },
+    {
+      "t": "워런 상원의원, 앤트로픽에 S-1 '실존적 위험' 4페이지 질의…IPO 직결 첫 의회 압박",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 77,
+      "d": "엘리자베스 워런 상원의원이 앤트로픽 CEO에게 4페이지 질의서를 보내 11월 3일까지 답변을 요구하며, S-1의 실존적 위험 문구·2조 달러 밸류에이션 근거·아마존·브로드컴 집중 리스크를 캐물었다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://thenextweb.com/news/anthropic-ipo-retail-warren-s-1-details"
     },
     {
       "t": "위고비 건강보험 급여 신청…'평생 투약비' 재정 부담 논란, 약평위 120일 심사",
