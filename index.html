@@ -204,10 +204,20 @@ const PAGE_SIZE = 10;
 
 function scoreColor(s){ if (s>=80) return "#e0565a"; if (s>=70) return "#3f7fe0"; if (s>=60) return "#e0a23f"; return "#7a7a7a"; }
 
+function markRead(id){
+  try {
+    if (!id) return;
+    const url = "/api/mark-read?id=" + encodeURIComponent(id);
+    if (navigator.sendBeacon) { navigator.sendBeacon(url); }
+    else { fetch(url, { keepalive: true }).catch(() => {}); }
+  } catch(e) {}
+}
+
 function listRowItem(it){
   const col = scoreColor(it.s);
   const tag = it.url ? "a" : "div";
-  const attrs = it.url ? ` href="${it.url}" target="_blank" rel="noopener"` : "";
+  const clickAttr = it.url && it.id ? ` onclick="markRead('${it.id}')"` : "";
+  const attrs = it.url ? ` href="${it.url}" target="_blank" rel="noopener"${clickAttr}` : "";
   return `<${tag} class="listrow"${attrs}>
     <div class="lr-top">
       <div class="lr-1">${it.t}</div>

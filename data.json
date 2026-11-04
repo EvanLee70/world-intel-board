@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-11-04 02:42",
+  "generated_at": "2026-11-04 03:32",
   "items": [
     {
+      "id": "ai-datacenter-ballot-measures-rejected",
       "t": "AI 데이터센터 주민투표 10개 주 41건 부쳐져…결정된 6건 전부 개발 반대, 텍사스는 신규 승인 중단",
       "c": "기술",
       "ci": "🤖",
@@ -12,6 +13,7 @@
       "url": "https://www.usnews.com/news/politics/articles/2026-10-29/ai-data-center-boom-faces-backlash-at-us-ballot-box"
     },
     {
+      "id": "ai-designed-virus-human-trial",
       "t": "美 스타트업, AI가 설계한 바이러스 세계 최초 인체 투여",
       "c": "과학",
       "ci": "🧬",
@@ -22,6 +24,7 @@
       "url": "https://www.techradar.com/pro/a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resistant-bacteria-so-lets-see-how-that-turns-out"
     },
     {
+      "id": "ai-investment-boom-market-jitters",
       "t": "AI 투자 붐, 금융시장 불안 신호",
       "c": "경제",
       "ci": "📉",
@@ -32,6 +35,7 @@
       "url": "https://www.riotimesonline.com/global-economy-briefing-november-2-2026"
     },
     {
+      "id": "amd-q3-2026-record-datacenter",
       "t": "AMD 3분기 매출 134억 달러…데이터센터 97% 급증, 4분기 가이던스 170억 달러(+66%)",
       "c": "경제",
       "ci": "📉",
@@ -42,6 +46,7 @@
       "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
     },
     {
+      "id": "anthropic-ipo-november-2026",
       "t": "앤트로픽, 11월 16일 주간 IPO 추진…수정 S-1서 성장 둔화·분기 손실 공개",
       "c": "기술",
       "ci": "🤖",
@@ -52,6 +57,7 @@
       "url": "https://simplifyaitools.com/newsletter/ai-news-november-2026-anthropic-microsoft-google/"
     },
     {
+      "id": "apec-shenzhen-leaders-meeting-2026",
       "t": "제33차 APEC 정상회의 11월 18~19일 선전 개최…트럼프 참석, 중일 접촉 주목",
       "c": "국제",
       "ci": "🌐",
@@ -62,6 +68,7 @@
       "url": "https://www.upi.com/Top_News/World-News/2026/10/18/apec-2026-shenzhen-donald-trump-xi-jinping/3011792364819/"
     },
     {
+      "id": "apple-china-qwen-ai-integration",
       "t": "애플, 중국서 알리바바 '큐원(Qwen)' AI 탑재한 애플 인텔리전스 테스트 시작",
       "c": "기술",
       "ci": "🤖",
@@ -72,6 +79,7 @@
       "url": "https://www.businesstoday.com.my/2026/11/01/alibaba-to-integrate-qwen-ai-into-apple-ios-from-nov-4/"
     },
     {
+      "id": "apple-q4-fy2026-record-earnings",
       "t": "애플 FY26 4분기 매출 1,145억 달러…iPhone 17%·서비스 역대 최대",
       "c": "경제",
       "ci": "📉",
@@ -82,6 +90,7 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm"
     },
     {
+      "id": "belgium-pm-resigns-budget-crisis",
       "t": "벨기에 총리 드베버, 예산안 협상 실패로 사퇴",
       "c": "정치",
       "ci": "🏛️",
@@ -92,6 +101,7 @@
       "url": "https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313"
     },
     {
+      "id": "binance-incident-report-fake-job-interview",
       "t": "바이낸스, 63.4억 달러 해킹 경로 공개…가짜 채용면접으로 엔지니어에 악성 리포지터리 심어",
       "c": "사회",
       "ci": "✊",
@@ -102,6 +112,7 @@
       "url": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist"
     },
     {
+      "id": "brazil-fossil-fuel-deforestation-roadmaps",
       "t": "브라질, COP31 앞두고 세계 첫 '화석연료 탈출' 로드맵·산림파괴 종식 로드맵 공개",
       "c": "환경",
       "ci": "🌍",
@@ -112,6 +123,7 @@
       "url": "https://www.france24.com/en/live-news/20261103-ahead-of-cop31-brazil-offers-a-global-fossil-fuel-exit-plan"
     },
     {
+      "id": "canada-manufacturing-contraction-tariffs",
       "t": "캐나다 제조업, 2026년 들어 첫 수축…관세發 경기둔화 가속",
       "c": "경제",
       "ci": "📉",
@@ -122,6 +134,7 @@
       "url": "https://finwire.io/news/economy-news/canadian-manufacturing-contracts-for-first-time-in-2026-as-tariffs-hit-demand"
     },
     {
+      "id": "china-cleantech-exports-record",
       "t": "중국 청정기술 수출 사상 최대…CREA, 생애주기 84억톤 CO₂ 감축 추산",
       "c": "환경",
       "ci": "🌍",
@@ -132,6 +145,7 @@
       "url": "https://www.euronews.com/2026/11/02/chinas-record-breaking-clean-tech-exports-could-cut-co2-emissions-by-8400-million-tonnes-r"
     },
     {
+      "id": "china-manufacturing-pmi-contraction",
       "t": "중국 제조업 PMI 49.3으로 위축",
       "c": "경제",
       "ci": "📉",
@@ -142,6 +156,7 @@
       "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi"
     },
     {
+      "id": "china-rare-earth-control-expiry",
       "t": "중국 희토류 수출통제 유예 11월 10일 만료…0.1% 역외적용 조항 발효 임박",
       "c": "국제",
       "ci": "🌐",
@@ -152,6 +167,7 @@
       "url": "https://www.technology.org/2026/10/19/china-rare-earth-export-pause-november-10/"
     },
     {
+      "id": "cho-hee-dae-supreme-court-chief-investigation",
       "t": "민주당, 조희대 대법원장 국정조사 추진…헌정사 첫 사례",
       "c": "정치",
       "ci": "🏛️",
@@ -162,6 +178,7 @@
       "url": "https://www.24news.kr/news/articleView.html?idxno=311706"
     },
     {
+      "id": "choi-bul-am-actor-death",
       "t": "'국민 아버지' 배우 최불암 별세…각계 조문 행렬 끝에 영결",
       "c": "문화",
       "ci": "🎬",
@@ -172,6 +189,7 @@
       "url": "https://kormedi.com/2895460/"
     },
     {
+      "id": "chris-murphy-stroke-hospitalization",
       "t": "美 코네티컷 민주당 머피 상원의원, 뇌졸중으로 입원",
       "c": "정치",
       "ci": "🏛️",
@@ -182,6 +200,7 @@
       "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke"
     },
     {
+      "id": "cop17-biodiversity-yerevan-pathway",
       "t": "COP17 생물다양성총회 '예레반 경로' 합의…아프리카 지원금은 오히려 급감",
       "c": "환경",
       "ci": "🌍",
@@ -192,6 +211,7 @@
       "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
     },
     {
+      "id": "cop31-climate-conference-antalya",
       "t": "COP31 기후변화협약 당사국총회, 튀르키예 안탈리아에서 개막 예정",
       "c": "환경",
       "ci": "🌍",
@@ -202,6 +222,7 @@
       "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
     },
     {
+      "id": "coupang-q3-2026-record-operating-loss",
       "t": "쿠팡 3분기 영업손실 6,423억 원…3분기 연속 적자, 누적 1조 8,318억으로 역대 최대",
       "c": "경제",
       "ci": "📉",
@@ -212,6 +233,7 @@
       "url": "https://view.asiae.co.kr/article/2026110407270500276"
     },
     {
+      "id": "europe-supermarket-fridge-cyberattack-round2",
       "t": "유럽 슈퍼마켓 냉장고 2차 사이버공격…벨기에·스웨덴·이탈리아 식품 손실",
       "c": "사회",
       "ci": "✊",
@@ -222,6 +244,7 @@
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
     },
     {
+      "id": "europe-youth-protests-cost-of-living",
       "t": "유럽 전역 청년층, 교육 예산 부족·생활비 상승에 항의 시위",
       "c": "사회",
       "ci": "✊",
@@ -232,6 +255,7 @@
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
     },
     {
+      "id": "fed-december-hike-odds-warsh",
       "t": "워시 연준, 12월 금리 '인상' 확률 85%까지…10월 FOMC 동결에 인상 반대표 2명",
       "c": "경제",
       "ci": "📉",
@@ -242,6 +266,7 @@
       "url": "https://www.noradarealestate.com/blog/interest-rates-hike-odds-december-2026-jump-85-after-feds-recent-decision/"
     },
     {
+      "id": "florida-learjet-crash-nine-dead",
       "t": "美 플로리다 리어젯 추락, 탑승자 9명 전원 사망…NTSB '공중분해 가능성'",
       "c": "사회",
       "ci": "✊",
@@ -252,6 +277,7 @@
       "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
     },
     {
+      "id": "forgotten-particle-matter-antimatter-asymmetry",
       "t": "'잊혀진 입자'가 우주에 물질이 반물질보다 많은 이유를 설명할 열쇠로 제시",
       "c": "과학",
       "ci": "🧬",
@@ -262,6 +288,7 @@
       "url": "https://www.southampton.ac.uk/news/2026/10/forgotten-particle-could-answer-mystery-of-why-we-exist.page"
     },
     {
+      "id": "goldman-sachs-restricts-ai-coding-tools",
       "t": "골드만삭스, 트레이더·뱅커의 AI 코딩툴 접근 차단…엔지니어로 한정",
       "c": "경제",
       "ci": "📉",
@@ -272,6 +299,7 @@
       "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
     },
     {
+      "id": "hanjinkal-control-battle-limit-up",
       "t": "한진칼 경영권 분쟁 재점화…이틀 연속 급등 끝에 상한가",
       "c": "경제",
       "ci": "📉",
@@ -282,6 +310,7 @@
       "url": "https://biz.heraldcorp.com/article/10924017"
     },
     {
+      "id": "hanyang-securities-hacking",
       "t": "한양증권 해킹…그룹웨어 '다우오피스' 경유, 증권업계 세 번째 유출",
       "c": "사회",
       "ci": "✊",
@@ -292,6 +321,7 @@
       "url": "https://www.news1.kr/finance/general-stock/6340688"
     },
     {
+      "id": "hbm-memory-shortage-price-forecast",
       "t": "삼성전자, 내년 HBM4 완판…메모리 공급부족 2028년까지 지속 전망",
       "c": "경제",
       "ci": "📉",
@@ -302,6 +332,7 @@
       "url": "https://www.etoday.co.kr/news/view/2641658"
     },
     {
+      "id": "hera-didymos-dimorphos-first-resolved",
       "t": "ESA 헤라 탐사선, 디디모스-디모르포스를 처음으로 분리 관측…11월 25일 상세 영상 예정",
       "c": "과학",
       "ci": "🧬",
@@ -312,6 +343,7 @@
       "url": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time"
     },
     {
+      "id": "hollywood-shakeup-california-tax-credit",
       "t": "할리우드 경영진 교체 바람, 캘리포니아 10억 달러 세액공제 추진",
       "c": "문화",
       "ci": "🎬",
@@ -322,6 +354,7 @@
       "url": "https://furtherandbetter.substack.com/p/global-tv-film-and-media-industry-87b"
     },
     {
+      "id": "iran-hormuz-reopen-offer",
       "t": "이란, 美 요구 수용 시 호르무즈 해협 이틀 내 재개방 제안",
       "c": "국제",
       "ci": "🌐",
@@ -332,6 +365,7 @@
       "url": "https://www.arabnews.jp/en/middle-east/iran-says-strait-of-hormuz-could-reopen-within-two-days-if-us-meets-its-demands-3001221"
     },
     {
+      "id": "israel-hebron-siege-withdrawal",
       "t": "이스라엘군, 10일간 헤브론 봉쇄 해제 후 철수…주민 80만 명 영향",
       "c": "사회",
       "ci": "✊",
@@ -342,6 +376,7 @@
       "url": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege"
     },
     {
+      "id": "k-battery-ess-backlog-sold-out",
       "t": "LG엔솔 ESS 수주잔고 160GWh·2028년까지 완판…K배터리 3사, 美 LFP ESS로 중국 공백 흡수",
       "c": "경제",
       "ci": "📉",
@@ -352,6 +387,7 @@
       "url": "https://zdnet.co.kr/view/?no=20261103160804"
     },
     {
+      "id": "kimberly-clark-kenvue-acquisition",
       "t": "킴벌리클라크, 타이레놀 제조사 켄뷰 487억 달러 인수…KMB 14% 급락",
       "c": "경제",
       "ci": "📉",
@@ -362,6 +398,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html"
     },
     {
+      "id": "korea-stock-market-ai-bubble-selloff",
       "t": "코스피 3.59%·코스닥 4.08% 급락…AI 거품론 속 반도체주 동반 붕괴",
       "c": "경제",
       "ci": "📉",
@@ -372,6 +409,7 @@
       "url": "https://www.newspim.com/news/view/20261103001185"
     },
     {
+      "id": "kospi-rebound-nov4-semiconductor",
       "t": "코스피 11월 4일 2.43% 급등 개장 5,786.13…삼성전자·SK하이닉스에 개장 직후 2,414억 유입",
       "c": "경제",
       "ci": "📉",
@@ -382,6 +420,7 @@
       "url": "https://www.etoday.co.kr/news/view/2643824"
     },
     {
+      "id": "lablup-kosdaq-debut-plunge",
       "t": "래블업, 코스닥 상장 첫날 공모가 대비 25% 하락…AI 인프라 투자심리 냉각",
       "c": "경제",
       "ci": "📉",
@@ -392,6 +431,7 @@
       "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48732"
     },
     {
+      "id": "lee-jaemyung-passport-data-leak",
       "t": "대통령 전용기 탑승자 168명 개인정보, 5개월간 유출 방치",
       "c": "사회",
       "ci": "✊",
@@ -402,6 +442,7 @@
       "url": "https://www.khan.co.kr/article/202611031838001/"
     },
     {
+      "id": "lhcb-bd-mumu-rare-decay",
       "t": "LHCb, 42년 탐색 끝에 최희귀 붕괴 'Bd→μμ' 첫 증거 확보",
       "c": "과학",
       "ci": "🧬",
@@ -412,6 +453,7 @@
       "url": "https://news.liverpool.ac.uk/2026/11/03/university-of-liverpool-detector-helps-scientists-uncover-evidence-of-rarest-particle-decay-after-42-year-search/"
     },
     {
+      "id": "marvell-lumentum-ai-photonics-merger",
       "t": "마벨, 루멘텀 1,150억 달러 전액 주식교환 인수…AI 광통신 수직통합",
       "c": "경제",
       "ci": "📉",
@@ -422,6 +464,7 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
     },
     {
+      "id": "microsoft-60000-employee-buyouts",
       "t": "마이크로소프트, AI 재편 속 직원 6만 명 희망퇴직 제안",
       "c": "기술",
       "ci": "🤖",
@@ -432,6 +475,7 @@
       "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
     },
     {
+      "id": "nasa-perseverance-mars-distance-record",
       "t": "NASA 퍼서비어런스 로버, 화성 주행거리 신기록",
       "c": "과학",
       "ci": "🧬",
@@ -442,6 +486,7 @@
       "url": "https://www.sciencedaily.com/news/space_time/"
     },
     {
+      "id": "nasdaq100-correction-territory",
       "t": "나스닥100, 고점 대비 -10.4%로 공식 조정 영역 진입…나스닥 종합 25,164.32 마감",
       "c": "경제",
       "ci": "📉",
@@ -452,6 +497,7 @@
       "url": "https://247wallst.com/investing/2026/11/03/the-nasdaq-100-is-now-officially-in-a-correction/"
     },
     {
+      "id": "netanyahu-pressures-trump-iran-strike",
       "t": "네타냐후, 美 중간선거 이후 이란 공습 재개 압박…가자지구 공습도 지속",
       "c": "국제",
       "ci": "🌐",
@@ -462,6 +508,7 @@
       "url": "https://spectrumlocalnews.com/nc/triad/international/2026/11/02/netanyahu-pressing-trump-to-attack-iran-after-midterms-officials-say"
     },
     {
+      "id": "north-korea-cluster-warhead-missile-test",
       "t": "북한, 신형 클러스터탄두 순항미사일 시험…남북 긴장 고조",
       "c": "국제",
       "ci": "🌐",
@@ -472,6 +519,7 @@
       "url": "https://www.24newshd.tv/03-Nov-2026/pyongyang-blasts-fbi-allegations-test-fires-missiles"
     },
     {
+      "id": "north-korea-denies-binance-heist",
       "t": "북한, 바이낸스 63억달러 해킹 배후설에 \\\"터무니없는 궤변\\\" 반박",
       "c": "국제",
       "ci": "🌐",
@@ -482,6 +530,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist"
     },
     {
+      "id": "openai-abudhabi-four-agreements",
       "t": "OpenAI, 아부다비와 정부·에너지·투자 4건 협약 체결",
       "c": "기술",
       "ci": "🤖",
@@ -492,6 +541,7 @@
       "url": "https://dealroom.co/news/168755-abu-dhabi-wants-to-be-the-worlds-first-ai-native-government-and-openai-i/"
     },
     {
+      "id": "palantir-q3-2026-tcv-slowdown",
       "t": "팔란티어 3분기 매출 23.1억 달러(+96%) 사상 최고 성장에도 주가 하락…TCV 증가율 153%→11%",
       "c": "경제",
       "ci": "📉",
@@ -502,6 +552,7 @@
       "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
     },
     {
+      "id": "roboworld-2026-humanoid-record",
       "t": "2026 로보월드 11월 4일 개막…역대 최대 402개사, 휴머노이드 특별관 신설",
       "c": "기술",
       "ci": "🤖",
@@ -512,6 +563,7 @@
       "url": "https://www.ajunews.com/view/20261103214757440"
     },
     {
+      "id": "russia-ukraine-abudhabi-peace-talks",
       "t": "우크라이나·러시아, 11월 10~11일 아부다비서 美 중재 3자 협상",
       "c": "국제",
       "ci": "🌐",
@@ -522,6 +574,7 @@
       "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
     },
     {
+      "id": "russia-zaporizhzhia-shelter-strike",
       "t": "러시아, 자포리자 피난·구호시설 공습으로 사망자 33명으로 증가…美 중간선거와 겹친 대규모 공습",
       "c": "국제",
       "ci": "🌐",
@@ -532,6 +585,7 @@
       "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
     },
     {
+      "id": "sk-hynix-solidigm-newyork-nand-fab",
       "t": "SK하이닉스 솔리다임, 뉴욕에 450억 달러 낸드 팹 2곳 추진…美 상무부가 다롄 장비 승인 보류",
       "c": "경제",
       "ci": "📉",
@@ -542,6 +596,7 @@
       "url": "https://www.newspim.com/news/view/20261104000021"
     },
     {
+      "id": "solar-flare-x28-satellite-disruption",
       "t": "태양, 역대 최강 X28 플레어 분출…저궤도 위성 추적 일시 실패",
       "c": "과학",
       "ci": "🧬",
@@ -552,6 +607,7 @@
       "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/"
     },
     {
+      "id": "spacex-boost-mobile-acquisition-talks",
       "t": "스페이스X, 에코스타 '부스트모바일' 인수 협상 추진…가입자 740만 명 확보 노려",
       "c": "기술",
       "ci": "🤖",
@@ -562,6 +618,7 @@
       "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile/"
     },
     {
+      "id": "trump-ends-israel-military-aid",
       "t": "트럼프, 연 40억 달러 이스라엘 군사원조 연말 종료 선언…'네타냐후와 몇 달 전 합의'",
       "c": "국제",
       "ci": "🌐",
@@ -572,6 +629,7 @@
       "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end"
     },
     {
+      "id": "uk-eu-brexit-food-deal",
       "t": "英-EU, 브렉시트 식품·농산물 수출 검역 폐지 초안 합의",
       "c": "경제",
       "ci": "📉",
@@ -582,6 +640,7 @@
       "url": "https://bmmagazine.co.uk/business/uk-eu-food-deal-draft-text-agreed/"
     },
     {
+      "id": "uk-huntington-gene-therapy-amt130",
       "t": "英 UCL, 헌팅턴병 진행 75% 늦추는 유전자 치료 AMT-130 개발",
       "c": "과학",
       "ci": "🧬",
@@ -592,6 +651,7 @@
       "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=261328"
     },
     {
+      "id": "ukraine-russia-alert-apps-hacked",
       "t": "우크라이나·러시아 재난경보 앱 해킹, 허위 공습 경보 발송",
       "c": "국제",
       "ci": "🌐",
@@ -602,6 +662,7 @@
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
     },
     {
+      "id": "us-agoa-south-africa-rwanda-removal",
       "t": "美, 남아공·르완다 AGOA 특혜관세 박탈…2027년부터 발효",
       "c": "경제",
       "ci": "📉",
@@ -612,6 +673,7 @@
       "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access"
     },
     {
+      "id": "us-canada-trade-deal-concept",
       "t": "美-캐나다, 무역협정 '개념' 합의…여름 이후 중단된 공식 협상 재개 예정",
       "c": "경제",
       "ci": "📉",
@@ -622,6 +684,7 @@
       "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-says-canada-us-very-close-to-having-a-deal-following-pm-carney-saying-they-had-a-good-conversation/"
     },
     {
+      "id": "us-futures-drop-democratic-sweep-odds",
       "t": "민주당 압승 전망에 美 지수선물 하락…나스닥100 선물 -2%, 예측시장 스윕 확률 95%",
       "c": "경제",
       "ci": "📉",
@@ -632,6 +695,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html"
     },
     {
+      "id": "us-iran-draft-deal-qatar-mediation",
       "t": "美, 카타르 중재 이란 초안 합의(MOU) 승인…브렌트유 7% 급락 103.60달러",
       "c": "국제",
       "ci": "🌐",
@@ -642,6 +706,7 @@
       "url": "https://www.aa.com.tr/en/americas/us-approves-qatar-presented-draft-deal-with-iran-sources/4110260"
     },
     {
+      "id": "us-iran-qeshm-island-strikes",
       "t": "美, 이란 케슘섬에 비밀 공습…호르무즈 해협 긴장 재점화",
       "c": "국제",
       "ci": "🌐",
@@ -652,6 +717,7 @@
       "url": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/"
     },
     {
+      "id": "us-midterm-elections-2026",
       "t": "미국 2026 중간선거 최종 유세전",
       "c": "정치",
       "ci": "🏛️",
@@ -662,6 +728,7 @@
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
     },
     {
+      "id": "us-midterm-results-democratic-wave",
       "t": "美 중간선거 개표, 민주당 상원 2석 플립·조지아 주지사 탈환…양원 다수당은 미확정",
       "c": "정치",
       "ci": "🏛️",
@@ -672,6 +739,7 @@
       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
     },
     {
+      "id": "venezuela-phased-transition-plan",
       "t": "美, 베네수엘라에 3단계 민주주의 전환 이행 촉구…2027년 대선 일정 제시",
       "c": "정치",
       "ci": "🏛️",
@@ -682,6 +750,7 @@
       "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition"
     },
     {
+      "id": "voyager1-one-light-day-milestone",
       "t": "보이저 1호, 11월 18일 인공물 최초 '1광일' 도달…259억 km, 왕복 통신 2일",
       "c": "과학",
       "ci": "🧬",
@@ -692,6 +761,7 @@
       "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
     },
     {
+      "id": "warren-anthropic-s1-existential-risk-letter",
       "t": "워런 상원의원, 앤트로픽에 S-1 '실존적 위험' 4페이지 질의…IPO 직결 첫 의회 압박",
       "c": "정치",
       "ci": "🏛️",
@@ -702,6 +772,7 @@
       "url": "https://thenextweb.com/news/anthropic-ipo-retail-warren-s-1-details"
     },
     {
+      "id": "wegovy-korea-insurance-coverage",
       "t": "위고비 건강보험 급여 신청…'평생 투약비' 재정 부담 논란, 약평위 120일 심사",
       "c": "사회",
       "ci": "✊",
@@ -712,6 +783,7 @@
       "url": "https://www.newspim.com/news/view/20261103001143"
     },
     {
+      "id": "yoon-election-law-appeal-ruling",
       "t": "윤석열 공직선거법 항소심 11월 4일 오후 2시 선고…국민의힘 397억 반환 갈림길",
       "c": "정치",
       "ci": "🏛️",
@@ -722,6 +794,7 @@
       "url": "https://www.newspim.com/news/view/20261103001223"
     },
     {
+      "id": "zelensky-berlin-germany-winter-package",
       "t": "젤렌스키 베를린 방문, 독일 겨울지원 패키지 확약…PAC-2·PAC-3·IRIS-T 추가 인도, 2027년 116억 유로 표결 대기",
       "c": "국제",
       "ci": "🌐",
@@ -743,7 +816,7 @@
       "t": "AI 조정의 내부 분화, '확정 수주 보유'가 가격 기준선으로 자리잡을 전망",
       "d": "나스닥100이 조정 영역에 진입한 직후 AMD가 4분기 170억 달러 가이던스를 내놓고 팔란티어는 매출 +96%에도 하락했으며 코스피는 반도체주로 2.43% 반등하면서, AI 조정이 일률적 할인이 아니라 확정 수주 보유 여부에 따른 분화로 진행될 가능성을 전망한다.",
       "conf": "중간",
-      "strength": 0.9
+      "strength": 1.0
     },
     {
       "t": "AI 인프라 병목의 M&A 내재화, 광통신·네트워크 자산으로 확산 전망",
@@ -755,6 +828,12 @@
       "t": "AI 인프라 자본 약정 확대와 메모리 공급 병목 심화 전망",
       "d": "OpenAI의 걸프 자본 유치, 앤트로픽의 8,950억 달러 컴퓨팅 약정, 삼성전자의 HBM4 완판이 겹치며 AI 증설 경쟁이 메모리·전력 공급 병목으로 이어질 가능성을 전망한다.",
       "conf": "중간",
+      "strength": 1.0
+    },
+    {
+      "t": "AI 섹터 정치 리스크의 3경로(연방 감독·지방 입지·상장 심사) 동시 수렴 전망",
+      "d": "미 중간선거 민주당 강세 개표에 데이터센터 주민투표 반대 6건 전승과 워런 상원의원의 앤트로픽 S-1 질의가 같은 48시간에 겹치면서, AI 자본지출에 대한 정치적 압력이 연방 감독·지방 입지·상장 심사 세 경로로 동시에 들어오는 국면을 전망한다.",
+      "conf": "중간~높음",
       "strength": 1.0
     },
     {
@@ -774,6 +853,12 @@
       "d": "유럽 슈퍼마켓 냉장설비 2차 해킹, 재난경보 앱 해킹, 바이낸스 63억 달러 탈취, 대통령 전용기 탑승자 정보 노출, 한양증권 그룹웨어 경유 해킹이 겹치며 공격 표적이 물리·공공 인프라로, 침입 경로가 외부 솔루션으로 확산될 가능성을 전망한다.",
       "conf": "낮음~중간",
       "strength": 1.0
+    },
+    {
+      "t": "데이터센터 입지 병목 국면에서 전력·ESS 자산으로의 우회 노출 확대 전망",
+      "d": "데이터센터 주민투표 6건 전승과 텍사스 신규 승인 중단으로 '지을 수 있는가'가 병목이 된 국면에서, LG엔솔 ESS 수주잔고 160GWh와 미국 LFP 시장의 중국 공백 흡수가 전력 측 확정 수요로 남을 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.8
     },
     {
       "t": "유럽 재정위기와 청년층 불만 확산, 안보 재원 부담 이전과 충돌 전망",
@@ -839,7 +924,7 @@
       "t": "초박빙 상원 구도에서 현직 의원 건강 변수 전망",
       "d": "상원 53-45 초박빙 구도로 치러진 미 중간선거 직전, 민주당 머피 상원의원의 뇌졸중 입원이 겹치며 상원 표결력에 건강 변수가 미칠 영향을 예측한다.",
       "conf": "낮음",
-      "strength": 0.6
+      "strength": 0.7
     },
     {
       "t": "미국 관세·무역정책 재편, 교역국 경제 동시다발 충격 전망",
