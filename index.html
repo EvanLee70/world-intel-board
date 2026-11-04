@@ -103,14 +103,15 @@
     background: var(--card); border:1px solid var(--border); border-radius:12px;
     padding:16px 18px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);
   }
-  .lr-1 { font-size:17px; font-weight:800; line-height:1.4; margin-bottom:6px; }
-  .lr-2 { display:flex; align-items:center; gap:8px; font-size:14px; color: var(--muted-foreground); font-weight:600; margin-bottom:8px; }
-  .lr-2 .score-badge { margin-left:auto; font-size:13px; font-weight:800; padding:3px 11px; border-radius:7px; }
-  .lr-3 { font-size:15px; color: var(--foreground); opacity:0.85; line-height:1.55; margin-bottom:9px;
+  .lr-1 { font-size:17px; font-weight:800; line-height:1.4; }
+  .lr-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; margin-bottom:6px; }
+  .lr-top .score-badge { flex-shrink:0; font-size:13px; font-weight:800; padding:3px 11px; border-radius:7px; }
+  .lr-2 { display:flex; align-items:center; gap:7px; flex-wrap:wrap; font-size:13px; color: var(--muted-foreground); font-weight:600; margin-bottom:8px; }
+  .lr-2 .lr-5 { margin-left:auto; }
+  .lr-3 { font-size:15px; color: var(--foreground); opacity:0.85; line-height:1.55;
     display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
-  .lr-4 { display:flex; gap:7px; flex-wrap:wrap; margin-bottom:8px; }
   .tag { font-size:11px; font-weight:700; padding:4px 8px; border-radius:5px; background: var(--border); color: var(--foreground); opacity:0.85; }
-  .lr-5 { font-size:13px; color: var(--muted-foreground); }
+  .lr-5 { font-size:13px; color: var(--muted-foreground); white-space:nowrap; }
   .conf-badge { font-size:12px; font-weight:700; padding:4px 10px; border-radius:7px; }
 
   .pager { display:flex; justify-content:space-between; align-items:center; margin-top:4px; padding:0 2px; }
@@ -208,14 +209,16 @@ function listRowItem(it){
   const tag = it.url ? "a" : "div";
   const attrs = it.url ? ` href="${it.url}" target="_blank" rel="noopener"` : "";
   return `<${tag} class="listrow"${attrs}>
-    <div class="lr-1">${it.t}</div>
-    <div class="lr-2">
-      <span>${it.ci || CATEGORY_ICON[it.c] || "🗂️"}</span><span>${it.c}</span>
+    <div class="lr-top">
+      <div class="lr-1">${it.t}</div>
       <span class="score-badge" style="background:${col}22;color:${col};">${it.s}</span>
     </div>
+    <div class="lr-2">
+      <span>${it.ci || CATEGORY_ICON[it.c] || "🗂️"}</span><span>${it.c}</span>
+      <span class="tag">${it.c}</span><span class="tag">${it.fresh || "volatile"}</span>
+      <span class="lr-5">${it.url ? "🔗 출처로 이동" : `🕒 ${it.date || "오늘 수집"}`}</span>
+    </div>
     <div class="lr-3">${it.d}</div>
-    <div class="lr-4"><span class="tag">${it.c}</span><span class="tag">${it.fresh || "volatile"}</span></div>
-    <div class="lr-5">${it.url ? "🔗 출처로 이동" : `🕒 ${it.date || "오늘 수집"}`}</div>
   </${tag}>`;
 }
 
