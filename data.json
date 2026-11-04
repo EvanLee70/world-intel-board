@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 04:44",
+  "generated_at": "2026-11-04 06:42",
   "items": [
     {
       "id": "ai-datacenter-ballot-measures-rejected",
@@ -33,6 +33,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.riotimesonline.com/global-economy-briefing-november-2-2026"
+    },
+    {
+      "id": "amd-furiosa-mangoboost-reference-cluster",
+      "t": "AMD, 퓨리오사AI·망고부스트와 MOU…2027년 봄 서울에 CPU+GPU+NPU+DPU 이기종 레퍼런스 클러스터 구축",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 80,
+      "d": "AMD가 11월 4일 서울에서 퓨리오사AI·망고부스트와 MOU를 맺고 자사 CPU·GPU에 국산 NPU·DPU를 결합한 이기종 AI 실증 클러스터를 2027년 봄 서울에 구축한다고 발표했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216979"
     },
     {
       "id": "amd-q3-2026-record-datacenter",
@@ -354,6 +365,17 @@
       "url": "https://www.etoday.co.kr/news/view/2641658"
     },
     {
+      "id": "hbm-smuggling-china-export-control-loophole",
+      "t": "저가 프로세서에 HBM 붙여 중국 밀반입…미 수출통제 '패키지 성능' 분류 허점 드러나",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 86,
+      "d": "삼성·SK하이닉스 HBM을 일부러 저성능으로 설계한 서버 프로세서와 한 패키지로 묶어 수출한 뒤 중국에서 납땜을 녹여 HBM만 분리하는 밀수 수법이 드러났고, 중국 내 거래가는 칩 1개당 약 4,000달러다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216978"
+    },
+    {
       "id": "hera-didymos-dimorphos-first-resolved",
       "t": "ESA 헤라 탐사선, 디디모스-디모르포스를 처음으로 분리 관측…11월 25일 상세 영상 예정",
       "c": "과학",
@@ -462,6 +484,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.newspim.com/news/view/20261103001185"
+    },
+    {
+      "id": "kospi-close-nov4-foreign-selling",
+      "t": "코스피 11월 4일 5,573.57로 하락 마감…+2.43% 개장을 반납하고 외국인 1조5,300억 순매도",
+      "c": "경제",
+      "ci": "📉",
+      "s": 81,
+      "d": "11월 4일 코스피는 5,786.13(+2.43%)으로 상승 출발했으나 외국인 1조5,300억 원 순매도에 밀려 5,573.57(-1.33%)로 마감해 개장가 대비 212포인트를 반납했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.geconomy.co.kr/news/article.html?no=325259"
     },
     {
       "id": "kospi-rebound-nov4-semiconductor",
@@ -651,6 +684,17 @@
       "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
     },
     {
+      "id": "russia-ukraine-energy-grid-mass-strike",
+      "t": "러시아, 우크라이나 전력망에 드론 289기·미사일 76발 집중 공습…DTEK 화력발전 3기 정지, 흐멜니츠키 원전 변전소 표적",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 78,
+      "d": "러시아가 드론 289기와 미사일 76발로 오데사에서 리브네까지 우크라이나 에너지 인프라를 공습해 키이우 등 7개 지역이 정전됐고, 흐멜니츠키 원전 핵심 변전소로 드론 3기가 유도됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.koreaherald.com/article/10925508"
+    },
+    {
       "id": "russia-zaporizhzhia-shelter-strike",
       "t": "러시아, 자포리자 피난·구호시설 공습으로 사망자 33명으로 증가…美 중간선거와 겹친 대규모 공습",
       "c": "국제",
@@ -770,6 +814,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-says-canada-us-very-close-to-having-a-deal-following-pm-carney-saying-they-had-a-good-conversation/"
+    },
+    {
+      "id": "us-democrats-win-both-chambers",
+      "t": "민주당, 상·하원 동시 장악 확정…상원 53-41(7석 플립)·하원 최소 245석, 제프리스 첫 흑인 하원의장 예정",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 94,
+      "d": "2026 미 중간선거에서 민주당이 상원을 53-41로 뒤집고(7석 플립) 하원도 최소 245석을 확보해 양원을 동시 장악했으며, 하킴 제프리스가 첫 흑인 하원의장이 될 전망이다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
     },
     {
       "id": "us-futures-drop-democratic-sweep-odds",
@@ -928,7 +983,7 @@
       "t": "AI 자본지출 노출도에 따른 빅테크 차별화, 애플형 모델 재평가 전망",
       "d": "나스닥과 코스피가 AI 수익성 의구심으로 급락한 같은 주에 애플이 AI 증설 없이 9월 분기 사상 최대 실적을 내고 중국에서는 알리바바 Qwen을 빌려 쓰는 구조를 확정하면서, 자본지출 노출도가 빅테크 밸류에이션의 분기 기준이 될 가능성을 전망한다.",
       "conf": "중간",
-      "strength": 0.9
+      "strength": 1.0
     },
     {
       "t": "중국 공급망 레버리지 집중, 11월 10일 희토류 역외적용 발효 전망",
@@ -961,16 +1016,22 @@
       "strength": 0.8
     },
     {
+      "t": "휴머노이드 병목이 '데이터'로 공식화, 국내 밸류체인에서 부품·데이터 공급 측 선별 전망",
+      "d": "11월 4일 같은 날 과기정통부가 국내 첫 이족보행 휴머노이드 전용 데이터 생산시설을 개소하고 로보월드 2026이 역대 최대 402개사 규모로 휴머노이드 부품을 플랫폼과 나란히 전시하면서, 휴머노이드의 병목 인식이 기체에서 데이터·부품으로 이동할 가능성을 전망한다.",
+      "conf": "낮음~중간",
+      "strength": 0.7
+    },
+    {
       "t": "한국 사법·입법 충돌의 11월 4~5일 분기점 집중, 선고 결과가 국정조사 명분 구도에 얹힐 전망",
       "d": "윤석열 전 대통령 공직선거법 항소심이 11월 4일 오후 2시 생중계 선고되고 조희대 대법원장 국정조사안이 11월 5일 본회의 처리를 목표로 추진되면서, 사법부 판단과 입법부 압박이 24시간 안에 교차할 가능성을 전망한다.",
       "conf": "낮음",
-      "strength": 0.6
+      "strength": 0.7
     },
     {
       "t": "북한의 무력시위·사이버 부인 병행, 11월 중순 APEC 전 압력 축적 전망",
       "d": "북한이 신형 클러스터탄두 순항미사일 시험과 바이낸스 63억 달러 해킹 배후설 반박을 병행하는 가운데 11월 18~19일 선전 APEC에 트럼프가 참석할 예정이어서, 다자 외교 일정 전까지 북한이 압력을 축적할 가능성을 전망한다.",
       "conf": "낮음",
-      "strength": 0.8
+      "strength": 0.9
     },
     {
       "t": "전례 없는 치료 모달리티의 규제 경로 선택, 가속승인 수요 확대 전망",
@@ -1000,7 +1061,7 @@
       "t": "유엔 환경 총회 연쇄, 기후·생물다양성 재원 논란 지속 전망",
       "d": "COP17 생물다양성총회의 아프리카 자금 감소 논란에 이어 COP31 기후총회가 열리고, 중국의 사상 최대 청정기술 수출이 확인되면서 국제 환경 재원과 감축설비 공급 주체 문제가 연쇄 쟁점이 될 가능성을 전망한다.",
       "conf": "낮음~중간",
-      "strength": 0.8
+      "strength": 0.9
     },
     {
       "t": "중간선거 직후 미국 주도 합의 일정 집중, 11월 10~19일 거래 발표 창 전망",
