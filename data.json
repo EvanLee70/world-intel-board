@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 12:49",
+  "generated_at": "2026-11-04 14:56",
   "items": [
     {
       "id": "africa-energy-bank-launch",
@@ -88,6 +88,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.upi.com/Top_News/World-News/2026/10/18/apec-2026-shenzhen-donald-trump-xi-jinping/3011792364819/"
+    },
+    {
+      "id": "apple-10k-ai-agent-risk-siri-app-intents",
+      "t": "애플 10-K에 'AI 에이전트가 권한 초과·지시 불복할 수 있다' 위험요인 신규 기재…같은 주 iOS 27.3 베타로 Siri를 모든 앱에 개방",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 84,
+      "d": "애플이 FY26 연차보고서에 AI 에이전트의 권한 초과·지시 불복·보안 우회 위험을 명시하고 제3자 에이전트 통제력이 제한적일 수 있다고 적은 한편, iOS 27.3 베타에서 Siri가 모든 앱의 App Intents를 호출하게 됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html"
     },
     {
       "id": "apple-china-qwen-ai-integration",
@@ -365,6 +376,17 @@
       "url": "https://www.southampton.ac.uk/news/2026/10/forgotten-particle-could-answer-mystery-of-why-we-exist.page"
     },
     {
+      "id": "france-general-strike-nov5-aviation-rail",
+      "t": "프랑스 11월 5일 전국 총파업…DGAC·SUD Aérien 합류로 샤를드골·오를리 운항 감축 가능, 관제사 최대노조 SNCTA는 불참",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 80,
+      "d": "5개 전국 노총이 2027년 예산안 반대로 11월 5일 총파업을 예고했고 민간항공청·지상직 노조가 합류했으나, 최대 관제사 노조 SNCTA 불참으로 결항 규모는 아직 미확정이다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.volclaim.com/en/air-travel-news/france-strike-5-november-2026-flights.html"
+    },
+    {
       "id": "gold-back-above-4000-etf-record",
       "t": "금 4,000달러 재돌파…12월물 4,027.30달러(+2.2%), ETF 보유 사상 최대 4,256톤·중앙은행 3분기 321톤",
       "c": "경제",
@@ -462,6 +484,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.arabnews.jp/en/middle-east/iran-says-strait-of-hormuz-could-reopen-within-two-days-if-us-meets-its-demands-3001221"
+    },
+    {
+      "id": "iran-maximum-deterrence-target-lists",
+      "t": "이란, '최대 억지' 계획 완비 선언…표적 목록을 확대된 지역의 미·이스라엘 자산으로 갱신, 아라시 드론 탄두 100kg로 2배",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 72,
+      "d": "이란이 11월 4일 미국의 재공격에 대비한 '최대 억지' 계획이 준비됐다며 지리적 제한 없는 즉각 대응을 경고하고, 표적 목록 갱신과 개량 드론 배치를 공개했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack"
     },
     {
       "id": "israel-hebron-siege-withdrawal",
@@ -794,6 +827,28 @@
       "url": "https://www.newdaily.co.kr/site/data/html/2026/11/04/2026110400188.html"
     },
     {
+      "id": "qualcomm-fy4q-earnings-imminent",
+      "t": "퀄컴 FY4Q 실적 11월 4일 장 마감 후 발표…옵션시장 ±9.6% 변동 반영, 컨센서스 EPS 2.16달러(-28%)·매출 101.2억(-10%)",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "퀄컴이 11월 4일 미 정규장 마감 후 회계 4분기 실적을 내며, 옵션시장은 ±9.6% 변동을 반영했고 애플 물량 이탈과 메모리 원가가 역풍으로 지목됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://finance.biggo.com/news/cd49fb64-9d9f-49db-8bed-6b394d134e55"
+    },
+    {
+      "id": "rba-cash-rate-485-18year-high",
+      "t": "호주중앙은행 기준금리 4.85%로 인상…18년 최고, 9인 위원회 첫 분열 표결 6-3",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "RBA가 11월 3일 기준금리를 4.85%로 25bp 인상해 2008년 이후 최고 수준으로 올렸고, 9월 전원 찬성과 달리 6-3으로 표결이 갈려 12월 8일 동결 기대가 커졌다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
+    },
+    {
       "id": "roboworld-2026-humanoid-record",
       "t": "2026 로보월드 11월 4일 개막…역대 최대 402개사, 휴머노이드 특별관 신설",
       "c": "기술",
@@ -836,6 +891,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+    },
+    {
+      "id": "ryugu-five-nucleobases-complete",
+      "t": "류구 시료에서 DNA·RNA 핵염기 5종 전부 검출…베누에 이어 두 번째, 《Nature Astronomy》 게재",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 48,
+      "d": "일본 연구진이 소행성 류구 시료 두 점에서 아데닌·구아닌·시토신·티민·우라실 다섯 핵염기를 모두 검출해, 생명의 분자 재료가 초기 태양계에 널리 퍼져 있었다는 쪽을 보강했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
     },
     {
       "id": "samsung-bioepis-teva-us-biosimilar-deal",
@@ -1165,6 +1231,12 @@
       "strength": 1.0
     },
     {
+      "t": "AI 증설의 제약이 '수요'에서 '조달 조건'으로 옮겨간 국면, 11월 6일 네이버 납입과 11월 16일 주간 앤트로픽 IPO 가격이 1차 시험대가 될 전망",
+      "d": "빅테크 5개사의 부외 AI 채무가 6개월 만에 90% 늘어 3조 2,000억 달러에 달한 집계와 오라클이 11% 할인가로 200억 달러를 조달한 사례가 같은 날 겹치면서, AI 자본지출의 1차 제약이 수요 둔화가 아니라 자본비용·희석으로 나타날 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 1.0
+    },
+    {
       "t": "AI 조정의 내부 분화, '확정 수주 보유'가 가격 기준선으로 자리잡을 전망",
       "d": "나스닥100이 조정 영역에 진입한 직후 AMD가 4분기 170억 달러 가이던스를 내놓고 팔란티어는 매출 +96%에도 하락했으며 코스피는 반도체주로 2.43% 반등하면서, AI 조정이 일률적 할인이 아니라 확정 수주 보유 여부에 따른 분화로 진행될 가능성을 전망한다.",
       "conf": "중간",
@@ -1225,6 +1297,12 @@
       "strength": 1.0
     },
     {
+      "t": "같은 충격에서 금은 사들이고 비트코인은 팔린 11월 4일, '디지털 금' 대체 가설이 이번 사이클에서 기각되는 쪽으로 기울 전망",
+      "d": "11월 4일 같은 거시 충격(민주당 압승·달러 약세·장기금리 하락) 아래에서 금은 4,000달러를 재돌파하고 ETF 보유가 사상 최대 4,256톤이 된 반면 비트코인은 2024년 11월 이후 최저로 밀려, 헤지 수요가 암호자산이 아니라 금·안전통화로 선택되는 국면이 이어질 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.9
+    },
+    {
       "t": "추론 원가 경쟁축의 이동, 범용 GPU에서 '이기종 조합 + 오케스트레이션'으로 전환 전망",
       "d": "AMD가 퓨리오사AI·망고부스트와 MOU를 맺고 CPU+GPU+NPU+DPU 레퍼런스 클러스터를 2027년 봄 서울에 구축한다고 발표한 것과 AMD의 데이터센터 97% 급증, HBM 공급 부족, 래블업의 상장 첫날 25% 하락이 한 축에 놓이면서, 추론 원가 경쟁의 기준이 범용 GPU 성능에서 작업별 가속기 조합으로 이동할 가능성을 전망한다.",
       "conf": "낮음~중간",
@@ -1258,7 +1336,7 @@
       "t": "북한의 무력시위·사이버 부인 병행, 11월 중순 APEC 전 압력 축적 전망",
       "d": "북한이 신형 클러스터탄두 순항미사일 시험과 바이낸스 63억 달러 해킹 배후설 반박을 병행하는 가운데 11월 18~19일 선전 APEC에 트럼프가 참석할 예정이어서, 다자 외교 일정 전까지 북한이 압력을 축적할 가능성을 전망한다.",
       "conf": "낮음",
-      "strength": 0.9
+      "strength": 1.0
     },
     {
       "t": "전례 없는 치료 모달리티의 규제 경로 선택, 가속승인 수요 확대 전망",
