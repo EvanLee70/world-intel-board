@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-04 08:44",
+  "generated_at": "2026-11-04 10:53",
   "items": [
+    {
+      "id": "africa-energy-bank-launch",
+      "t": "아프리카에너지은행, 수권자본 50억 달러로 아부자에서 출범…2027년 1월 4일 영업 개시, 화석연료 금융 공백 메운다",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 68,
+      "d": "Afreximbank와 APPO가 공동 설립한 아프리카에너지은행이 수권자본 50억 달러로 아부자에서 출범해 2027년 1월 4일 영업을 시작하며, 국제 대주단이 철수한 석유·가스 금융을 대체하겠다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.climatechangenews.com/2026/11/03/africa-launches-long-delayed-energy-bank-to-finance-fossil-fuel-projects/"
+    },
     {
       "id": "ai-datacenter-ballot-measures-rejected",
       "t": "AI 데이터센터 주민투표 10개 주 41건 부쳐져…결정된 6건 전부 개발 반대, 텍사스는 신규 승인 중단",
@@ -253,6 +264,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://view.asiae.co.kr/article/2026110407270500276"
+    },
+    {
+      "id": "dollar-index-one-month-low-ai-regulation",
+      "t": "달러인덱스 101.27로 1개월 최저…엔 157.92·美 10년물 4.915%, 'AI 규제 강화' 우려가 통화·금리로 번졌다",
+      "c": "경제",
+      "ci": "📉",
+      "s": 87,
+      "d": "민주당의 미 의회 장악으로 AI 규제 강화 우려가 커지면서 11월 4일 달러인덱스가 0.6% 하락한 101.27로 1개월 최저를 기록하고, 엔·스위스프랑·미 국채로 안전자산 이동이 나타났다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/04/dollar-slides-to-one-month-low-as-democratic-gains-stoke-ai-regulation-fears"
     },
     {
       "id": "europe-flights-cruise-bomb-threats",
@@ -629,6 +651,17 @@
       "url": "https://www.etnews.com/20261104000227"
     },
     {
+      "id": "nikkei-nov4-ai-stock-plunge",
+      "t": "닛케이 11월 4일 장중 -3%대 급락 후 62,188.63(-1.42%) 마감…키옥시아 -10%·후루카와전기 -9%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 83,
+      "d": "민주당의 미 중간선거 승리가 데이터센터 규제 강화와 AI 인프라 지출 둔화 우려로 이어져 11월 4일 닛케이가 장중 3%대 급락했고, 어드반테스트·키옥시아·광섬유 업체가 집중 타격을 받았다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/04/japan039s-nikkei-drops-3-as-democratic-gains-in-us-midterms-hit-ai-stocks"
+    },
+    {
       "id": "north-korea-cluster-warhead-missile-test",
       "t": "북한, 신형 클러스터탄두 순항미사일 시험…남북 긴장 고조",
       "c": "국제",
@@ -649,6 +682,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist"
+    },
+    {
+      "id": "nvidia-naver-rights-issue-finalized",
+      "t": "엔비디아의 네이버 유상증자 1조 3,412억 원 확정…환율 하락으로 신주 68만 주 감소, 11월 6일 납입·지분 4.13%",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 85,
+      "d": "네이버가 11월 3일 엔비디아 제3자배정 유상증자의 원화 조달액을 1조 3,412억 원으로 확정했고, 적용환율이 1,480.9원에서 1,341.2원으로 내려 발행 신주가 68만 3,129주 줄었다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.newspim.com/news/view/20261103001353"
     },
     {
       "id": "openai-abudhabi-four-agreements",
@@ -682,6 +726,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
+    },
+    {
+      "id": "police-relationship-crime-highrisk-audit",
+      "t": "경찰, 관계성 범죄 4만 4,540건 전수점검…수사 중 사건의 32%가 '고위험', 구속영장 발부율은 21.3%",
+      "c": "사회",
+      "ci": "✊",
+      "s": 65,
+      "d": "경찰청이 10월 19~30일 스토킹·교제폭력·가정폭력 4만 4,540건을 전수점검해 수사 중 1만 5,840건 가운데 5,068건(32.0%)을 고위험으로 분류했다고 11월 4일 발표했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/11/04/2026110400188.html"
     },
     {
       "id": "roboworld-2026-humanoid-record",
@@ -728,6 +783,17 @@
       "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
     },
     {
+      "id": "samsung-bioepis-teva-us-biosimilar-deal",
+      "t": "삼성바이오에피스, 테바와 최대 4억 2,000만 달러 미국 판매 계약…SB2·SB4 상업화를 파트너에 넘겼다",
+      "c": "경제",
+      "ci": "📉",
+      "s": 80,
+      "d": "삼성바이오에피스가 11월 2일 테바와 레미케이드·엔브렐 바이오시밀러 2종의 미국 상업화 파트너십을 체결해 최대 4억 2,000만 달러(약 5,632억 원), 계약금 최대 7,500만 달러를 확보했다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.mydaily.co.kr/page/view/2026110317094809354"
+    },
+    {
       "id": "sk-hynix-solidigm-newyork-nand-fab",
       "t": "SK하이닉스 솔리다임, 뉴욕에 450억 달러 낸드 팹 2곳 추진…美 상무부가 다롄 장비 승인 보류",
       "c": "경제",
@@ -759,6 +825,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile/"
+    },
+    {
+      "id": "trump-accepts-midterm-result-work-with-democrats",
+      "t": "트럼프, 중간선거 패배 수용하고 민주당과 협력 의사…\\\"궁극의 권한은 거부권\\\"에서 \\\"거래하고 싶다\\\"로",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 84,
+      "d": "트럼프 대통령이 11월 3일 밤 뉴욕타임스에 \\\"그 결과를 전적으로 받아들일 의향이 있다\\\"며 민주당과 협력하겠다고 밝혔고, 투표 종료 전 CBS 인터뷰에서 강조한 거부권 전략과 선거 후 '거래' 기조가 하루 사이에 병치됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.mediaite.com/media/news/trump-tells-the-ny-times-he-will-accept-the-results-of-the-election/"
     },
     {
       "id": "trump-ends-israel-military-aid",
@@ -926,6 +1003,17 @@
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267647"
     },
     {
+      "id": "us-venezuela-sofa-negotiation",
+      "t": "美-베네수엘라, 미군 장기 주재 허용 SOFA 협상…국무부는 \\\"기지 논의는 한참 멀었다\\",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 66,
+      "d": "트럼프 행정부가 루비오 국무장관 주도로 미군의 베네수엘라 장기 주재를 허용하는 주둔군지위협정(SOFA) 협상을 진행 중이며, 국무부 고위 당국자는 기지 설치 논의는 현재 없다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-04",
+      "url": "https://www.inquirer.com/news/nation-world/venezuela-us-military-presence-long-term-trump-rodriguez-rubio-machado-maduro-drug-boats-20261103.html"
+    },
+    {
       "id": "venezuela-phased-transition-plan",
       "t": "美, 베네수엘라에 3단계 민주주의 전환 이행 촉구…2027년 대선 일정 제시",
       "c": "정치",
@@ -1081,6 +1169,12 @@
       "d": "11월 4일 같은 날 과기정통부가 국내 첫 이족보행 휴머노이드 전용 데이터 생산시설을 개소하고 로보월드 2026이 역대 최대 402개사 규모로 휴머노이드 부품을 플랫폼과 나란히 전시하면서, 휴머노이드의 병목 인식이 기체에서 데이터·부품으로 이동할 가능성을 전망한다.",
       "conf": "낮음~중간",
       "strength": 0.7
+    },
+    {
+      "t": "한국 162조 미래대응기금 처리 방향, 같은 주 발표된 정부 주도 AI·로봇 투자의 재원이 11월 9~12일 창에서 갈릴 전망",
+      "d": "역대 최대 821조 예산안 심사가 개시되며 162조 미래대응기금의 용처를 놓고 여야 간극이 104조 원 규모로 벌어진 가운데, 같은 주 발표된 공공 휴머노이드 데이터 팩토리와 AMD 레퍼런스 클러스터처럼 재원이 확정되지 않은 투자 발표들의 뒷단이 11월 9~12일 부별심사와 12월 2일 법정시한에서 판정될 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.8
     },
     {
       "t": "한국 사법·입법 충돌의 11월 4~5일 분기점 집중, 선고 결과가 국정조사 명분 구도에 얹힐 전망",
