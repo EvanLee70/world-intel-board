@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 05:17",
+  "generated_at": "2026-11-05 07:17",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -165,6 +165,28 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.sec.gov/Archives/edgar/data/0001820721/000119312526446483/d184627d8k.htm"
+    },
+    {
+      "id": "asean-49th-summit-manila-flight-cancellations",
+      "t": "제49차 아세안 정상회의(11월 16~18일 마닐라) 대비 항공편 대량 결항…필리핀항공 국내 152편·국제 6편, 세부퍼시픽도 11월 14~18일 조정",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 55,
+      "d": "11월 16~18일 마닐라에서 열리는 제49차 아세안 정상회의 대표단 수용을 위해 필리핀항공이 11월 14~18일 국내 152편·국제 6편을 결항하고 세부퍼시픽도 방콕·홍콩·두바이 등 노선을 조정했으며, 민간항공위원회는 항공사 전체 100편 이상 결항을 전망했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.rappler.com/philippines/list-flights-canceled-rescheduled-asean-summit-november-2026/"
+    },
+    {
+      "id": "asia-semiconductor-selloff-china-divergence",
+      "t": "코스피 11월 5일 매도 사이드카(올해 56번째)…한·일 반도체 투매 속 홍콩만 +3.5%, 인민은행은 자사주 재대출금리 1%로 인하",
+      "c": "경제",
+      "ci": "📉",
+      "s": 93,
+      "d": "11월 5일 코스피가 장중 -5%대까지 밀려 10시 16분 매도 사이드카가 발동되고 닛케이도 -1.66%로 마감한 반면 홍콩 항셍지수는 +3.5% 올랐으며, 같은 'AI 규제' 충격이 한·일과 중국을 반대 방향으로 갈랐다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://kr.investing.com/news/stock-market-news/article-2160725"
     },
     {
       "id": "astrazeneca-rhythm-10bn-obesity-bid",
@@ -396,6 +418,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://view.asiae.co.kr/article/2026110407270500276"
+    },
+    {
+      "id": "credit-mutuel-arkea-100m-cyberattack",
+      "t": "프랑스 크레디뮈튀엘 아르케아, 해킹으로 1억 유로 부정이체…은행 자기계정이 털려 암호화폐로 환전, 블록체인 추적가가 먼저 적발",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 86,
+      "d": "프랑스 지역은행 크레디뮈튀엘 아르케아가 11월 4일 약 1억 유로(1억 1,200만 달러) 규모 부정이체 피해를 공개했으며, 고객 계좌가 아닌 은행 자기계정이 침해돼 자금이 암호화폐로 환전됐고 파리 검찰이 조직적 집단에 의한 시스템 공격으로 수사에 착수했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.manilatimes.net/2026/11/05/world/americas-emea/french-bank-says-cyberattack-stole-around-100m/2462353"
     },
     {
       "id": "cvs-health-split-two-companies",
