@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 21:02",
+  "generated_at": "2026-11-05 01:17",
   "items": [
     {
       "id": "africa-energy-bank-launch",
@@ -46,6 +46,17 @@
       "url": "https://www.riotimesonline.com/global-economy-briefing-november-2-2026"
     },
     {
+      "id": "aiwanger-bavaria-deputy-premier-death",
+      "t": "독일 바이에른 부총리 아이방거, 베를린 호텔서 사망…55세, 자유유권자당 신사옥 개관 당일",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 63,
+      "d": "독일 바이에른주 부총리이자 자유유권자당 대표인 후베르트 아이방거가 11월 4일 베를린 호텔에서 55세로 숨진 채 발견됐고, 경찰은 타살 흔적이 없다고 밝혔으나 사인은 아직 확정되지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://aroundprague.cz/en/news/world/bavarian-deputy-premier-hubert-aiwanger-found-dead-in-berlin-hotel"
+    },
+    {
       "id": "amd-furiosa-mangoboost-reference-cluster",
       "t": "AMD, 퓨리오사AI·망고부스트와 MOU…2027년 봄 서울에 CPU+GPU+NPU+DPU 이기종 레퍼런스 클러스터 구축",
       "c": "기술",
@@ -77,6 +88,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://simplifyaitools.com/newsletter/ai-news-november-2026-anthropic-microsoft-google/"
+    },
+    {
+      "id": "anthropic-rsi-sec-filing-90-percent-claude-code",
+      "t": "앤트로픽, SEC 신고서에 재귀적 자기개선(RSI) 경고 기재…'9월 내부 코드의 90% 이상을 클로드가 작성', 책임있는 확장 정책 개정 검토",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 81,
+      "d": "앤트로픽이 SEC 신고서에서 AI가 AI를 개발하는 과정에서 모델 성능이 안전·정렬·보안 조치의 개발 속도를 앞지를 수 있다고 경고하고 9월 내부 코드베이스 기여의 90% 이상이 클로드 작성이라는 지표를 공개하며 책임있는 확장 정책 개정을 검토 중이라고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216984"
     },
     {
       "id": "apec-shenzhen-leaders-meeting-2026",
@@ -134,6 +156,17 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0001820721/000119312526446483/d184627d8k.htm"
     },
     {
+      "id": "bangladesh-garment-wage-board-agreement",
+      "t": "방글라데시 의류 임금위, 닷새 시위 끝에 최저임금 인상 합의…인상폭은 미공개, 12월 확정·1월 지급 목표",
+      "c": "경제",
+      "ci": "📉",
+      "s": 74,
+      "d": "방글라데시 의류산업 임금위원회가 11월 4일 닷새간의 노동자 시위와 경찰 충돌 끝에 최저임금 인상에 합의했으나 인상폭은 밝히지 않았고, 사용자단체 대표는 12월까지 작업을 마쳐 1월부터 인상 임금을 지급하겠다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.france24.com/en/live-news/20261104-bangladesh-to-increase-garment-sector-pay-wage-board"
+    },
+    {
       "id": "belgium-pm-resigns-budget-crisis",
       "t": "벨기에 총리 드베버, 예산안 협상 실패로 사퇴",
       "c": "정치",
@@ -154,6 +187,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+    },
+    {
+      "id": "bigtech-vs-neocloud-datacenter-regulation-divergence",
+      "t": "데이터센터 규제가 빅테크에는 호재로 해석…아마존·애플 7% 급등하며 시총 7,500억 달러 증가, '규제 장벽이 기존 사업자 지위를 공고히 한다'는 분석",
+      "c": "경제",
+      "ci": "📉",
+      "s": 91,
+      "d": "11월 4일 미국 증시에서 민주당의 데이터센터 규제 강화 전망이 빅테크에는 자본지출 부담 경감 호재로 해석돼 아마존·애플이 약 7% 급등한 반면 엔비디아는 3.17% 하락했고, 애널리스트들은 규제 장벽이 기존 인프라 보유자의 지위를 강화한다고 평가했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=677778"
     },
     {
       "id": "binance-incident-report-fake-job-interview",
@@ -552,6 +596,17 @@
       "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"
     },
     {
+      "id": "hybe-q3-record-earnings-stock-plunge",
+      "t": "하이브 3분기 영업익 1,885억 사상 최대·컨센 15% 상회에도 주가 11% 급락…삼성증권 목표가 28만→23.5만, 멀티플 30배→27배",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 84,
+      "d": "하이브가 3분기 매출 1조5,257억 원·영업이익 1,885억 원으로 분기 사상 최대 실적을 내고 컨센서스를 약 15% 상회했음에도 주가가 11% 넘게 급락했고, 삼성증권은 업종 전반의 밸류에이션 하락을 반영해 목표주가를 28만 원에서 23만5,000원으로 내렸다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.mt.co.kr/stock/2026/11/04/2026110408260673111"
+    },
+    {
       "id": "iks-2026-foreign-investment-2bn",
       "t": "인베스트 코리아 서밋 2026 개막…글로벌 7개사 20억 달러 투자신고, 97%가 비수도권",
       "c": "경제",
@@ -684,6 +739,17 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html"
     },
     {
+      "id": "kimi-k31-pro-weights-released",
+      "t": "문샷AI, 킴K3.1 프로 가중치 공개…1.56TB·96개 샤드, 2.8조 파라미터 중 104B 활성·컨텍스트 100만 토큰",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 83,
+      "d": "문샷AI가 11월 4일 허깅페이스에 킴K3.1 프로의 가중치를 1.56TB·96개 safetensors 샤드로 공개했고, 2.8조 총 파라미터에 104B 활성·100만 토큰 컨텍스트 구성으로 터미널벤치 4.0에서 65.7%를 기록해 상용 최상위 모델에 근접했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://runtimewire.com/article/moonshot-ai-kimi-k3-1-pro-weights"
+    },
+    {
       "id": "korea-821tn-budget-review-start",
       "t": "역대 최대 821조 예산안 심사 개시…162조 '미래대응기금' 쟁점, 野 27조 삭감 vs 與 4대 분야 증액",
       "c": "정치",
@@ -721,11 +787,33 @@
       "t": "'조작기소 특검법' 법사위 상정…국민의힘 10분 만에 집단 퇴장, 11월 5일 본회의 처리 목표",
       "c": "정치",
       "ci": "🏛️",
-      "s": 70,
+      "s": 74,
       "d": "더불어민주당이 11월 4일 법사위 전체회의에서 '조작기소 특검법'을 상정하자 국민의힘이 약 10분 만에 집단 퇴장하고 모든 법안에 대한 필리버스터를 예고했으며, 민주당은 11월 5일 본회의 처리를 목표로 한다.",
       "fresh": "volatile",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "url": "https://www.news1.kr/politics/assembly/6342692"
+    },
+    {
+      "id": "korea-financial-network-separation-deregulation-tf",
+      "t": "금융위, 망분리 규제 전면해제 TF 11월 가동…전자금융감독규정 개정안 이달 예고, 580여개사 전수점검·새 보안체계 내년 1분기",
+      "c": "경제",
+      "ci": "📉",
+      "s": 85,
+      "d": "이억원 금융위원장이 11월 5일 5대 은행장·전 금융권 협회장을 소집한 간담회에서 망분리 규제 전면해제 TF를 이달 가동하고 전자금융감독규정 개정안을 이달 예고하겠다고 밝혀, AI 해킹 대응을 명분으로 금융권 보안 규제의 방향이 차단에서 대체통제로 전환됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.newspim.com/news/view/20261105000068"
+    },
+    {
+      "id": "korea-hpai-first-outbreak-yeoncheon",
+      "t": "경기 연천 산란계 농장서 '26/'27 시즌 첫 고병원성 AI 확진(H5N9형)…9만 1천 마리 살처분, 전국 가금 24시간 일시이동중지",
+      "c": "사회",
+      "ci": "✊",
+      "s": 67,
+      "d": "경기 연천의 9만 1천여 마리 산란계 농장에서 11월 4일 H5N9형 고병원성 조류인플루엔자가 확진돼 이번 겨울 첫 발생 사례가 됐고, 중수본은 발생농장 살처분과 함께 전국 가금 관련 시설에 24시간 일시이동중지 명령을 내렸다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.hankyung.com/article/2026110465637"
     },
     {
       "id": "korea-humanoid-data-factory-opening",
@@ -759,6 +847,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.geconomy.co.kr/news/article.html?no=325259"
+    },
+    {
+      "id": "kospi-nov5-semiconductor-plunge-renewable-rotation",
+      "t": "코스피 11월 5일 5,580.09(-1.82%) 개장 후 2%대 급락…SK하이닉스 -6.5%·삼성전기 -9%대, 같은 장에서 이차전지·태양광만 상승",
+      "c": "경제",
+      "ci": "📉",
+      "s": 89,
+      "d": "11월 5일 코스피가 미국 다우 +3% 급등에도 1.82% 하락 개장해 장 초반 2%대로 낙폭을 확대했고, 반도체주만 급락하는 동안 이차전지·태양광주가 상승해 민주당 압승이 업종을 반대로 가르는 구도가 한국 시장에서 처음 관측됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/05/20261105500015"
     },
     {
       "id": "kospi-rebound-nov4-semiconductor",
@@ -827,6 +926,17 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
     },
     {
+      "id": "melania-oleshky-local-ceasefire-white-house",
+      "t": "멜라니아 트럼프가 중재한 올레슈키 엿새 국지 휴전…11월 5일 백악관에 러·우크라 대표단 초청, 젤렌스키는 올가 공주 훈장 1등급 수여",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 70,
+      "d": "멜라니아 트럼프 미 영부인이 헤르손주 올레슈키 일대의 엿새간 국지 휴전을 독자 중재한 뒤 11월 5일 백악관에 러시아·우크라이나 대표단을 초청했고, 이는 11월 10~11일 아부다비 3자 평화협상 직전에 마련된 행사다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.voakorea.com/a/8218944.html"
+    },
+    {
       "id": "meta-conductor-coding-agent-acquisition",
       "t": "메타, AI 코딩 에이전트 오케스트레이션 스타트업 '컨덕터' 인수…클라우드는 11월 20일 종료",
       "c": "기술",
@@ -847,6 +957,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+    },
+    {
+      "id": "musk-midterm-biggest-loser-texas",
+      "t": "머스크, 중간선거에 4억4,600만 달러 쓰고 전패…'최대 패배자' 지목, 2억 달러 투입한 텍사스 상원도 패배",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 78,
+      "d": "일론 머스크가 2026 중간선거에 4억4,600만 달러를 지출해 비후보 개인 역대 최대액을 기록했으나 지지 후보들이 거의 전패해 '최대 패배자'로 지목됐고, 테슬라·스페이스X 본사가 있는 텍사스의 정권 교체로 사업 환경 변화가 예상된다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://biz.heraldcorp.com/article/10926233"
     },
     {
       "id": "nasa-perseverance-mars-distance-record",
@@ -880,6 +1001,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://247wallst.com/investing/2026/11/03/the-nasdaq-100-is-now-officially-in-a-correction/"
+    },
+    {
+      "id": "nature-flip-exoplanet-imaging",
+      "t": "네이처 11월 5일자, 물리기반 학습 'FLIP'으로 외계행성 직접촬영 민감도 최대 15배 향상",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 62,
+      "d": "노스웨스턴대·칼텍·MIT·우주망원경과학연구소 공동 연구팀이 항성 빛이 관측 영상에 남기는 패턴을 물리 법칙으로 모델링하는 영상처리 기술 FLIP을 개발해 기존 기법 대비 최대 15배 높은 민감도로 외계행성 신호를 포착했고 네이처 11월 5일자에 실렸다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.seoul.co.kr/news/plan/science-story/2026/11/05/20261105018003"
     },
     {
       "id": "netanyahu-pressures-trump-iran-strike",
@@ -963,7 +1095,7 @@
       "t": "브렌트유 9.3% 폭락해 93.90달러…10월 7일 이후 첫 100달러선 하회, 주간 -14%",
       "c": "경제",
       "ci": "📉",
-      "s": 91,
+      "s": 93,
       "d": "민주당의 양원 장악과 밴스 부통령의 '이란전이 패인' 발언이 겹치며 11월 4일 브렌트유가 9.3% 급락해 배럴당 93.90달러로 10월 7일 이후 처음 100달러선을 내줬고 WTI도 7.8% 하락해 88.54달러가 됐다.",
       "fresh": "volatile",
       "date": "2026-11-05",
@@ -990,6 +1122,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216977"
+    },
+    {
+      "id": "openai-internal-security-warnings-ignored",
+      "t": "오픈AI, 수년간 내부 보안 취약점 경고 무시했다는 보도…개발 속도 우선에 기밀 유출 위험 지적",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 62,
+      "d": "AI타임스가 11월 4일 오픈AI가 수년간 제기된 내부 보안 취약점 경고를 무시하고 개발 속도를 우선해 기밀 유출 위험이 커졌다고 보도했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.aitimes.com/news/articleList.html?view_type=sm"
     },
     {
       "id": "openai-pierre-computer-acquisition",
@@ -1025,6 +1168,17 @@
       "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
     },
     {
+      "id": "philippines-manila-meth-200kg-laos",
+      "t": "필리핀, 마닐라 국제컨테이너항서 라오스발 메스암페타민 200kg 압수…6일 전 라오스 전용기 적발의 후속",
+      "c": "사회",
+      "ci": "✊",
+      "s": 54,
+      "d": "필리핀 당국이 11월 4일 마닐라 국제컨테이너항에서 라오스로 추적된 메스암페타민 200kg을 압수했으며, 이는 10월 1일 필리핀행 라오스 전용기에서 유사 밀수품이 발견된 지 6일 뒤에 이뤄진 적발이다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_4"
+    },
+    {
       "id": "police-relationship-crime-highrisk-audit",
       "t": "경찰, 관계성 범죄 4만 4,540건 전수점검…수사 중 사건의 32%가 '고위험', 구속영장 발부율은 21.3%",
       "c": "사회",
@@ -1040,7 +1194,7 @@
       "t": "퀄컴 FY4Q 실적 11월 4일 장 마감 후 발표…옵션시장 ±9.6% 변동 반영, 컨센서스 EPS 2.16달러(-28%)·매출 101.2억(-10%)",
       "c": "경제",
       "ci": "📉",
-      "s": 84,
+      "s": 85,
       "d": "퀄컴이 11월 4일 미 정규장 마감 후 회계 4분기 실적을 내며, 옵션시장은 ±9.6% 변동을 반영했고 애플 물량 이탈과 메모리 원가가 역풍으로 지목됐다.",
       "fresh": "volatile",
       "date": "2026-11-04",
@@ -1124,6 +1278,17 @@
       "url": "https://www.mydaily.co.kr/page/view/2026110317094809354"
     },
     {
+      "id": "semiconductor-index-decoupling-nov4",
+      "t": "다우 +3% 랠리에서 반도체만 소외…필라델피아 반도체지수 3%대 하락, 텍사스 주지사 '데이터센터 신규 중단' 공약이 방아쇠",
+      "c": "경제",
+      "ci": "📉",
+      "s": 90,
+      "d": "11월 4일 미국 증시에서 다우가 3% 급등하는 동안 필라델피아 반도체지수만 3%대 하락해 지수 랠리에서 홀로 소외됐고, 민주당의 의회 장악과 텍사스 주지사 당선인의 데이터센터 신규 건설 중단 공약이 AI 인프라 규제 우려로 해석됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=779055"
+    },
+    {
       "id": "severance-hospital-psychiatrist-stabbing",
       "t": "신촌 세브란스병원 진료실서 정신건강의학과 교수 흉기 피습…50대 특수상해 현행범 체포",
       "c": "사회",
@@ -1133,6 +1298,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.fnnews.com/news/202611041741472409"
+    },
+    {
+      "id": "singapore-haze-act-financier-liability",
+      "t": "싱가포르 연무법 개정안, 벌금 10배 올려 최대 2,000만 싱달러…금융기관·공급망까지 책임 확대, 체포권·피고 부재 재판 도입",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 80,
+      "d": "싱가포르 의회가 11월 4일 월경연무오염법 개정안을 제출해 최대 벌금을 200만에서 2,000만 싱가포르달러로 10배 올리고 체포권과 피고 부재 재판을 도입했으며, 책임 범위를 연무 유발 기업의 금융기관과 공급망까지 확대했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3373296/singapore-passes-tougher-anti-haze-laws-fines-increase-10-times-against-offenders"
     },
     {
       "id": "sk-hynix-solidigm-newyork-nand-fab",
@@ -1212,6 +1388,17 @@
       "url": "https://www.texastribune.org/2026/11/03/texas-governor-greg-abbott-gina-hinojosa-election/"
     },
     {
+      "id": "together-compiler-agentic-gpu-optimization",
+      "t": "투게더AI, '투게더 컴파일러' 공개…에이전트가 추론용 GPU 코드를 재작성해 최대 2.6배 가속, 신규 모델 최적화를 수주에서 24시간으로",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 78,
+      "d": "투게더AI가 11월 4일 AI 에이전트로 추론용 GPU 코드를 반복 최적화하는 투게더 컴파일러를 공개해 오픈 모델 추론을 최대 2.6배 빠르게 하고 신규 모델 최적화 기간을 수주에서 24시간 이내로 줄인다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.tokenpost.kr/news/ai/432781"
+    },
+    {
       "id": "trump-accepts-midterm-result-work-with-democrats",
       "t": "트럼프, 중간선거 패배 수용하고 민주당과 협력 의사…\\\"궁극의 권한은 거부권\\\"에서 \\\"거래하고 싶다\\\"로",
       "c": "정치",
@@ -1254,6 +1441,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.hankyung.com/article/2026110460957"
+    },
+    {
+      "id": "uganda-somalia-troop-withdrawal",
+      "t": "우간다, 20년 만에 소말리아 철군 개시…AUSSOM 4,500명 포함 2027년 말까지 전면 철수, 로워셰벨레 공백 우려",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 62,
+      "d": "우간다가 11월 초 소말리아 주둔군 철수를 시작해 20년 가까운 알샤바브 대응 파병을 단계적으로 종료하며 AUSSOM 소속 약 4,500명을 포함해 2027년 말까지 전면 철수할 계획이고, AUSSOM은 로워셰벨레 지역의 공백을 경고했다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.washingtontimes.com/news/2026/nov/2/uganda-starts-withdrawing-peacekeeping-troops-helped-repel-militants/"
     },
     {
       "id": "uk-eu-brexit-food-deal",
@@ -1331,6 +1529,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-says-canada-us-very-close-to-having-a-deal-following-pm-carney-saying-they-had-a-good-conversation/"
+    },
+    {
+      "id": "us-datacenter-power-cost-3dic-powergrid-demand",
+      "t": "미국 데이터센터 전력난이 설계·전력기기 수요로 전이…PJM 용량 경매 청산가 269.92달러/MW-day로 9배 폭등, 오픈AI는 1,000MW 감축 계약",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "미국 데이터센터 전력 소비가 2030년 649TWh로 3.4배 늘어날 전망 속에 PJM 용량 경매 청산가가 전년 대비 9배 폭등하고 PJM 지역 소매요금이 전국 평균의 두 배로 올라, 전력 효율을 높이는 3D IC 설계와 전력기기 수주가 수요처로 부각되고 오픈AI는 전력망 감축 프로그램을 내놨다.",
+      "fresh": "volatile",
+      "date": "2026-11-05",
+      "url": "https://www.etoday.co.kr/news/view/2644166"
     },
     {
       "id": "us-democrats-win-both-chambers",
@@ -1414,7 +1623,7 @@
       "t": "다우 1,500p(+2.9%) 급등…1982년 이후 최대 '중간선거 다음날' 상승, S&P500 +1.7%대·나스닥 +1.5%",
       "c": "경제",
       "ci": "📉",
-      "s": 86,
+      "s": 90,
       "d": "11월 4일 미국 증시가 민주당 양원 장악과 트럼프의 결과 수용으로 정치 불확실성이 걷히며 급반등해 다우가 1,500포인트(+2.9%) 올라 1982년 이후 최대 중간선거 익일 상승폭을 기록했다.",
       "fresh": "volatile",
       "date": "2026-11-05",
