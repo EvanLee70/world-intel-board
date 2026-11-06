@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 05:27",
+  "generated_at": "2026-11-06 21:35",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -13,6 +13,17 @@
       "url": "https://thehill.com/policy/energy-environment/6199690-3m-forever-chemical-pfas-injury-claims/"
     },
     {
+      "id": "a24-500m-domestic-record-backrooms",
+      "t": "A24, 창사 첫 북미 연간 5억 달러 돌파…1,000만 달러로 만든 'Backrooms'가 전세계 4억 달러, 매각론 재점화",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 67,
+      "d": "A24가 2026년 북미 박스오피스에서 사상 처음 5억 달러를 넘겨 가장 수익성 높은 해를 기록했고 제작비 약 1,000만 달러의 'Backrooms'가 전세계 4억 7만 달러를 벌어 역대 최고 흥행작이 되면서 독립 스튜디오 매각·밸류에이션 논의가 다시 제기됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://au.variety.com/2026/film/news/a24-biggest-year-backrooms-elden-ring-42279"
+    },
+    {
       "id": "africa-energy-bank-launch",
       "t": "아프리카에너지은행, 수권자본 50억 달러로 아부자에서 출범…2027년 1월 4일 영업 개시, 화석연료 금융 공백 메운다",
       "c": "환경",
@@ -22,6 +33,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.climatechangenews.com/2026/11/03/africa-launches-long-delayed-energy-bank-to-finance-fossil-fuel-projects/"
+    },
+    {
+      "id": "agility-robotics-nasdaq-humanoid-ipo",
+      "t": "애질리티 로보틱스, 나스닥 'AGLT'로 상장…미국 첫 순수 휴머노이드 상장사, 처칠캐피탈XI와 SPAC 합병으로 기업가치 25억 달러·폭스콘 주도 PIPE 2억 100만 달러",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 87,
+      "d": "애질리티 로보틱스가 11월 5일 처칠캐피탈 코프 XI와의 SPAC 합병으로 나스닥에 AGLT로 상장해 미국 첫 순수 휴머노이드 로보틱스 상장사가 됐고, 기업가치 약 25억 달러에 보유 현금 약 4억 6,500만 달러, 디짓5 다년 수주 3억 달러 이상을 제시했다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://investors.agilityrobotics.com/news-releases/news-release-details/agility-becomes-first-us-publicly-listed-pure-play-humanoid"
     },
     {
       "id": "ai-datacenter-ballot-measures-rejected",
@@ -101,6 +123,17 @@
       "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
     },
     {
+      "id": "anthropic-claude-enterprise-security-center",
+      "t": "앤트로픽, Claude Enterprise 보안센터(베타)·추론훅 정식출시…IP 허용목록 자가관리, 데스크톱 개인계정 차단, 기존 DLP·EDR 스택 연결",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 80,
+      "d": "앤트로픽이 11월 5일 Claude Enterprise 보안 업데이트를 공개해 설정을 권장 구성과 대조하고 감사용 리포트를 내보내는 보안센터를 베타로 내놓고, 추론 훅을 정식 출시하며 IP 허용목록 자가관리·데스크톱 개인계정 차단·기존 DLP·EDR 연동을 추가했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://claude.com/resources/articles/claude-enterprise-security-updates"
+    },
+    {
       "id": "anthropic-claude-prokaryotic-vault-structure",
       "t": "앤트로픽, 클로드로 원핵생물 볼트 입자 첫 3D 구조 규명…단백질 96개·9.5메가달톤·54×45nm, 수주~수개월 작업을 며칠로",
       "c": "과학",
@@ -132,6 +165,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://simplifyaitools.com/newsletter/ai-news-november-2026-anthropic-microsoft-google/"
+    },
+    {
+      "id": "anthropic-ipo-roadshow-doubt-valuation-discount",
+      "t": "로이터 단독 — 앤트로픽 IPO 투자자들이 다음 주 로드쇼 일정에 의문, 1조 5,000억 달러 밸류에이션을 '상단'으로 보고 추가 할인 요구",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 91,
+      "d": "로이터가 투자자 논의에 밝은 4명을 인용해 앤트로픽이 다음 주 로드쇼를 열어 11월 상장을 맞출 수 있을지 의문이 제기됐고, 투자자들이 1조 5,000억 달러 밸류에이션을 상단으로 보며 더 큰 할인을 요구하고 있다고 보도했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-5006110"
     },
     {
       "id": "anthropic-personal-finance-plaid-beta",
@@ -288,6 +332,17 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0001650372/000165037226000049/ex991q1fy27.htm"
     },
     {
+      "id": "baidu-ernie-55-flash-base-open-weights",
+      "t": "바이두, 280B MoE 'ERNIE 5.5 Flash Base' 오픈웨이트 공개…라이선스가 EU·영국·한국 사용을 금지, 30개 벤치마크 중 24개 1위 자기 보고",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 87,
+      "d": "바이두가 11월 5일 총 2,800억·활성 140억 파라미터 MoE 베이스 모델 ERNIE 5.5 Flash Base의 가중치를 허깅페이스에 공개했는데, ERNIE 4.5의 Apache 2.0에서 커스텀 라이선스로 바꾸며 EU·영국·대한민국에서의 사용을 허용하지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
+    },
+    {
       "id": "bangladesh-garment-wage-board-agreement",
       "t": "방글라데시 의류 임금위, 닷새 시위 끝에 최저임금 인상 합의…인상폭은 미공개, 12월 확정·1월 지급 목표",
       "c": "경제",
@@ -303,7 +358,7 @@
       "t": "벨기에 총리 드베버, 예산안 협상 실패로 사퇴",
       "c": "정치",
       "ci": "🏛️",
-      "s": 71,
+      "s": 73,
       "d": "벨기에 바르트 드베버 총리가 2026-2027년 연방 예산안 협상 실패로 사퇴서를 제출했으나, 필리프 국왕은 아직 수락 여부를 결정하지 않았다.",
       "fresh": "volatile",
       "date": "2026-11-03",
@@ -319,6 +374,17 @@
       "fresh": "volatile",
       "date": "2026-11-06",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+    },
+    {
+      "id": "bidraft-darwin-rsi-superclue-second",
+      "t": "국내 스타트업 비드래프트 'Darwin-180B-RSI-R3', 슈퍼클루 수학·과학 추론 73.68점으로 19개 모델 중 2위…제미나이 4 아르곤·딥시크 V4.1을 앞섰다",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 57,
+      "d": "비드래프트가 알리바바 Qwen3.8-Flash-Next를 베이스로 재귀적 자기개선(RSI)을 적용한 Darwin-180B-RSI-R3가 중국 슈퍼클루 2026년 11월 평가에서 수학·과학 추론 73.68점으로 19개 모델 중 2위를 기록했다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217089"
     },
     {
       "id": "bigtech-offbalance-ai-debt-3-2-trillion",
@@ -380,7 +446,7 @@
       "t": "비트코인 7만6,000달러 아래로 -5.4%, 7주 최저…24시간 청산 10억7천만 달러(롱 9억5,438만·숏 1억2,730만), 이더리움 -7%·MSTR·COIN·CRCL 동반 타격",
       "c": "경제",
       "ci": "📉",
-      "s": 88,
+      "s": 86,
       "d": "AI 반도체 투매가 암호화폐로 번져 11월 5일 비트코인이 5.4% 하락해 7만6,000달러를 밑돌며 7주 최저로 중간선거 랠리를 전량 반납했고, 24시간 청산액이 10억 달러를 넘겼으며 그중 89%가 롱 포지션이었다.",
       "fresh": "volatile",
       "date": "2026-11-06",
@@ -508,6 +574,17 @@
       "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi"
     },
     {
+      "id": "china-q3-2026-co2-largest-drop-since-covid",
+      "t": "중국 3분기 CO2 배출 3.1% 감소로 코로나 이후 최대 낙폭…수송용 석유가 9% 급감, 원인이 '구조전환'과 '호르무즈 유가'로 갈린다",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 82,
+      "d": "CREA가 카본브리프에 제공한 분석에서 중국의 에너지·산업 CO2 배출이 2026년 3분기에 전년 동기 대비 3.1% 감소해 코로나 이후 최대 낙폭을 기록했고, 수송용 석유 소비가 9% 줄었으나 원인을 구조적 전환으로 볼지 호르무즈발 고유가의 일시 효과로 볼지 같은 날 보도가 갈렸다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid"
+    },
+    {
       "id": "china-rare-earth-control-expiry",
       "t": "중국 희토류 수출통제 유예 11월 10일 만료…0.1% 역외적용 조항 발효 임박",
       "c": "국제",
@@ -585,6 +662,17 @@
       "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
     },
     {
+      "id": "cop31-35by35-electrification-pledge",
+      "t": "COP31 최대 요구는 '35 by 35' — 최종에너지 수요 중 전력 비중을 2035년 35%로(현재 20~23%), 다만 자발적 서약",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 73,
+      "d": "11월 9일 개막하는 COP31 안탈리아 회의의 조직측 핵심 목표가 최종에너지 수요 중 전력 비중을 현재 약 20%에서 2035년 35%로 올리는 '35 by 35' 서약을 파리협정 당사국들이 채택하게 하는 것이며, IRENA 로드맵이 근거지만 법적 구속력 없는 자발적 서약으로 남아 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.inkl.com/news/in-a-divided-world-cop31-aims-for-agreement-on-electrification"
+    },
+    {
       "id": "cop31-climate-conference-antalya",
       "t": "COP31 기후변화협약 당사국총회, 튀르키예 안탈리아에서 개막 예정",
       "c": "환경",
@@ -594,6 +682,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+    },
+    {
+      "id": "copernicus-2026-second-hottest-october-175c",
+      "t": "코페르니쿠스 \\\"2026년은 역대 두 번째 더운 해가 가장 유력\\\"…10월이 산업화 이전 대비 +1.75도로 역대 최고 10월, 1.5도 초과가 3개월 연속",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 77,
+      "d": "EU 코페르니쿠스 기후변화서비스가 11월 6일 2026년이 역대 두 번째로 더운 해가 될 가능성이 가장 높고 2024년을 넘어설 확률도 20% 남았다고 발표했으며, 10월 기온이 산업화 이전 대비 1.75도 높아 역대 최고 10월이자 1.5도 초과 3개월 연속을 기록했다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://phys.org/news/2026-11-hottest-year-eu.html"
     },
     {
       "id": "costco-october-2026-sales-12percent",
@@ -706,6 +805,17 @@
       "url": "https://www.democracynow.org/2026/11/4/headlines"
     },
     {
+      "id": "doj-super-intelligence-task-force",
+      "t": "미 법무부 '초지능(SI) 태스크포스' 출범…외국 국가행위자·범죄조직·기업 불법행위 대상, '기업의 강력한 내부통제 보장'을 임무에 명시",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 78,
+      "d": "미국 법무부가 11월 5일 Super Intelligence Task Force(DOJ-SITF) 출범을 발표하며 외국 국가·국가후원 행위자와 초국가적 범죄조직, 사기에 관여한 개인·기업의 AI 오용을 기소 대상으로 삼고 기업이 강력한 내부통제를 수행하도록 보장하겠다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force"
+    },
+    {
       "id": "dollar-index-one-month-low-ai-regulation",
       "t": "달러인덱스 101.27로 1개월 최저…엔 157.92·美 10년물 4.915%, 'AI 규제 강화' 우려가 통화·금리로 번졌다",
       "c": "경제",
@@ -737,6 +847,28 @@
       "fresh": "volatile",
       "date": "2026-11-06",
       "url": "https://stockstory.org/us/stocks/nasdaq/dkng/news/earnings/draftkings-nasdaqdkng-misses-q3-2026-revenue-estimates-stock-drops-23percent"
+    },
+    {
+      "id": "dreadd-chemogenetic-epilepsy-nejm-china",
+      "t": "사람 뇌에 '설계 수용체'를 넣은 첫 사례…약물 불응성 뇌전증 3명에서 발작 평균 92.6% 감소, NEJM 11월 4일, 중국서 DREADD 사람 시험 최소 7건 진행",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 81,
+      "d": "약물로 조절되지 않는 뇌전증 환자 3명의 해마에 DREADD 설계 수용체를 도입하고 저용량 클로자핀을 병용한 파일럿 연구에서 발작 빈도가 평균 92.6% 감소했고, 이는 성인의 뇌 활동을 DREADD로 바꾼 첫 사람 사례다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://cen.acs.org/pharmaceuticals/drug-development/designer-gene-therapy-chemogenetics-dreadd-epilepsy-clinical-trial/104/web/2026/11"
+    },
+    {
+      "id": "eu-436bn-ukraine-support-loan-disbursement",
+      "t": "EU 집행위, 우크라이나에 43억 6,000만 유로 지급…국방 부문 6억 5,800만 유로는 '대부분 우크라이나 기업' 조달, 연내 잔여 가용액 252억 유로",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 82,
+      "d": "유럽집행위원회가 11월 5일 900억 유로 규모 Ukraine Support Loan에서 43억 6,000만 유로를 지급했고 이 중 국방 부문 6억 5,800만 유로는 드론·미사일·레이더·전자전·탄약 조달에 쓰이되 대부분 우크라이나 기업 장비로 집행되며, 2026년 잔여 가용액은 252억 유로다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en"
     },
     {
       "id": "eu-advocate-general-gemini-press-copyright",
@@ -781,6 +913,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.irishtimes.com/business/markets/2026/11/05/europes-stoxx-600-hovers-near-all-time-high/"
+    },
+    {
+      "id": "europe-stoxx600-nov6-broad-decline",
+      "t": "STOXX 600 644.72(-1.6%)로 주간 상승분 전량 반납…하락 주도는 기술이 아니라 미디어·헬스케어·리테일(각 -2%대), 텔레퍼포먼스 -18%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 87,
+      "d": "11월 6일 유럽 증시가 하락해 STOXX 600이 08:10 GMT 기준 644.72로 1.6% 내리며 주간 상승분을 전량 반납했고, 하락을 주도한 업종이 기술이 아니라 미디어·헬스케어·리테일이어서 'AI 노출이 낮아 유럽이 피난처'라는 전날의 구도가 흔들렸다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-set-to-fall-as-global-ai-rout-gathers-pace-5006641"
     },
     {
       "id": "europe-supermarket-fridge-cyberattack-round2",
@@ -838,6 +981,17 @@
       "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
     },
     {
+      "id": "font-major-cave-280-paleolithic-engravings",
+      "t": "관광객이 60년간 지나친 동굴에서 구석기 암각 280점 확인…스페인 카탈루냐 코바 데 라 폰트 마조르, 동물 묘사 55점·'애니메이션' 흔적, 11월 5일 Antiquity 게재",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 52,
+      "d": "스페인 카탈루냐의 관광 동굴 코바 데 라 폰트 마조르에서 약 2만 6,000년 전 구석기 암각 모티프 280점이 확인돼 11월 5일 학술지 Antiquity에 게재됐고, 동물 묘사 55점과 '애니메이션' 흔적이 포함돼 유럽 구석기 미술 분포도를 다시 그리게 했다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03585-z"
+    },
+    {
       "id": "forgotten-particle-matter-antimatter-asymmetry",
       "t": "'잊혀진 입자'가 우주에 물질이 반물질보다 많은 이유를 설명할 열쇠로 제시",
       "c": "과학",
@@ -849,6 +1003,17 @@
       "url": "https://www.southampton.ac.uk/news/2026/10/forgotten-particle-could-answer-mystery-of-why-we-exist.page"
     },
     {
+      "id": "fox-roku-22bn-acquisition-closed",
+      "t": "폭스, 로쿠 인수 220억 달러 거래 종결…로쿠 주식은 11월 6일 나스닥 거래 중단, 구 로쿠 주주가 폭스 지분 26% 보유",
+      "c": "경제",
+      "ci": "📉",
+      "s": 92,
+      "d": "폭스가 2026년 6월 발표한 220억 달러 규모 로쿠 인수를 11월 6일 종결해 로쿠 주식이 나스닥에서 거래를 멈췄고, 로쿠 주주는 주당 현금 95.30달러와 폭스 클래스A 0.9799주를 받아 합산 폭스 지분 약 26%를 갖게 됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.stocktitan.net/articles/fox-roku-acquisition-closes-2026-what-roku-stock-holders-get"
+    },
+    {
       "id": "france-general-strike-nov5-aviation-rail",
       "t": "프랑스 11월 5일 전국 총파업…DGAC·SUD Aérien 합류로 샤를드골·오를리 운항 감축 가능, 관제사 최대노조 SNCTA는 불참",
       "c": "국제",
@@ -858,6 +1023,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.volclaim.com/en/air-travel-news/france-strike-5-november-2026-flights.html"
+    },
+    {
+      "id": "gemini-omni-12-flash-ga-price-cut",
+      "t": "구글 Gemini Omni 1.2 Flash 정식출시…720p 초당 0.07달러로 30% 인하, 생성 길이 15초·대화형 단계 편집",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 87,
+      "d": "구글이 영상 생성·편집 모델 Gemini Omni 1.2 Flash를 정식 출시하며 720p 가격을 초당 0.07달러로 직전 버전 대비 30% 내리고 생성 길이를 15초로 늘렸으며, Gemini API·AI Studio·Flow·Google Vids·Google Ads까지 동시에 배포했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     },
     {
       "id": "gold-back-above-4000-etf-record",
@@ -882,6 +1058,17 @@
       "url": "https://thenextweb.com/news/data-centres-us-midterms-ballot-measures"
     },
     {
+      "id": "goldman-gold-target-cut-4150",
+      "t": "금이 주식·비트코인과 같이 빠졌다…현물 4,063.39달러(-0.6%), 골드만삭스 2026년말 목표 4,650→4,150달러·2027년말 5,400→4,800달러",
+      "c": "경제",
+      "ci": "📉",
+      "s": 91,
+      "d": "11월 6일 금 현물이 4,063.39달러로 0.6% 하락해 주식·비트코인과 동반 하락하며 안전자산 역할에서 벗어났고, 같은 날 골드만삭스가 매파적 연준을 이유로 2026년말 금 목표를 4,650달러에서 4,150달러로 500달러 낮췄다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://finance.biggo.com/news/953354d9-0947-4503-9108-3ba224f46f3c"
+    },
+    {
       "id": "goldman-sachs-restricts-ai-coding-tools",
       "t": "골드만삭스, 트레이더·뱅커의 AI 코딩툴 접근 차단…엔지니어로 한정",
       "c": "경제",
@@ -893,6 +1080,28 @@
       "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
     },
     {
+      "id": "google-17bn-wyoming-datacenter-fuelcell",
+      "t": "구글, 와이오밍 첫 데이터센터에 170억 달러…전력은 702MW 천연가스 연료전지 + 탄소포집, 공랭 방식에 상업운전은 2028년 하반기",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 92,
+      "d": "구글이 와이오밍주 러라미 카운티에 첫 데이터센터를 짓고 702MW 규모 천연가스 연료전지와 탄소포집·저장으로 전력을 공급받는 170억 달러 장기 투자를 발표했으며, 이는 데이터센터용 연료전지 발전으로는 지금까지 최대 규모 계획이다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://interestingengineering.com/energy/google-wyoming-data-center-702mw-fuel-cell-carbon-capture"
+    },
+    {
+      "id": "google-gemini-chromebook-suicide-lawsuit",
+      "t": "구글, 학교 지급 크롬북의 제미나이로 13세가 자살 계획을 세웠다는 소송 피소…11월 4일 캘리포니아 주법원 제소, 같은 주에 K-12 기본 차단 발표",
+      "c": "사회",
+      "ci": "✊",
+      "s": 77,
+      "d": "학교가 지급한 크롬북에서 구글 제미나이와 수개월간 수천 건의 메시지를 주고받은 13세 학생의 부모가 11월 4일 캘리포니아 주법원에 구글을 제소하며 구글이 학생들에게 AI 제품을 밀어넣고 위험을 경고하지 않았다고 주장했고, 구글은 같은 주에 학생 계정의 제미나이를 기본 차단한다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/"
+    },
+    {
       "id": "google-gemini-off-by-default-k12",
       "t": "구글, K-12 학생 계정에서 제미나이·검색을 기본 차단…학교 관리자가 켜야 작동, 교실 AI 반발이 제품 기본값을 뒤집었다",
       "c": "기술",
@@ -902,6 +1111,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://en.sedaily.com/international/2026/11/05/google-turns-off-gemini-by-default-in-us-schools-but-not-ai"
+    },
+    {
+      "id": "google-smartwatch-hypertension-nature",
+      "t": "구글, 커프 캘리브레이션 없는 스마트워치 고혈압 탐지 네이처 게재…민감도 65.8%·특이도 90.0%·PPV 80.6%, 표본은 196명",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 81,
+      "d": "PPG와 가속도계 파형에 AI를 적용해 커프 캘리브레이션 없이 고혈압 징후를 수동적으로 탐지하는 구글의 스마트워치 시스템이 11월 5일 네이처에 게재됐고, 24시간 활동혈압측정을 기준으로 민감도 65.8%·특이도 90.0%·양성예측도 80.6%를 기록했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41586-026-11336-3"
     },
     {
       "id": "google-voluntary-exit-five-countries",
@@ -1080,6 +1300,17 @@
       "url": "https://www.arabnews.com/world/indonesia-deploys-20000-troops-to-capital-as-generals-probed-over-president-wiretapping-3009773"
     },
     {
+      "id": "ionq-q3-2026-record-nvidia-superion",
+      "t": "아이온큐 3분기 매출 1억 7,380만 달러(+336%)로 6개 분기 연속 최대…연간 가이던스를 5억 500만~5억 1,500만 달러로 상향, 엔비디아가 자사 양자연구센터에 수페리온 256을 온프레미스 설치",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 84,
+      "d": "아이온큐가 11월 6일 3분기 GAAP 매출 1억 7,380만 달러(전년 대비 +336%)로 6개 분기 연속 최대 실적을 내고 연간 가이던스를 5억 500만~5억 1,500만 달러로 올렸으며, 엔비디아가 자사 가속양자연구센터에 수페리온 256을 첫 온프레미스 양자컴퓨터로 배치한다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion"
+    },
+    {
       "id": "iran-hormuz-reopen-offer",
       "t": "이란, 美 요구 수용 시 호르무즈 해협 이틀 내 재개방 제안",
       "c": "국제",
@@ -1089,6 +1320,17 @@
       "fresh": "volatile",
       "date": "2026-11-03",
       "url": "https://www.arabnews.jp/en/middle-east/iran-says-strait-of-hormuz-could-reopen-within-two-days-if-us-meets-its-demands-3001221"
+    },
+    {
+      "id": "iran-irgc-six-mqm170-drones-qeshm",
+      "t": "이란 혁명수비대, 케슘섬 상공 美 MQM-170 2대 추가 격추 주장…전자전으로만 누적 6대, 호르무즈 동부에선 MQ-9 1대 '신형 방공체계'로 요격",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 65,
+      "d": "이란 혁명수비대가 11월 6일 전자전 체계로 케슘섬 상공의 미국 MQM-170 정찰드론 2대를 추가로 떨어뜨려 누적 6대가 됐다고 발표하고 호르무즈 동부에서 신형 방공체계로 MQ-9 1대를 요격했다고 주장했으나, 미 국방부 확인은 확보되지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.tasnimnews.ir/en/news/2026/11/06/3741466/irgc-shoots-down-more-us-mqm-170-reconnaissance-drones"
     },
     {
       "id": "iran-maximum-deterrence-target-lists",
@@ -1102,6 +1344,17 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack"
     },
     {
+      "id": "iran-rezaei-moscow-putin-russia-arms-pipeline",
+      "t": "이란 안보수장 레자이가 11월 5일 모스크바에서 푸틴을 만났다…러시아, 헬기 탑재 미사일 발사기 90기 공급 합의·러-이란 가스관 논의",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 86,
+      "d": "이란 안보수장 모흐센 레자이가 11월 5일 최고지도자 모즈타바 하메네이의 메시지를 들고 모스크바에서 푸틴을 만났고, 러시아가 헬기 탑재 미사일 발사기 90기 공급에 합의하고 러시아-이란 가스관 건설까지 논의된 것으로 보도됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know"
+    },
+    {
       "id": "ireland-sea-level-rise-acceleration",
       "t": "아일랜드 해수면 상승 100년 재구성…1925년 관측치부터 복원해 '뚜렷한 가속' 확인",
       "c": "환경",
@@ -1111,6 +1364,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://phys.org/news/2026-11-reveals-sea-ireland.html"
+    },
+    {
+      "id": "iren-q1-fy2027-4bn-arr-delay-microsoft",
+      "t": "IREN, 2026년 예정 ARR 40억 달러 이상이 '최소 1월로' 연기…공동CEO가 실적 콜에서 지연 요청 고객을 마이크로소프트로 특정했다",
+      "c": "경제",
+      "ci": "📉",
+      "s": 92,
+      "d": "IREN이 1분기 실적에서 AI 클라우드 매출이 7,100만 달러에서 2억 달러로 늘었다고 밝히면서도 2026년에 들어올 예정이던 연간반복매출 40억 달러 이상이 최소 1월로 밀렸다고 공시하고, 공동CEO 대니얼 로버츠가 콜에서 그 고객이 마이크로소프트라고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html"
     },
     {
       "id": "isomorphic-labs-5bn-round-40bn-valuation",
@@ -1234,6 +1498,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm"
     },
     {
+      "id": "kakao-kanana-2-v-decide-opensource",
+      "t": "카카오, 판단 전용 멀티모달 모델 'Kanana-2-v-decide' 가중치 공개…문장 대신 확률·선택·점수로 답하고 H200 1장에서 0.04초, 상업 이용 허용 라이선스",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 80,
+      "d": "카카오가 11월 6일 멀티모달 의사결정 전용 모델 Kanana-2-v-decide의 가중치를 허깅페이스에 공개했고, 문장 생성 대신 확률·선택·점수의 구조화된 출력을 내 H200 GPU 1장에서 0.04초 이내로 응답하며 연구·상업 이용이 모두 허용된다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.the-tech.co.kr/news/article.html?no=42137"
+    },
+    {
       "id": "kdrama-industry-crisis-1trillion-support",
       "t": "방송·드라마 12개 단체 공동회견 '제작편수 2년간 30% 급감'…정부에 1조 원 지원 요구",
       "c": "문화",
@@ -1333,6 +1608,17 @@
       "url": "https://view.asiae.co.kr/article/2026110308094848718"
     },
     {
+      "id": "korea-crypto-tax-deferral-proposal",
+      "t": "민주당, 가상자산 소득 과세 유예를 정부에 공식 제안…2027년 1월 시행(네 번째 연기 시도), 소득세법 개정 데드라인은 '11월 말'",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "김민석 더불어민주당 대표가 가상자산 소득 과세 유예를 정부에 공식 제안하며 디지털자산기본법 제정을 선행 조건으로 제시했고, 2027년 1월 시행을 미루려면 11월 말까지 소득세법을 개정해야 하는데 국민의힘도 유예에 찬성해 처리 걸림돌이 없는 상태다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://nocutnews.co.kr/news/6601857"
+    },
+    {
       "id": "korea-cyber-security-czar-review",
       "t": "이재명 대통령 '사이버보안 차르' 기구 검토 지시…국정원은 공공기관 2,100곳 긴급 보안점검 11월 중순 마감",
       "c": "사회",
@@ -1377,6 +1663,17 @@
       "url": "https://www.newspim.com/news/view/20261105000068"
     },
     {
+      "id": "korea-floor-noise-standard-49db",
+      "t": "국토부, 다세대·오피스텔 층간소음 차단기준을 아파트 수준으로…중량 50㏈·경량 58㏈을 모두 49㏈ 이하로, 11월 6~26일 행정예고",
+      "c": "사회",
+      "ci": "✊",
+      "s": 70,
+      "d": "국토교통부가 건축법 적용 다세대주택·30가구 미만 공동주택·오피스텔의 바닥충격음 차단기준을 중량 50㏈·경량 58㏈에서 모두 49㏈ 이하로 강화하는 개정안을 11월 6일부터 26일까지 행정예고한다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://view.asiae.co.kr/article/2026110510483830606"
+    },
+    {
       "id": "korea-hpai-first-outbreak-yeoncheon",
       "t": "경기 연천 산란계 농장서 '26/'27 시즌 첫 고병원성 AI 확진(H5N9형)…9만 1천 마리 살처분, 전국 가금 24시간 일시이동중지",
       "c": "사회",
@@ -1408,6 +1705,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832230"
+    },
+    {
+      "id": "korea-justice-minister-lee-yongchul-nomination",
+      "t": "이재명 대통령, 법무장관 후보자에 이용철 방위사업청장 지명…국세청장 안덕수·정무수석 최인호, '조작기소 특검법' 통과 당일",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 65,
+      "d": "이재명 대통령이 11월 6일 법무부 장관 후보자로 이용철 방위사업청장, 국세청장에 안덕수 서울지방국세청장을 지명하고 청와대 정무수석에 최인호 전 의원을 내정했으며, 같은 날 조작기소 특검법이 국회를 통과했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.seoul.co.kr/news/politics/2026/11/06/20261106500235"
     },
     {
       "id": "korea-megaregion-industrial-zone-committee",
@@ -1496,6 +1804,17 @@
       "fresh": "volatile",
       "date": "2026-11-06",
       "url": "https://www.newspim.com/news/view/20261106000202"
+    },
+    {
+      "id": "kospi-nov6-close-f4-emergency-measures",
+      "t": "코스피 11월 6일 종가 5,059.69(-6.02%)…'F4' 긴급 회동이 신용융자 담보비율 140% 유지의무를 11월 9일부터 3개월 면제했다",
+      "c": "경제",
+      "ci": "📉",
+      "s": 94,
+      "d": "코스피가 11월 6일 전 거래일보다 324.11포인트(6.02%) 낮은 5,059.69로 마감했고, 같은 날 경제·금융 수장 4인이 긴급 회동해 증권사의 신용융자 담보비율 유지의무(140%)를 11월 9일부터 3개월간 면제하는 시장안정화 방안을 발표했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.mydaily.co.kr/page/view/2026110612004303647"
     },
     {
       "id": "kospi-rebound-nov4-semiconductor",
@@ -1630,6 +1949,39 @@
       "url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor"
     },
     {
+      "id": "meta-datacenter-expansion-warning-governors",
+      "t": "메타 사장 디나 파월 맥코믹 \\\"중간선거 뒤 미국 신규 데이터센터 착수는 더 어려워진다\\\"…오하이오·조지아·미시간·뉴멕시코·텍사스 당선 주지사가 중단 공약, 계획 용량의 41%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 87,
+      "d": "메타 플랫폼스 사장 디나 파월 맥코믹이 WSJ 테크 콘퍼런스에서 중간선거 이후 미국 신규 데이터센터 착수가 더 어려워질 것이라고 말했고, 5개 주 당선 주지사가 주 전역 건설 중단·유예를 공약해 미국 계획 데이터센터 용량의 41%가 영향권에 든 것으로 집계됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder"
+    },
+    {
+      "id": "metr-anthropic-rd-acceleration",
+      "t": "METR, 앤트로픽의 역량 개선 속도가 1.9배 빨라졌다고 독립 평가…가속의 80%가 '사내 AI 활용', 근거 대부분은 앤트로픽이 삭제",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 81,
+      "d": "독립 평가기관 METR이 11월 5일 앤트로픽 본사 3개월 상주 조사 결과를 공개하며 2025년 10월 이후 벤치마크 역량 증가 속도가 1.9배(95% 신뢰구간 1.5~2.8배) 빨라졌고 그 가속의 약 80%가 사내 AI 활용에서 비롯됐다고 추정했으나, 약 100페이지 보고서의 근거 상당 부분이 앤트로픽에 의해 삭제됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.washingtontimes.com/news/2026/nov/5/outside-research-group-says-anthropic-rapidly-accelerating-ai/"
+    },
+    {
+      "id": "microbiome-two-axes-nature-medicine",
+      "t": "네이처 메디신, 생활습관을 건강·15개 만성질환에 잇는 '상반된 두 개의 마이크로바이옴 축' 보고…일본 4D 코호트 6,803명, 13개 코호트 교차검증",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 64,
+      "d": "네이처 메디신이 11월 5일 일본 4D 코호트 성인 6,803명의 분변 메타지노믹스에서 식이·신체활동·좌식행동을 일반 건강과 15개 만성질환에 연결하는 상반된 두 개의 마이크로바이옴 매개 축을 식별하고, 그 예측 점수를 13개 독립 코호트에서 교차검증한 연구를 게재했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41591-026-04744-5"
+    },
+    {
       "id": "microsoft-60000-employee-buyouts",
       "t": "마이크로소프트, AI 재편 속 직원 6만 명 희망퇴직 제안",
       "c": "기술",
@@ -1652,6 +2004,28 @@
       "url": "https://www.marketscreener.com/news/microsoft-tightens-oversight-of-neocloud-data-center-projects-bloomberg-news-reports-ce785fddd88bf424"
     },
     {
+      "id": "microsoft-winds-down-oracle-ai-cloud-rental",
+      "t": "마이크로소프트, 오라클에서 빌린 AI 연산용량을 끄고 계약을 갱신하지 않았다…오라클 -4%, 이유는 '엔비디아 구세대 칩'",
+      "c": "경제",
+      "ci": "📉",
+      "s": 88,
+      "d": "블룸버그가 11월 6일 마이크로소프트가 2023년 체결한 오라클 AI 클라우드 용량 임차 계약을 갱신하지 않고 최근 몇 달간 용량을 순차적으로 끄고 있다고 보도해 오라클 주가가 4% 하락했고, 이유로 오라클 하드웨어가 엔비디아 구세대 칩이라 마이크로소프트 규격에 맞지 않게 됐다는 점이 지목됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.investing.com/news/stock-market-news/oracle-falls-4-as-microsoft-reportedly-winds-down-ai-cloud-capacity-deal-5008936"
+    },
+    {
+      "id": "moderna-q3-2026-surprise-profit-guidance-raise",
+      "t": "모더나 3분기 깜짝 흑자…EPS 0.38달러로 컨센서스 -1.26달러를 뒤집고 1억 6,200만 달러 순이익, 연간 매출성장 전망을 '최대 10%'에서 '15~25%'로 상향",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "모더나가 11월 6일 3분기 매출 13억 1,300만 달러(+29%)와 EPS 0.38달러로 컨센서스를 크게 상회하고 전년 2억 달러 적자를 1억 6,200만 달러 흑자로 돌리면서 연간 매출성장 전망을 최대 10%에서 15~25%로 올렸고, 주가는 장중 7%대 올랐다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/62992871/moderna-stuns-wall-street-with-surprise-profit-raises-outlook"
+    },
+    {
       "id": "musk-midterm-biggest-loser-texas",
       "t": "머스크, 중간선거에 4억4,600만 달러 쓰고 전패…'최대 패배자' 지목, 2억 달러 투입한 텍사스 상원도 패배",
       "c": "정치",
@@ -1661,6 +2035,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://biz.heraldcorp.com/article/10926233"
+    },
+    {
+      "id": "najib-house-arrest-suspended-attorney-general",
+      "t": "말레이시아 검찰총장, 나지브 전 총리의 가택연금 이송을 당일 보류…정당이 사면 조건인 5,000만 링깃(1,230만 달러) 벌금을 낸 뒤 '법 해석 미비'",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 59,
+      "d": "말레이시아 검찰총장실이 11월 6일 나지브 라작 전 총리의 교도소에서 가택연금으로의 이송을 법 해석 명확화가 더 필요하다며 보류했고, 이는 그의 정당이 왕실 사면 조건인 5,000만 링깃 벌금을 납부하고 그가 이미 교도소를 떠났다는 현지 보도가 나온 뒤의 막판 개입이었다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.wsls.com/news/world/2026/11/06/malaysias-attorney-general-suspends-house-arrest-for-jailed-ex-premier-najib/"
     },
     {
       "id": "nasa-perseverance-mars-distance-record",
@@ -1718,6 +2103,17 @@
       "url": "https://spectrumlocalnews.com/nc/triad/international/2026/11/02/netanyahu-pressing-trump-to-attack-iran-after-midterms-officials-say"
     },
     {
+      "id": "newsom-548-death-sentence-commutation",
+      "t": "뉴섬, 캘리포니아 사형수 548명 전원 가석방 없는 종신형으로 감형…약 3분의 2는 주 대법원 심사 필요, 전국 사형수 4분의 1~30% 감소",
+      "c": "사회",
+      "ci": "✊",
+      "s": 61,
+      "d": "캘리포니아 주지사 개빈 뉴섬이 사형수 548명 전원의 형을 가석방 없는 종신형으로 감형한다고 발표해 현대 미국 역사상 최대 규모 사형 감형이 됐고, 약 3분의 2는 주 대법원 심사를 거쳐야 확정되며 법적 도전 가능성이 제기된다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row"
+    },
+    {
       "id": "nikke-pc-launcher-supply-chain-attack",
       "t": "'니케' PC 런처 공급망 침해…레벨 인피니트 CDN 자바스크립트 4개 변조, 암호화폐 지갑 28종·SSH 키 표적",
       "c": "기술",
@@ -1746,6 +2142,17 @@
       "ci": "📉",
       "s": 88,
       "d": "닛케이225가 11월 6일 장중 6만선을 5월 이후 처음으로 하회하며 닷새 연속 하락했고, 같은 시각 대만 가권은 -1.4%, MSCI 아시아태평양은 7거래일 연속 하락으로 2023년 8월 이후 최장 연속 하락을 기록했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff"
+    },
+    {
+      "id": "nikkei-nov6-close-bear-market",
+      "t": "닛케이 11월 6일 종가 57,410.91(-6.00%)…6월 고점 대비 -20% 넘겨 베어마켓 공식 진입, 로옴 -20%·후루카와전기 -19%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 91,
+      "d": "닛케이225가 11월 6일 57,410.91로 마감해 3,666.99포인트(-6.00%) 하락하며 6월 종가 고점 대비 20% 넘게 내려 기술적 베어마켓에 진입했고, 같은 장에서 코스피는 -6.02%로 마감해 한국·일본이 같은 날 함께 베어마켓 영역에 들어갔다.",
       "fresh": "volatile",
       "date": "2026-11-06",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff"
@@ -1817,6 +2224,28 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm"
     },
     {
+      "id": "nvidia-brightspeed-telco-exchange-conversion",
+      "t": "엔비디아, 브라이트스피드 노후 통신국사를 소형 AI 추론 데이터센터로 전환 제안…130곳·20개 주·가용전력 약 1GW, 계약은 없는 제안 단계",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 88,
+      "d": "엔비디아가 미국 광대역 사업자 브라이트스피드에 노후 통신국사 일부를 소형 AI 추론 데이터센터로 개조하는 서면 제안을 냈고, 대상 건물 130곳 이상·최대 20개 주·합산 가용전력 약 1GW로 추산되지만 계약 체결이나 부지 선정은 없는 제안 단계다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.tokenpost.kr/news/ai/433984"
+    },
+    {
+      "id": "nvidia-h200-600k-hongkong-import-withheld",
+      "t": "엔비디아 H200 약 60만 장이 홍콩 창고에 묶였다…바이트댄스·텐센트가 각 1만 장만 받고 나머지는 '홍콩에 두라', 베이징이 SMIC·화훙·캄브리콘 시간을 벌고 있다",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 90,
+      "d": "로이터 보도에 따르면 엔비디아 H200 약 60만 장이 중국 본토 수입 승인을 기다리며 홍콩에 보관돼 있고, 바이트댄스와 텐센트가 각각 약 1만 장을 받았으나 규제당국이 나머지를 홍콩에 두라고 지시했으며, 홍콩에는 이를 가동할 데이터센터 용량 자체가 없다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62919241/chinas-nvidia-h200-bottleneck-deepens-600000-chips-reportedly-await-approval-in-hong-kong-as-servers-fetch-nearly-1-million-each"
+    },
+    {
       "id": "nvidia-naver-rights-issue-finalized",
       "t": "엔비디아의 네이버 유상증자 1조 3,412억 원 확정…환율 하락으로 신주 68만 주 감소, 11월 6일 납입·지분 4.13%",
       "c": "기술",
@@ -1837,6 +2266,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran"
+    },
+    {
+      "id": "openai-948-linux-kernel-lpe-exploits",
+      "t": "오픈AI, 리눅스 커널에서 동작하는 루트 권한상승 익스플로잇 948건 자동 생성…후보 2,308건 → 재현 1,724건 → 948건, API 비용 120만 달러·30시간 단일 런",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 89,
+      "d": "오픈AI가 출시 예정 모델로 구성한 자율 파이프라인이 리눅스 커널 후보 결함 2,308건에서 실제 동작하는 로컬 권한상승 익스플로잇 948건을 만들었고, KASLR·SMEP·SMAP가 켜진 표준 데스크톱 구성을 대상으로 최소 10가지 미공개 기법을 사용했다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs"
     },
     {
       "id": "openai-abudhabi-four-agreements",
@@ -1960,6 +2400,17 @@
       "url": "https://www.newdaily.co.kr/site/data/html/2026/11/04/2026110400188.html"
     },
     {
+      "id": "pope-leo-latin-america-trip-start",
+      "t": "레오 14세 교황, 폐암 수술 3주 만에 중남미 순방 출발…11일간 10개 도시, 1987년 이후 첫 아르헨티나 방문 교황",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 58,
+      "d": "레오 14세 교황이 11월 6일 폐암 수술 3주 만에 우루과이·아르헨티나·페루 3개국 순방을 시작했으며, 11일간 10개 도시를 도는 이 여정은 교황으로서 첫 중남미 방문이자 1987년 요한 바오로 2세 이후 첫 아르헨티나 방문이다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip"
+    },
+    {
       "id": "qualcomm-fy4q-earnings-imminent",
       "t": "퀄컴 FY4Q 실적 11월 4일 장 마감 후 발표…옵션시장 ±9.6% 변동 반영, 컨센서스 EPS 2.16달러(-28%)·매출 101.2억(-10%)",
       "c": "경제",
@@ -2024,6 +2475,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://uk.investing.com/news/earnings/rheinmetall-cuts-2026-sales-margin-goals-despite-q3-operating-profit-beat-4959435"
+    },
+    {
+      "id": "ricursive-ripple-65b-open-weight-coding",
+      "t": "구글 알파칩 출신 창업팀, 65B 밀집형 오픈웨이트 'Ripple-65B' 공개…TerminalBench 2.1 80.5%로 501B·816B·975B 앞섰다고 자기 보고, 개발비는 10분의 1 주장",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 81,
+      "d": "리커시브 인텔리전스가 650억 매개변수 밀집형 오픈웨이트 코딩 모델 Ripple-65B Preview를 공개하고 TerminalBench 2.1 80.5%·SWE-Bench Pro v2.0-Hard 79.1%로 8배 이상 큰 모델들을 앞섰다고 자기 보고했으며, 개발 비용은 선두 모델의 약 10분의 1이라고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217107"
     },
     {
       "id": "riot-platforms-corsicana-910mw-ai-lease",
@@ -2257,6 +2719,17 @@
       "url": "http://www.sciencedaily.com/releases/2026/11/261104004909.htm"
     },
     {
+      "id": "sweden-schengen-internal-border-controls",
+      "t": "스웨덴, 셰겐 역내 국경통제 6개월 재도입(11월 12일~2027년 5월 11일)…사유는 러시아 하이브리드 위협, 프랑스·독일·노르웨이·덴마크도 시행 중",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 71,
+      "d": "스웨덴 정부가 공공질서·국내 안보에 심각한 위협이 있다는 자체 평가를 근거로 2026년 11월 12일부터 2027년 5월 11일까지 6개월간 셰겐 역내 국경통제를 재도입한다고 발표했으며, 주된 사유로 러시아의 우크라이나 침공에서 비롯된 하이브리드 위협과 적대 행위자의 셰겐 내 이동을 들었다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://militarnyi.com/en/news/sweden-reinstate-border-controls-schengen/"
+    },
+    {
       "id": "taiwan-japan-comprehensive-economic-agreement",
       "t": "대만-일본 포괄경제협정 연말 서명 가능성…닛케이 보도에 대만 행정원장 '확인도 부인도 안 한다'",
       "c": "국제",
@@ -2266,6 +2739,28 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say"
+    },
+    {
+      "id": "taiwan-supplementary-budget-defense-deadlock-nov6",
+      "t": "대만 추경 NT$6,076억, 11월 6일 위원회 예비심사 완료…단 국방·복지만 빠졌다, 드론 조달이 상충 수정안으로 막혀 무기예산 5% 집행정지 타협",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 69,
+      "d": "대만 입법원이 11월 6일 NT$6,076억 추가경정예산의 예비 위원회 심사를 마쳤으나 국방과 사회복지 항목만 보류됐고, 국방 쪽 보류 사유는 드론·장비 조달에 대한 여야의 상충하는 수정안이다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867259"
+    },
+    {
+      "id": "taiwan-taiex-nov6-stabilization-fund",
+      "t": "대만 가권 39,701.64(-4.51%)로 4만선 하회…국가안정기금 2000년 설립 후 10번째 개입 발동, 공매도 제한은 11월 9일부터",
+      "c": "경제",
+      "ci": "📉",
+      "s": 94,
+      "d": "대만 가권지수가 11월 6일 장중 역대 최대 포인트 하락(-3,737.67p)을 기록하며 4만선 아래인 39,701.64(-4.51%)로 마감했고, 행정원 지시로 FSC가 NT$5,000억 국가금융안정기금의 10번째 개입을 승인하고 11월 9일부터 공매도 제한을 시행한다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://focustaiwan.tw/business/202611060016"
     },
     {
       "id": "taketwo-q2-fy27-gta6-launch-window",
@@ -2334,6 +2829,17 @@
       "url": "https://finance.biggo.com/news/JP_7203.T_2026-11-05"
     },
     {
+      "id": "trump-300-percent-tariff-factory-threat",
+      "t": "트럼프 '미국에 공장 안 지으면 50·100·150·250, 심지어 300% 관세'…중간선거 패배 이틀 뒤 관세정책 불변 선언",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "트럼프 대통령이 중간선거 패배 이틀 뒤 외국 기업이 미국에 공장을 짓지 않으면 최대 300% 관세를 물리겠다고 경고하고 공장이 완공·가동되면 관세를 면한다고 밝혀, 선거 결과에도 관세정책을 바꾸지 않겠다는 신호를 보냈다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834066"
+    },
+    {
       "id": "trump-accepts-midterm-result-work-with-democrats",
       "t": "트럼프, 중간선거 패배 수용하고 민주당과 협력 의사…\\\"궁극의 권한은 거부권\\\"에서 \\\"거래하고 싶다\\\"로",
       "c": "정치",
@@ -2367,6 +2873,17 @@
       "url": "https://www.blockmedia.co.kr/archives/1161389"
     },
     {
+      "id": "trump-hegseth-firing-desantis-consideration",
+      "t": "트럼프, 헤그세스 국방장관 해임 검토 보도…후임 후보로 디샌티스 거론, 트럼프는 '유지할 전적인 의향'이라며 공개 부인",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 69,
+      "d": "중간선거 참패 뒤 트럼프 대통령이 헤그세스 국방장관과 댄 케인 장군의 해임을 측근에게 사적으로 물었다는 보도가 다수 나오고 후임으로 디샌티스가 거론됐으나, 트럼프는 헤그세스를 유지할 '전적인 의향'이라며 공개적으로 부인해 보도와 발언이 정면으로 엇갈린다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.aol.com/articles/donald-trump-secretly-weighs-firing-211604000.html"
+    },
+    {
       "id": "trump-iran-war-election-defeat-admission",
       "t": "트럼프, 이란 전쟁이 중간선거 패인 중 하나임을 인정…공격 재개는 \\\"서두를 것 없다\\",
       "c": "국제",
@@ -2376,6 +2893,28 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.hankyung.com/article/2026110460957"
+    },
+    {
+      "id": "trump-triumphal-arch-tro-chutkan",
+      "t": "연방판사 처트칸, 트럼프의 76m '개선문' 공사를 최소 14일 중단…연방심의위 최종승인 몇 시간 뒤 워싱턴DC·버지니아의 가처분 신청 인용",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 65,
+      "d": "연방심의위가 11월 5일 밤 트럼프 대통령의 개선문 건설을 최종 승인한 몇 시간 뒤 워싱턴DC 연방지법 토냐 처트칸 판사가 DC·버지니아 주정부의 임시금지명령 신청을 인용해 250피트 구조물 공사를 최소 14일 중단시켰다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+    },
+    {
+      "id": "turkiye-makkah-joint-defense-pact-ratified",
+      "t": "튀르키예 의회, 사우디·파키스탄과 '메카 공동방위협정' 비준…찬성 279 대 반대 119, 제2조는 무력공격 시 '가용한 모든 수단'으로 즉시 지원 의무",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 81,
+      "d": "튀르키예 의회가 튀르키예·파키스탄·사우디아라비아 3국의 메카 공동방위협정 비준안을 찬성 279 대 반대 119로 가결해 상호방위 성격의 3자 안보 협정 발효 길이 열렸고, 제2조는 회원국이 무력공격을 받으면 다른 회원국이 가용한 모든 수단으로 즉시 지원할 의무를 규정한다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement"
     },
     {
       "id": "uganda-somalia-troop-withdrawal",
@@ -2565,6 +3104,28 @@
       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
     },
     {
+      "id": "us-october-jobs-165k-december-hike-repricing",
+      "t": "미국 10월 고용 16만 5,000명으로 컨센서스 2.5배 상회·실업률 4.1%…12월 9일 인상 확률이 하루 만에 66~70%에서 76~78%로",
+      "c": "경제",
+      "ci": "📉",
+      "s": 93,
+      "d": "미국 10월 비농업 취업자가 16만 5,000명 증가해 컨센서스(5만 9,000~6만 5,000명)를 크게 웃돌고 실업률이 4.1%로 내려가면서 12월 9일 FOMC 인상 확률이 하루 만에 66~70%에서 76~78%로 재가격됐고, 2년물이 5bp 가까이 뛰었다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+    },
+    {
+      "id": "us-premarket-nov6-chip-rebound-dow-divergence",
+      "t": "11월 6일 미국 프리마켓 — 나스닥100 선물 +1.35%인데 다우 선물 -0.82%, SOXX 개장 전 +5%·램리서치 +9%로 반등이 반도체에만 집중됐다",
+      "c": "경제",
+      "ci": "📉",
+      "s": 83,
+      "d": "11월 6일 미국 프리마켓에서 나스닥100 선물이 1.35% 오른 반면 다우 선물은 0.82% 내려 지수 간 방향이 갈렸고, 반등이 램리서치 +9%·마이크론 +7.5%·SOXX +5% 등 반도체에 집중돼 전일 3조 달러 급락의 되돌림이 선별적으로 일어났다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.tipranks.com/news/stock-market-today-nov-6-futures-mixed-as-nasdaq-futures-rebound-after-tech-selloff"
+    },
+    {
       "id": "us-sanctions-india-turkey-iran-oil-network",
       "t": "美 재무부 '이코노믹 아웃캐스트 작전', 인도·튀르키예로 제재 확대…샤르마 네트워크 9개 법인·푸고 그라운드 서비스 지정, 이란 인플레 약 90%",
       "c": "국제",
@@ -2640,6 +3201,28 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition"
+    },
+    {
+      "id": "vertex-povetacicept-rainier-nejm-pdufa",
+      "t": "버텍스 포베타시셉트 IgA 신병증 3상, 36주 단백뇨 52% 감소로 NEJM 게재…FDA 허가 판정일(PDUFA)은 11월 30일",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 85,
+      "d": "버텍스의 포베타시셉트가 IgA 신병증 3상 RAINIER 중간분석에서 36주 단백뇨를 위약 대비 52% 줄인 결과로 2026년 11월 5일 NEJM에 게재됐고, FDA는 생물의약품 허가신청을 접수해 판정일을 11월 30일로 지정했다.",
+      "fresh": "volatile",
+      "date": "2026-11-07",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608682"
+    },
+    {
+      "id": "vibrio-cholerae-bap1-underwater-adhesive",
+      "t": "콜레라균 바이오필름 단백질에서 수중 접착제…Bap1의 57개 아미노산 고리(Tyr415-Lys471)를 합성한 펩타이드가 유리·지질막에 자발 결합",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 64,
+      "d": "네이처가 11월 6일 연구 하이라이트로 소개한 사이언스 어드밴시스 논문에서 콜레라균 바이오필름 접착 단백질 Bap1의 57개 아미노산 고리를 화학 합성한 펩타이드가 바이오필름 밖에서도 지질막과 유리 표면에 자발적으로 결합해 범용 수중 접착제 후보로 제시됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-06",
+      "url": "https://www.nature.com/articles/d41586-026-03630-x"
     },
     {
       "id": "voyager1-one-light-day-milestone",
