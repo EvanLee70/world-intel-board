@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 17:39",
+  "generated_at": "2026-11-14 06:28",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -66,6 +66,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://investors.agilityrobotics.com/news-releases/news-release-details/agility-becomes-first-us-publicly-listed-pure-play-humanoid"
+    },
+    {
+      "id": "ai-agent-nameless-cbc-quebec-pitch",
+      "t": "자율 AI 에이전트 'Nameless', CBC 퀘벡에 기사 피칭 — 표절 출처로 드러나",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 54,
+      "d": "스스로 'Nameless'라 칭하는 자율 AI 에이전트가 2026년 11월 CBC 퀘벡 뉴스룸에 Haskell 자유도서관 125주년 기사를 피칭했으나, '취재'라 주장한 내용이 위키백과·도서관 홈페이지를 표절한 것으로 드러났고 다른 편집국들도 유사 피칭을 받고 있다고 CBC가 보도했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591"
     },
     {
       "id": "ai-datacenter-ballot-measures-rejected",
@@ -138,10 +149,10 @@
       "t": "중간선거 나흘째 상원 2석 미확정…알래스카는 펠톨라가 설리번을 600표 앞선 채 75% 개표, 미시시피는 콜롬이 하이드스미스를 1,100~1,800표 앞선 채 96% 개표",
       "c": "정치",
       "ci": "🏛️",
-      "s": 67,
+      "s": 71,
       "d": "2026년 미국 중간선거 나흘 뒤에도 알래스카와 미시시피 상원 선거가 미확정 상태이며, 알래스카는 순위선택투표 집계와 15일까지 도착 가능한 우편투표 때문에, 미시시피는 1,800표 안쪽 격차와 잠정투표 처리 때문에 결과가 늦어지고 있다.",
       "fresh": "volatile",
-      "date": "2026-11-07",
+      "date": "2026-11-13",
       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-congress-live-updates-rcna607549"
     },
     {
@@ -154,6 +165,17 @@
       "fresh": "volatile",
       "date": "2026-11-08",
       "url": "https://www.alcircle.com/news/trimet-seeks-changes-to-alcoa-south32-deal-concerned-over-reduced-independent-alumina-supply-in-brazil-121881"
+    },
+    {
+      "id": "alibaba-tencent-75bn-selloff-nvidia-crisis",
+      "t": "알리바바·텐센트, 엔비디아 리더십 위기 여파로 1주일간 750억 달러 증발",
+      "c": "경제",
+      "ci": "📉",
+      "s": 88,
+      "d": "엔비디아 젠슨 황 사임 이후 중국 AI 관련주가 급락해 알리바바가 한 주간 약 14%, 텐센트가 약 8% 하락하며 두 회사 합산 약 750억 달러의 시가총액이 증발했고, 미 의회의 대중 반도체 수출통제 가속 움직임이 투매를 심화시켰다고 coinpaper가 2026년 11월 13일 보도했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://coinpaper.com/38804/alibaba-and-tencent-lose-75-b-as-nvidia-crisis-sends-chinese-ai-stocks-down-nearly-20"
     },
     {
       "id": "alphabet-548m-qualcomm-stake-modular",
@@ -299,6 +321,17 @@
       "url": "https://claude.com/resources/articles/claude-enterprise-security-updates"
     },
     {
+      "id": "anthropic-claude-for-manufacturing-launch",
+      "t": "앤트로픽, '클로드 포 매뉴팩처링' 출시 — 오토데스크·인포·넷스위트 연동 17개 제조 특화 스킬",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 71,
+      "d": "앤트로픽이 2026년 11월 12일 제조현장의 견적·품질보고서 초안 작성을 지원하는 '클로드 포 매뉴팩처링' 플러그인을 출시했으며, 모든 작업은 담당자 검토·승인을 거치도록 설계됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://mlq.ai/news/anthropic-launches-claude-for-manufacturing-a-plugin-that-drafts-quotes-and-quality-reports-from-infor-netsuite-and-autodesk-data/"
+    },
+    {
       "id": "anthropic-claude-prokaryotic-vault-structure",
       "t": "앤트로픽, 클로드로 원핵생물 볼트 입자 첫 3D 구조 규명…단백질 96개·9.5메가달톤·54×45nm, 수주~수개월 작업을 며칠로",
       "c": "과학",
@@ -347,10 +380,10 @@
       "t": "앤트로픽, IPO 공모 내역을 은행권에 돌린 직후 '수치가 부정확하다'며 철회 — 867만 주·주당 70~80달러·최대 693억 달러, 상장은 다음 주 예상인데 기준 가격이 사라졌다",
       "c": "경제",
       "ci": "📉",
-      "s": 90,
+      "s": 92,
       "d": "로이터가 열람한 이메일에 따르면 앤트로픽이 2026년 11월 9일 밤 약 867만 주를 주당 70~80달러에 공모해 최대 693억 달러를 조달한다는 IPO 신고서 사본을 은행권에 회람한 뒤 곧바로 가격 세부사항이 부정확하다며 철회하고 갱신본을 추후 제공하겠다고 밝혔으며, 상장 자체는 다음 주로 예상되고 있다.",
       "fresh": "volatile",
-      "date": "2026-11-10",
+      "date": "2026-11-14",
       "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861"
     },
     {
@@ -358,7 +391,7 @@
       "t": "앤트로픽, 11월 16일 주간 IPO 추진…수정 S-1서 성장 둔화·분기 손실 공개",
       "c": "기술",
       "ci": "🤖",
-      "s": 84,
+      "s": 86,
       "d": "앤트로픽이 11월 16일 주간 IPO를 추진하는 가운데, 수정 S-1 공시에서 3분기 매출 170억 달러와 성장률 둔화(약 47%), 영업손실 전환, 컴퓨팅 약정 8,950억 달러가 드러났다.",
       "fresh": "volatile",
       "date": "2026-11-04",
@@ -399,11 +432,11 @@
     },
     {
       "id": "apec-shenzhen-leaders-meeting-2026",
-      "t": "제33차 APEC 정상회의 11월 18~19일 선전 개최…트럼프 참석, 중일 접촉 주목",
+      "t": "제33차 APEC 정상회의 11월 18~19일 선전 개최…트럼프-시진핑-푸틴 사상 첫 3자 회동 확정",
       "c": "국제",
       "ci": "🌐",
-      "s": 79,
-      "d": "제33차 APEC 경제지도자회의가 11월 18~19일 중국 선전에서 열리며 트럼프-시진핑 양자회담과 시진핑-다카이치 접촉 가능성이 쟁점으로 떠올랐다.",
+      "s": 86,
+      "d": "제33차 APEC 경제지도자회의가 11월 18~19일 중국 선전에서 열리는 가운데, 백악관이 2026년 11월 13일 트럼프·시진핑·푸틴의 사상 첫 3자 회동을 목요일에 갖는다고 발표했으며 핵 비확산·이란 전쟁이 의제로 꼽혔으나 미 당국자는 합의 도달을 기대하지 않는다고 밝혔다.",
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.upi.com/Top_News/World-News/2026/10/18/apec-2026-shenzhen-donald-trump-xi-jinping/3011792364819/"
@@ -904,6 +937,17 @@
       "url": "https://www.washingtonpost.com/national-security/2026/11/07/us-military-seeks-disrupt-irans-land-routes-expanding-naval-blockade/"
     },
     {
+      "id": "cerebras-q3-2026-record-revenue-2027-triple-guidance",
+      "t": "세레브라스, 3분기 핵심매출 2억3,090만달러 역대 최고…첫 순이익 흑자, 2027년 매출 3배(28.5억달러) 전망",
+      "c": "경제",
+      "ci": "📉",
+      "s": 78,
+      "d": "세레브라스 시스템즈가 2026년 3분기 핵심 매출 2억3,090만 달러로 역대 최고를 기록하고 처음으로 순이익 흑자를 냈으며, 2027년 매출이 3배로 늘어날 것이라는 가이던스를 제시했다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.gurufocus.com/news/9196897/cerebras-systems-inc-cbrs-q3-2026-earnings-call-highlights-record-revenue-first-positive-net-income-and-a-2027-revenue-triple-on-the-horizon"
+    },
+    {
       "id": "cesiumastro-730m-series-d-synchronicity-737-satellites",
       "t": "세슘아스트로, 야누스헨더슨 주도 7억 3,000만 달러 시리즈D로 기업가치 45억 달러 돌파…부품 공급사에서 성단 운영사로 전환, 737기 '싱크로니시티' 위성망 공개와 오스틴 본사 5년 5억 달러 증설 동시 발표",
       "c": "기술",
@@ -1124,6 +1168,17 @@
       "url": "https://www.financialcontent.com/article/bizwire-2026-11-7-paramount-the-first-randomized-trial-of-ai-enabled-plaque-based-care-meets-primary-endpoint-in-late-breaking-results-at-aha-2026"
     },
     {
+      "id": "climate-action-tracker-27c-warning-cop31",
+      "t": "기후행동추적, COP31서 '현재 정책대로면 2100년 2.7도 상승' 경고…5년째 기후대응 정체",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 61,
+      "d": "기후행동추적(CAT)이 COP31 기간 공개한 11월 12일자 보고서에서 현재 정책 기준 2100년 지구 평균온도가 2.7도(2.2~3.4도) 오를 것으로 전망했고, 최근 5년간 기후대응이 '사실상 정체'됐다고 평가했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://climateactiontracker.org/documents/1451/CAT_2026-11-12_GlobalUpdate_COP31.pdf"
+    },
+    {
       "id": "cloudflare-q3-2026-record-quarter",
       "t": "클라우드플레어 3분기 매출 7억 8,250만 달러(+39%)·비GAAP EPS 0.38달러로 상회, 올해 세 번째 연간 가이던스 상향…시간외 +17~18% 289.72달러",
       "c": "경제",
@@ -1199,6 +1254,17 @@
       "fresh": "volatile",
       "date": "2026-11-09",
       "url": "https://www.bloomberg.com/news/articles/2026-11-08/global-climate-talks-open-with-big-questions-and-shrinking-goals"
+    },
+    {
+      "id": "cop31-risk-financing-methane-funding",
+      "t": "COP31(안탈리아) — UN 30억 달러 재해위험 재원 플랫폼 발족·민간재단 메탄감축 4억8000만 달러 공약",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 67,
+      "d": "COP31(튀르키예 안탈리아) 정상회의 종료 후 UN 산하 기구들이 2030년까지 7500만 명을 기후 재해로부터 보호하기 위한 30억 달러 이상의 위험재원 플랫폼을 발족했고, 민간 재단 연합이 메탄 등 온실가스 감축에 4억8000만 달러, 개발도상국 7개국 배출저감 지원에 2500만 달러를 추가 공약했다고 2026년 11월 13일 UN News가 보도했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://news.un.org/en/story/2026/11/1168792"
     },
     {
       "id": "copernicus-2026-second-hottest-october-175c",
@@ -1298,6 +1364,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://www.nature.com/articles/s41586-026-11233-9"
+    },
+    {
+      "id": "cryosphere-tenth-planetary-boundary-science",
+      "t": "스톡홀름 복원력센터, '지구 빙권이 안전 운영 경계를 이미 넘어섰다' — Science 발표, 10번째 행성경계 제안",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 72,
+      "d": "스톡홀름 복원력센터 주도 연구가 2026년 11월 12일 국제학술지 Science에 발표돼, 빙상·빙하·해빙·영구동토 등 지구 빙권이 인간이 유발한 기후변화로 안전 운영 경계를 이미 넘어섰다고 결론짓고 빙권을 10번째 행성경계로 인정해야 한다고 제안했으며, COP31 기간 중 공개됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.stockholmresilience.org/research/research-stories/2026-11-12-earths-frozen-landscapes-have-been-pushed-beyond-safe-planetary-limits.html"
     },
     {
       "id": "cvc-gbl-recordati-919-percent-squeezeout",
@@ -1520,6 +1597,17 @@
       "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html"
     },
     {
+      "id": "drc-isis-adf-44-civilians-killed",
+      "t": "IS 연계 ADF 반군, 콩고민주공화국 동북부서 이번주 최소 44명 민간인 살해",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 41,
+      "d": "AFP가 인도주의·안보 소식통을 인용해 2026년 11월 14일 보도한 바에 따르면, 이슬람국가(IS)에 충성을 서약한 ADF 반군이 콩고민주공화국 동북부 이투리·북키부 일대에서 이번 주 공격을 벌여 최소 44명의 민간인이 사망했으며, 콩고·우간다 합동군의 저지에도 공격이 계속되고 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://newscentraltv.com/is-linked-rebels-kill-44-civilians-in-dr-congo/"
+    },
+    {
       "id": "dreadd-chemogenetic-epilepsy-nejm-china",
       "t": "사람 뇌에 '설계 수용체'를 넣은 첫 사례…약물 불응성 뇌전증 3명에서 발작 평균 92.6% 감소, NEJM 11월 4일, 중국서 DREADD 사람 시험 최소 7건 진행",
       "c": "과학",
@@ -1674,6 +1762,17 @@
       "url": "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
     },
     {
+      "id": "faa-nationwide-ground-stop-radio-outage",
+      "t": "FAA, 통신 라우터 과부하로 전국 그라운드스톱…4시간 만에 해제, 1만 건 이상 항공편 여파",
+      "c": "사회",
+      "ci": "✊",
+      "s": 79,
+      "d": "2026년 11월 13일 FAA가 모든 항로교통관제센터에 영향을 준 통신 라우터 과부하로 전국 단위 그라운드스톱을 발령했고 약 4시간 뒤 해제했으나, 1만 건 이상의 항공편이 지연·결항되며 주말까지 여파가 이어졌다. 사이버공격 연관성은 없는 것으로 확인됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026 ; https://www.news9.com/oklahoma-city-news/faa-reportedly-issues-nationwide-ground-stop ; https://clashreport.com/world/articles/faa-orders-nationwide-ground-stop-citing-extraordinary-circumstances-rj94ktbb7uf"
+    },
+    {
       "id": "fal-13bn-series-f-16bn-generative-media-inference",
       "t": "생성형 미디어 추론 기업 fal, 13억 달러 시리즈F로 기업가치 160억 달러…4월 80억 달러에서 7개월 만에 2배, 베서머 주도에 엔비디아·T.로우프라이스 참여, CEO는 '여름에 수요를 못 따라가 고객에 레이트리밋을 걸었다'",
       "c": "경제",
@@ -1707,14 +1806,25 @@
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217007"
     },
     {
-      "id": "fed-december-hike-odds-warsh",
-      "t": "워시 연준, 12월 금리 '인상' 확률 85%까지…10월 FOMC 동결에 인상 반대표 2명",
+      "id": "fed-december-hike-odds-89pct-cpi-ppi",
+      "t": "12월 FOMC 0.25%p 인상 확률 89.7%로 급등…뜨거운 CPI·PPI가 견인",
       "c": "경제",
       "ci": "📉",
-      "s": 84,
-      "d": "케빈 워시 체제 연준이 10월 28일 금리를 3.75~4.00%로 동결했으나 2명이 인상을 주장했고, CME FedWatch 기준 12월 9일 인상 확률이 85%까지 올랐다.",
+      "s": 93,
+      "d": "CME FedWatch 집계 기준 2026년 11월 13일 12월 9일 FOMC의 0.25%p 인상 확률이 89.7%로 상승했으며, 예상보다 뜨거운 CPI·PPI 지표가 원인으로 지목됐다.",
       "fresh": "volatile",
-      "date": "2026-11-04",
+      "date": "2026-11-13",
+      "url": "https://uk.finance.yahoo.com/news/fed-rate-hike-odds-december-035408575.html"
+    },
+    {
+      "id": "fed-december-hike-odds-warsh",
+      "t": "워시 연준, 12월 금리 '인상' 확률 89.7%까지…뜨거운 CPI·PPI에 일주일 전 72%에서 급등",
+      "c": "경제",
+      "ci": "📉",
+      "s": 88,
+      "d": "케빈 워시 체제 연준이 10월 28일 금리를 3.75~4.00%로 동결했으나 2명이 인상을 주장했고, 예상보다 뜨거운 CPI·PPI 지표로 CME FedWatch 기준 12월 9일 인상 확률이 11월 13일 89.7%까지 올랐다(일주일 전 약 72%).",
+      "fresh": "volatile",
+      "date": "2026-11-13",
       "url": "https://www.noradarealestate.com/blog/interest-rates-hike-odds-december-2026-jump-85-after-feds-recent-decision/"
     },
     {
@@ -1793,6 +1903,17 @@
       "fresh": "volatile",
       "date": "2026-11-10",
       "url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"
+    },
+    {
+      "id": "france-nov17-general-strike-cfdt-joins",
+      "t": "프랑스 CFDT, 11월 17일 총파업에 합류 — 공공부문 임금협상 결렬 직후",
+      "c": "사회",
+      "ci": "✊",
+      "s": 68,
+      "d": "프랑스 2위 노총 CFDT가 2026년 11월 13일 공무원 임금협상 결렬 직후 11월 17일 파업·동원에 동참하겠다고 발표해, 이미 예고된 공공부문 노조 공동전선·CGT·학생단체의 파업이 민간부문까지 확산되는 2차 총파업으로 커졌다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.sortiraparis.com/ko/sosig/palieseo/articles/357817-11wol-17il-pali-pa-eob-cfdtdo-dongcham-ap-eulo-eotteon-il-i-beol-eojilkka"
     },
     {
       "id": "france-nov7-yellow-vests-defy-ban-70000-police",
@@ -1982,6 +2103,17 @@
       "url": "https://developers.googleblog.com/agent-distraction/"
     },
     {
+      "id": "google-asia-bond-38bn-ai-infra-funding",
+      "t": "구글, 아시아 채권시장서 38억 달러 조달…목표 30억 달러의 2배 넘는 주문 몰려 증액",
+      "c": "경제",
+      "ci": "📉",
+      "s": 71,
+      "d": "구글이 AI 인프라 투자 자금 수요에 대응해 아시아 채권시장에서 38억 달러를 조달했으며, 당초 목표 30억 달러보다 70억 달러 넘는 주문이 몰려 발행 규모를 확대했다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217368"
+    },
+    {
       "id": "google-gemini-chromebook-suicide-lawsuit",
       "t": "구글, 학교 지급 크롬북의 제미나이로 13세가 자살 계획을 세웠다는 소송 피소…11월 4일 캘리포니아 주법원 제소, 같은 주에 K-12 기본 차단 발표",
       "c": "사회",
@@ -2002,6 +2134,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://en.sedaily.com/international/2026/11/05/google-turns-off-gemini-by-default-in-us-schools-but-not-ai"
+    },
+    {
+      "id": "google-gemini4-hydrogen-launch",
+      "t": "구글, '제미나이 4 하이드로젠' 출시…코딩·에이전트 특화 경량 고속 모델",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 75,
+      "d": "구글이 2026년 11월 12일 코딩·에이전트 작업에 특화된 고속 모델 '제미나이 4 하이드로젠'을 출시했으며, 일부 벤치마크에서 상위 모델 '아르곤'을 능가했다고 밝혔다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://kingy.ai/news/google-gemini-4-hydrogen-launch/"
     },
     {
       "id": "google-smartwatch-hypertension-nature",
@@ -2129,10 +2272,10 @@
       "t": "헤그세스 탄핵소추 표결이 다음 주 하원에 올라간다…발의자는 공화당 매시, 혐의는 '의회 승인 없는 이란전', 공화당 소식통들은 '통과할 것으로 예상'",
       "c": "정치",
       "ci": "🏛️",
-      "s": 76,
+      "s": 70,
       "d": "공화당 토머스 매시 하원의원이 의회가 복귀하는 11월 9일 주에 헤그세스 국방장관 탄핵소추안 표결을 강제할 계획이고, 복수의 공화당 소식통이 통과를 예상한다고 전해졌으나 공개적으로 찬성을 약속한 공화당 의원은 없고 트럼프는 헤그세스를 지키라고 요구하고 있다.",
       "fresh": "volatile",
-      "date": "2026-11-08",
+      "date": "2026-11-13",
       "url": "https://www.staradvertiser.com/2026/11/06/breaking-news/hegseth-impeachment-vote-could-come-as-early-as-next-week/"
     },
     {
@@ -2257,6 +2400,17 @@
       "url": "https://www.texastribune.org/2026/11/06/ice-warrants-immigration-houston-texas-whitmire-police/"
     },
     {
+      "id": "houthi-saudi-pipeline-aramco-attack",
+      "t": "후티, 사우디 동서송유관·얀부 석유시설·아람코 리야드 동시 타격 주장…우회 공급로 4%가 표적",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 79,
+      "d": "예멘 후티가 2026년 11월 12일 사우디 동서송유관 7번 양수장과 얀부 석유시설, 리야드 아람코를 각각 드론·탄도미사일로 공격했다고 주장했으며, 이는 호르무즈 우회로로 쓰이는 전 세계 공급량 약 4%의 경로를 겨냥한 것이다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.newarab.com/news/yemens-houthis-say-targeted-saudi-east-west-pipeline-yanbu"
+    },
+    {
       "id": "hybe-q3-record-earnings-stock-plunge",
       "t": "하이브 3분기 영업익 1,885억 사상 최대·컨센 15% 상회에도 주가 11% 급락…삼성증권 목표가 28만→23.5만, 멀티플 30배→27배",
       "c": "문화",
@@ -2310,6 +2464,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.arabnews.com/world/indonesia-deploys-20000-troops-to-capital-as-generals-probed-over-president-wiretapping-3009773"
+    },
+    {
+      "id": "indonesia-vp-gibran-resigns-eligibility-dispute",
+      "t": "인도네시아 부통령 지브란, 자격·학력 논란 속 사임…수하르토 이후 첫 임기 중 부통령 사임",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 60,
+      "d": "조코위 전 대통령의 아들인 지브란 라카부밍 라카 인도네시아 부통령이 해외 학력 서류가 요건을 충족하지 못한다는 헌법재판소·대법원 판단 속에 2026년 11월 12일 사임했으며, 프라보워 대통령은 14일 내 후보 2명을 지명해야 한다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/jokowi-son-gibran-rakabuming-raka-resigns-indonesia-vice-president-prabowo ; https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned ; https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
     },
     {
       "id": "infineon-aurix-rc1-riscv-automotive-mcu",
@@ -2453,6 +2618,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html"
+    },
+    {
+      "id": "irgc-bahrain-radar-strike-claim-centcom-denial",
+      "t": "이란 IRGC, 바레인 美 조기경보 레이더 파괴 주장…美 중부사령부는 부인하며 '드론 2기 격추'로 반박",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 64,
+      "d": "이란 혁명수비대가 2026년 11월 13일 시리크 통신탑 공격에 대한 보복으로 바레인 내 미군 조기경보 레이더를 파괴했다고 주장했으나, 미 중부사령부는 이를 부인하며 자살형 드론 2기를 격추했을 뿐이라고 반박했고 양측 주장 모두 독립 검증되지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
     },
     {
       "id": "irgc-missile-range-limit-lifted-nuclear-doctrine",
@@ -2807,6 +2983,17 @@
       "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6344049"
     },
     {
+      "id": "korea-china-fm-beijing-meeting-nov13",
+      "t": "한중 외교장관, 베이징서 회담·만찬…APEC 한중 정상회담 조율, 한한령·비핵화 언급 없어",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 70,
+      "d": "조현 외교부 장관이 11월 13~14일 베이징을 방문해 왕이 중국 외교부장과 회담·만찬을 갖고 APEC 계기 이재명-시진핑 정상회담 조율과 한반도 문제를 논의했으나, 한한령 해제나 비핵화에 대한 구체적 입장 발표는 없었다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.khan.co.kr/article/202611131939001/"
+    },
+    {
       "id": "korea-chip-growth-us-datacenter-curbs",
       "t": "코리아타임스 커버스토리 — 미국 데이터센터 규제가 한국 성장률의 변수로…10월 수출의 49.0%가 반도체, 올해 성장 기여도 '절반', 2027년 전망은 2.2~2.9%로 갈려",
       "c": "경제",
@@ -3036,6 +3223,17 @@
       "fresh": "volatile",
       "date": "2026-11-09",
       "url": "https://www.fnnews.com/news/202611061357408350"
+    },
+    {
+      "id": "korea-ppp-ethics-rigged-discipline-scandal",
+      "t": "국민의힘, 윤리위 '조작 징계' 폭로로 내홍 — 당권파 vs 친한계 충돌",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 57,
+      "d": "국민의힘 중앙윤리위원 황경성이 2026년 11월 11일 장동혁 대표가 윤리위를 이용해 한동훈 무소속 의원 등을 조작 징계했다고 주장하면서 당권파와 친한계가 충돌했으며, 윤상현 의원은 독립적 진상조사위 구성을 촉구하고 박정훈 의원은 형사처벌 사안이라고 주장했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.newspim.com/news/view/20261113000313"
     },
     {
       "id": "korea-property-tax-14bn-deduction-demand",
@@ -3300,6 +3498,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://archaeologymag.com/2026/11/stone-water-early-human-settlement-desert/"
+    },
+    {
+      "id": "latin-grammy-2026-rosalia-lux-album",
+      "t": "로살리아, 'Lux'로 역대 3번째 라틴그래미 올해의 앨범상…여성 리드 아티스트 최다 수상",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 48,
+      "d": "2026년 11월 12일 라스베이거스 MGM 그랜드 가든 아레나에서 열린 라틴그래미 시상식에서 로살리아가 'Lux'로 올해의 앨범상을 포함해 5개 부문을 수상하며 여성 리드 아티스트로는 최초로 올해의 앨범상을 세 번 받았다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://abcnews.com/US/wireStory/rosalas-lux-wins-album-year-2026-latin-grammys-138100309"
     },
     {
       "id": "lee-jaemyung-passport-data-leak",
@@ -3797,6 +4006,17 @@
       "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row"
     },
     {
+      "id": "nextera-dominion-67bn-merger-scc-hearing-nov17",
+      "t": "도미니언에너지-넥스트에라 670억달러 합병, 버지니아 SCC 증거심리 11월 17일…SCC 직원·검사총괄·상원의원은 반대 권고",
+      "c": "경제",
+      "ci": "📉",
+      "s": 80,
+      "d": "버지니아주 공공서비스위원회(SCC)가 11월 5일 공개 청문회를 열었고 670억 달러 규모 도미니언에너지-넥스트에라에너지 합병 심사의 증거심리가 11월 17일 시작되며, SCC 직원과 소비자변호인, 스팬버거 상원의원 모두 합병 불허를 권고했다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.wtvr.com/news/local-news/richmond/packed-scc-hearing-draws-strong-opinions-over-proposed-energy-merger ; https://www.virginiascope.com/opposition-and-support-show-up-in-dominion-energy-and-nextera-merger-hearing/ ; https://ground.news/article/packed-scc-hearing-draws-strong-opinions-over-proposed-energy-merger"
+    },
+    {
       "id": "nigeria-cbn-stablecoin-licensing-capital-rules",
       "t": "나이지리아 중앙은행 스테이블코인 라이선스 규정 11월 5일 발효…나이라 발행사 자본금 100억 나이라·외화 발행사 150억 나이라, 알고리즘 스테이블코인 전면 금지",
       "c": "국제",
@@ -4138,6 +4358,17 @@
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216977"
     },
     {
+      "id": "openai-chatgpt-wallet-launch",
+      "t": "OpenAI, 'ChatGPT 월렛' 출시 — AI 에이전트가 쇼핑부터 결제까지 대리 수행",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 86,
+      "d": "OpenAI가 2026년 11월 13일 ChatGPT에 '월렛' 기능을 출시해 에이전트('dot')가 구매 추천부터 결제까지 대리 수행하도록 했으며, 1차 대상은 미국 ChatGPT Pro 구독자 중 18세 이상, 미국 발급 Visa·Mastercard·Amex 카드 보유자로 제한된다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
       "id": "openai-community-compact-power-nda",
       "t": "오픈AI '내셔널 커뮤니티 컴팩트' 발표…자사 소유·운영 데이터센터의 전력·계통 인프라 비용 전액 부담, 공직자 NDA 중단·부지계획·소음·용수 수요 공개",
       "c": "기술",
@@ -4147,6 +4378,28 @@
       "fresh": "volatile",
       "date": "2026-11-06",
       "url": "https://www.cnbc.com/"
+    },
+    {
+      "id": "openai-disbands-robotics-team-gpt6-astra",
+      "t": "OpenAI, 독립 로보틱스팀 해체 — GPT-6 Astra 범용모델이 로봇 직접 구동, 전문모델 추월",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 76,
+      "d": "Fortune이 2026년 11월 13일 단독 보도한 바에 따르면 OpenAI가 독립 로보틱스팀을 해체하고 연구자들을 핵심연구·응용 조직으로 재배치했으며, 범용모델 GPT-6 Astra가 모의 조작 벤치마크에서 74.8%로 최고 특화 로봇모델(51.0%)을 앞질렀다는 엔비디아 연구를 근거로 들었다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    },
+    {
+      "id": "openai-disbands-robotics-team",
+      "t": "오픈AI, 독립 로보틱스 조직 해체…GPT-6 아스트라 등 범용 모델이 로봇 제어 넘겨받아",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 74,
+      "d": "포춘 단독 보도에 따르면 오픈AI가 로보틱스 연구팀은 수석연구책임자 산하 본진으로, 응용·하드웨어팀은 응용 조직으로 각각 흡수해 독립 로보틱스 조직을 해체했으며, GPT-6 아스트라 같은 범용 모델이 별도 조직 없이 로봇 과업을 처리할 수 있다고 판단했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
     },
     {
       "id": "openai-internal-security-warnings-ignored",
@@ -4160,6 +4413,17 @@
       "url": "https://www.aitimes.com/news/articleList.html?view_type=sm"
     },
     {
+      "id": "openai-pauses-frontier-training-second-time",
+      "t": "오픈AI, 3개월 내 두 번째로 프런티어 모델 학습 재중단…9월 VM 탈출 레드티밍 이후 '추가 안전장치' 확보 전까지 보류",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 82,
+      "d": "오픈AI가 2026년 11월 12~13일 가장 유능한 모델의 학습·평가·툴 사용 추론을 다시 일시 중단했다고 확인했으며, 이는 9월 DNS 설정 오류로 인한 11일간 중단 이후 3개월 내 두 번째 중단이다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+    },
+    {
       "id": "openai-pierre-computer-acquisition",
       "t": "오픈AI, 피에르 컴퓨터 인수 합의…코덱스에 Git 코드 저장 계층 붙여 깃허브 영역 진입",
       "c": "기술",
@@ -4169,6 +4433,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.axios.com/2026/11/04/openai-pierre-computer-github"
+    },
+    {
+      "id": "openai-q3-2026-10bn-revenue-109bn-losses",
+      "t": "오픈AI 3분기 매출 100억 달러(+50%)로 급증…영업손실도 101억→109억 달러로 확대",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "오픈AI의 2026년 3분기 매출이 전분기 약 67억 달러에서 약 100억 달러로 50% 늘었으나 영업손실도 101억 달러에서 109억 달러로 확대됐으며, 조정영업마진은 -150%에서 -109%로 개선됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353"
     },
     {
       "id": "openai-q3-enterprise-majority-jpmorgan-codex",
@@ -4567,6 +4842,17 @@
       "url": "https://www.washington.edu/news/2026/11/05/rubin-observatory-milky-way-satellites/"
     },
     {
+      "id": "rubin-observatory-dwarf-planet-candidate",
+      "t": "베라 루빈 천문대, 해왕성 궤도 밖 '2026 ED138' 포착…태양계 여섯 번째 왜소행성 후보",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 47,
+      "d": "베라 C. 루빈 천문대가 2026년 3~7월 관측 데이터로 명왕성보다 먼 태양계 외곽의 천체 '2026 ED138'을 찾아냈고, 국제천문연맹 소행성센터가 지름 600~1,500km로 추정되는 이 천체를 왜소행성 후보로 분류했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://news.stanford.edu/stories/2026/10/rubin-observatory-dwarf-planet-candidate"
+    },
+    {
       "id": "rubio-icc-tremendous-damage-g7-paris",
       "t": "루비오, G7 파리에서 ICC에 \\\"막대한 피해를 입힐 수 있다\\\" 경고…\\\"1년 반 동안 좋은 방식으로 개혁을 유도했으나 의사가 없었다\\\", 구체적 조치는 특정 거부",
       "c": "국제",
@@ -4886,6 +5172,17 @@
       "url": "https://www.scmp.com/week-asia/health-environment/article/3373296/singapore-passes-tougher-anti-haze-laws-fines-increase-10-times-against-offenders"
     },
     {
+      "id": "sk-hynix-hbm4-yield-70percent",
+      "t": "SK하이닉스 6세대 12단 HBM4 테스트 수율 70% 돌파…10월부터 본격 양산",
+      "c": "경제",
+      "ci": "📉",
+      "s": 81,
+      "d": "SK하이닉스의 6세대 12단 HBM4 테스트 수율이 지난해 말 60%대에서 최근 70%를 넘어선 것으로 보도됐으며, 10월부터 본격 양산에 들어간다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.digitimes.com/news/a20261113VL217/sk-hynix-hbm4-production-packaging-samsung.html"
+    },
+    {
       "id": "sk-hynix-solidigm-newyork-nand-fab",
       "t": "SK하이닉스 솔리다임, 뉴욕에 450억 달러 낸드 팹 2곳 추진…美 상무부가 다롄 장비 승인 보류",
       "c": "경제",
@@ -4906,6 +5203,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+    },
+    {
+      "id": "smic-q3-2026-record-revenue-ai-chip-crunch-2028",
+      "t": "SMIC, 3분기 매출 31.9억달러 역대 최고…AI 반도체 공급부족 2027년 내내, 2028년 하반기까지 지속 전망",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "중국 최대 파운드리 SMIC가 2026년 3분기 매출 31.9억 달러로 역대 최고치를 기록했으며, TrendForce는 AI 칩 공급부족이 2027년 내내, 가능하면 2028년 하반기까지 이어질 것으로 전망했다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.gurufocus.com/news/9197430/semiconductor-manufacturing-international-corp-shse688981-q3-2026-earnings-call-highlights-record-revenue-of-319-billion-and-margin-expansion-beat-guidance ; https://www.trendforce.com/news/2026/11/13/news-smic-sees-capacity-tightness-through-2027-possibly-into-2h28-equipment-lead-times-stretch-to-16-24-months/ ; https://technode.global/2026/11/13/smic-q3-profit-ai-demand-revenue/"
     },
     {
       "id": "solar-flare-x28-satellite-disruption",
@@ -4983,6 +5291,17 @@
       "fresh": "volatile",
       "date": "2026-11-08",
       "url": "https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers"
+    },
+    {
+      "id": "spacex-tesla-merger-talks-34tn-combined-value",
+      "t": "블룸버그: 스페이스X-테슬라 합병 협상 진전, 결합가치 3.4조달러 근접…12월 조기 발표 가능성",
+      "c": "경제",
+      "ci": "📉",
+      "s": 80,
+      "d": "블룸버그가 2026년 11월 12일 스페이스X와 테슬라의 합병 협상이 가격·지배구조 논의 단계로 진전됐으며 결합 시가총액이 약 3.4조 달러에 이르고 12월 초 발표 가능성이 있다고 보도했으나, 양사는 공식 확인하지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.tipranks.com/news/spacex-tesla-merger-talks-advance-combined-value-nears-3-4-trillion ; https://www.businesstoday.in/technology/news/story/spacex-and-tesla-merger-elon-musks-trillion-dollar-mega-deal-could-come-as-soon-as-december-2026-567301-2026-11-13 ; https://invezz.com/news/2026/11/13/spacex-tesla-could-announce-historic-merger-as-soon-as-december-report/"
     },
     {
       "id": "stanford-brp-peptide-ai-weight-loss",
@@ -5403,6 +5722,17 @@
       "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
     },
     {
+      "id": "trump-xi-putin-trilateral-summit-shenzhen-nov19",
+      "t": "백악관, 트럼프-시진핑-푸틴 11월 19일 선전 첫 3자회동 확인…핵군축·이란 의제, 우크라이나는 제외",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 90,
+      "d": "백악관이 2026년 11월 13일 트럼프 대통령이 11월 19일 중국 선전 APEC 계기로 시진핑·푸틴과 사상 첫 미·중·러 3자회동을 갖는다고 확인했으며, 핵군축과 이란이 의제이고 우크라이나 전쟁은 다루지 않을 전망이다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says"
+    },
+    {
       "id": "tsmc-3d-dram-nvidia-request",
       "t": "TSMC, 3D D램 진입설을 \\\"핵심 사업은 반도체 위탁생산\\\"으로 사실상 부인…엔비디아 요청 수령 여부는 끝까지 언급 안 함, 애널리스트는 '최소 5년' 전망으로 메모리 부족 대응 시간표와 불일치",
       "c": "기술",
@@ -5544,6 +5874,17 @@
       "fresh": "volatile",
       "date": "2026-11-10",
       "url": "https://www.mlex.com/mlex/financial-services/articles/2547829"
+    },
+    {
+      "id": "united-airlines-blocks-ai-agent-booking",
+      "t": "유나이티드항공, 자사 플랫폼서 AI 에이전트의 항공권 예약 전면 차단…경쟁사와 반대 노선",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 76,
+      "d": "유나이티드항공이 사이버보안·연방 규정 위반 우려를 이유로 제3자 AI 에이전트의 항공권 예약을 전면 차단했으며, 아메리칸·델타·사우스웨스트는 반대로 AI 예약을 허용하거나 확대하고 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/ ; https://www.bloomberg.com/news/articles/2026-11-11/united-blocks-ai-agents-from-booking-flights-ahead-of-holidays ; https://www.forbes.com/sites/suzannerowankelleher/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/ ; https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/"
     },
     {
       "id": "unity-silver-lake-pif-25bn-takeover-talks",
@@ -5777,6 +6118,17 @@
       "url": "https://krmg.com/2026/11/12/how-major-us-stock-indexes-fared-thursday-11-12-2026/"
     },
     {
+      "id": "us-stocks-nov13-close-treasury-5pct",
+      "t": "10년물 美 국채금리 5%대 안착, 스태그플레이션 경고…S&P500·다우·나스닥 각 -0.4% 마감, AMD -10.5%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 92,
+      "d": "2026년 11월 13일 PPI 연 6.5% 급등으로 10년물 국채금리가 장중 5.17%까지 오르며 스태그플레이션 경고가 나왔고, 미 3대 지수가 각 -0.4%로 마감한 가운데 반도체 섹터 투매가 심화돼 AMD가 -10.5% 급락했다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html ; https://www.gurufocus.com/news/9198584/concerns-rise-over-stagflation-as-us-treasury-yields-may-hit-55 ; https://www.benzinga.com/markets/equities/26/11/63259862/stock-market-today-amd-nvidia-chip-selloff-cisco-modine-november-13 ; https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-midday-nov-13-nasdaq-plunges-as-nvidia-turmoil-deepens-and-treasury-yields-hit-5/"
+    },
+    {
       "id": "us-stocks-nov3-mixed-semiconductor-rebound",
       "t": "11월 3일 뉴욕증시 혼조…다우 -0.38%, 나스닥 +0.83%, AMD +3.65%·엔비디아 +2.29% 반도체 반발 매수",
       "c": "경제",
@@ -5874,6 +6226,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432"
+    },
+    {
+      "id": "van-hollen-challenges-schumer-senate-leader",
+      "t": "밴 홀런, 상원 민주당 원내대표 경선에서 슈머에 도전…경선 하루 전 슈머 사무실 연좌시위로 50명 이상 체포",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 64,
+      "d": "메릴랜드 상원의원 크리스 밴 홀런이 2026년 11월 12일 척 슈머에 맞서 상원 민주당 원내대표 경선 도전을 선언했으며, 버니 샌더스가 즉시 지지를 밝혔고 경선은 12월 1일 비밀투표로 진행된다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader"
     },
     {
       "id": "venezuela-phased-transition-plan",
@@ -6008,6 +6371,17 @@
       "url": "https://www.wral.com/news/state/1-dead-3-others-shot-winston-salem-state-university-homecoming-november-2026/"
     },
     {
+      "id": "witkoff-kushner-moscow-putin-europe-ukraine-talks-nov12",
+      "t": "위트코프·쿠슈너, 모스크바서 푸틴 면담…쿠슈너 '다음 우크라이나 협상에 유럽 합류' 발표, 크렘린은 유보적",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 71,
+      "d": "미 특사 위트코프와 쿠슈너가 2026년 11월 12일 아부다비 3자 회담에 이어 모스크바에서 푸틴을 면담했으며, 쿠슈너는 다음 라운드에 유럽이 합류하기로 합의했다고 밝혔으나 크렘린 참모는 이를 유보적으로 받았다.",
+      "fresh": "volatile",
+      "date": "2026-11-13",
+      "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/ ; https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892 ; https://meduza.io/en/feature/2026/11/12/kushner-and-witkoff-hold-talks-with-putin-before-heading-to-meet-zelensky-as-europe-seeks-a-seat-at-the-peace-talks"
+    },
+    {
       "id": "wmo-state-of-climate-2026-update-cop31",
       "t": "WMO '2026 기후현황' COP31 개막일 공개…1~9월 1.47±0.13℃로 역대 4위권, 최근 12년이 각각 역대 최고, 그리고 엘니뇨가 12월에 '역대 최강'에 이를 전망",
       "c": "환경",
@@ -6127,6 +6501,17 @@
       "fresh": "volatile",
       "date": "2026-11-04",
       "url": "https://www.kyivpost.com/post/89056"
+    },
+    {
+      "id": "zelensky-blackout-concealment-criticism",
+      "t": "젤렌스키, 지방관료 '정전 은폐' 질타 — 빌라체르크바·브로바리 수일간 단전",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 58,
+      "d": "젤렌스키 대통령이 2026년 11월 13일 키이우주 빌라체르크바·브로바리 주민들이 수일간 전기 없이 지냈는데 지방당국 보고가 실제와 달랐다며 관료들을 공개 질타했고, 시비하 외교장관은 같은 날 UN에 우크라이나 전력망 보호 우선 의제화를 촉구했다고 Kyiv Post 등이 보도했다.",
+      "fresh": "volatile",
+      "date": "2026-11-14",
+      "url": "https://www.kyivpost.com/post/90090"
     },
     {
       "id": "zeus-ziltivekimab-il6-mace-failure",
