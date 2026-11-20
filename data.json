@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 21:12",
+  "generated_at": "2026-11-20 22:40",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -534,7 +534,7 @@
       "t": "앤트로픽 ANT 상장 2일차 14% 급락해 84달러 — 공모가 83달러 바로 위, 첫날 상승분 대부분 반납",
       "c": "경제",
       "ci": "📉",
-      "s": 92,
+      "s": 93,
       "d": "앤트로픽(ANT) 주가가 상장 2일차인 11월 20일 14% 하락해 84달러까지 밀렸다. 공모가 83달러를 1달러 남긴 수준으로, 첫날 종가 97.17달러(+17.1%) 대비 상승분을 대부분 반납했다.",
       "fresh": "volatile",
       "date": "2026-11-20",
@@ -1124,6 +1124,17 @@
       "url": "https://www.nature.com/articles/s41586-026-11221-z"
     },
     {
+      "id": "at2025abao-luminous-red-nova-andromeda",
+      "t": "안드로메다 은하 별 병합 'AT 2025abao' 실시간 포착…공통외피 최종 나선운동부터 발광적색신성 폭발까지 첫 관측, Nature 게재",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 52,
+      "d": "천문학자들이 두 별이 공통 가스 외피 안에서 최종적으로 나선운동하며 병합해 발광적색신성으로 폭발하는 과정을 처음으로 실시간 관측했다. 안드로메다 은하의 AT 2025abao이며, NEOWISE 아카이브로 폭발 7년 전부터의 전조도 확인됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers"
+    },
+    {
       "id": "atlassian-q1-fy2027-guidance-deceleration",
       "t": "아틀라시안 1분기 매출 17.7억 달러(+24%)·클라우드 +31%로 상회했는데 시간외 -18%…연간 가이던스가 '성장률 13.75%'여서다",
       "c": "경제",
@@ -1441,6 +1452,17 @@
       "fresh": "volatile",
       "date": "2026-11-05",
       "url": "https://www.blockmedia.co.kr/archives/1161377"
+    },
+    {
+      "id": "bitcoin-below-59k-nov20-700m-liquidations",
+      "t": "비트코인 11월 20일 6만 달러 붕괴…장중 5만 9,000달러 하회로 7월 초 이후 최저, 24시간 레버리지 청산 7억 달러 초과",
+      "c": "경제",
+      "ci": "📉",
+      "s": 86,
+      "d": "비트코인이 11월 20일 7% 이상 하락해 6만 달러를 깨고 5만 9,000달러 아래까지 밀려 7월 초 이후 최저를 기록했다. 24시간 레버리지 청산은 7억 달러를 넘었고, 10월 6일 이후 낙폭은 약 27%로 같은 기간 S&P500(-6.3%)의 네 배를 넘는다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
     },
     {
       "id": "bitcoin-below-65k-gold-3876-nov17",
@@ -5352,7 +5374,7 @@
       "t": "라이온스게이트 '헝거게임: 선라이즈 온 더 리핑' 11월 20일 개봉…트래킹 1억~1억 2,500만 달러, 자체 전망은 8,500만 달러",
       "c": "문화",
       "ci": "🎬",
-      "s": 77,
+      "s": 79,
       "d": "2026년 11월 20일 개봉한 헝거게임 신작의 북미 오프닝 트래킹이 1억~1억 2,500만 달러로 잡혔다. 라이온스게이트 자체 전망은 8,500만 달러로 보수적이며, 성사되면 7월 스파이더맨 이후 첫 1억 달러 오프닝이다.",
       "fresh": "volatile",
       "date": "2026-11-20",
@@ -6446,6 +6468,17 @@
       "fresh": "volatile",
       "date": "2026-11-08",
       "url": "https://isplus.com/article/view/isp202611050036"
+    },
+    {
+      "id": "kim-jongchul-25th-police-commissioner-term-start",
+      "t": "김종철 제25대 경찰청장 11월 21일 0시 임기 시작…2024년 12월 비상계엄 이후 1년 11개월 대행체제 종료",
+      "c": "사회",
+      "ci": "✊",
+      "s": 60,
+      "d": "김종철 제25대 경찰청장이 11월 21일 0시부터 공식 임기를 시작했다. 이재명 정부 출범 이후 첫 정식 경찰청장이며, 2024년 12월 비상계엄 사태 이후 약 1년 11개월 이어진 직무대행 체제가 종료됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://m.news.nate.com/view/20261121n00141"
     },
     {
       "id": "kim-jongun-nampho-shipyard-warships",
@@ -8417,6 +8450,17 @@
       "url": "https://www.marketscreener.com/news/nvidia-outlook-cut-to-stable-by-moody-s-on-ceo-exit-no-succession-plan-ce785edddf8ef522"
     },
     {
+      "id": "moonshot-ai-cancels-150m-nvidia-lease-indonesia",
+      "t": "문샷AI, 인도네시아 데이터센터 경유 엔비디아 칩 1억 5,000만 달러 임대 계약 취소…미 BIS '해외 데이터센터 원격 사용' 규제 직격",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 79,
+      "d": "중국 AI 스타트업 문샷AI가 인도네시아 데이터센터를 통해 엔비디아 최신 칩을 빌리려던 약 1억 5,000만 달러 규모 계약을 취소했다. 미국이 해외 데이터센터를 경유한 중국 기업의 원격 칩 사용까지 제한하는 규제를 내놓은 결과다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217613"
+    },
+    {
       "id": "moonshot-blackwell-europe-rental-8000-gpus",
       "t": "중국 문샷AI, 유럽 데이터센터에서 엔비디아 블랙웰 8,000장 임대 추진…'해외 클라우드는 미 수출규제 대상이 아니다'는 공백을 통과, 7월엔 태국에서 GB300 접근",
       "c": "기술",
@@ -8701,6 +8745,17 @@
       "fresh": "volatile",
       "date": "2026-11-10",
       "url": "https://www.fnnews.com/news/202611101121116673"
+    },
+    {
+      "id": "navier-stokes-finite-time-blowup-lean-formalization",
+      "t": "나비에-스토크스 유한시간 발산 증명 주장 79쪽 논문과 Lean 4 형식화 공개…2,270개 파일·6,000만 줄, 128비트 구간연산 인증서는 저장소에 미포함",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 64,
+      "d": "11월 20일 자 79쪽 논문이 나비에-스토크스 방정식의 유한시간 발산을 증명했다고 주장하며 Lean 4·Mathlib 형식화(약 2,270파일·6,000만 줄)를 함께 공개했다. 128비트 구간연산 인증서와 데이터는 저장소에 없어 외부 계산으로 검증해야 한다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://news.hada.io/topic?id=37543"
     },
     {
       "id": "nc-duke-energy-datacenter-50mw-rate-schedule",
@@ -10430,6 +10485,17 @@
       "url": "https://www.billboard.com/lists/2026-rock-roll-hall-fame-ceremony-recap-best-moments/"
     },
     {
+      "id": "rodrigues-triple-junction-14-hydrothermal-vent-fields",
+      "t": "인도양 로드리게스 삼중점 주변 열수분출공 14곳 신규 발견…독일 BGR 계약구역 내 총 16곳, 황화물에 금·주석 농집",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 52,
+      "d": "Nature 게재 연구가 인도양 로드리게스 삼중점 주변에서 열수분출공 14곳을 새로 확인했다. 남동인도양해령에서 상세 특성화된 첫 사례가 포함되며, 독일 BGR 계약구역 내 확인 분출공은 기존 Kairei·Edmond를 합쳐 16곳이 됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://astrobiology.com/2026/11/20/the-discovery-of-fourteen-hydrothermal-vent-fields-and-associated-polymetallic-massive-sulfides-in-the-central-indian-ocean/"
+    },
+    {
       "id": "ross-stores-q3-beat-gap-guidance-cut-nov19",
       "t": "로스스토어스 3분기 총매출 +12%·EPS 1.91달러로 가이던스 초과·연간 상향, 같은 날 갭은 연간 EPS 2.29~2.34달러로 하향",
       "c": "경제",
@@ -12080,6 +12146,17 @@
       "url": "https://legis1.com/news/oval-office-monument-trump-designates-the"
     },
     {
+      "id": "trump-overseas-datacenter-tax-threat",
+      "t": "트럼프 '해외 데이터센터 짓는 미 기업에 엄청난 세금'…구글 핀란드 150억 달러 투자 겨냥, 참모에게도 사전 통보 안 함",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 87,
+      "d": "트럼프 대통령이 11월 20일 해외에 데이터센터를 건설하는 미국 기업에 '엄청난 세금'을 부과하겠다고 밝혔다. 구글의 2027~2028년 핀란드 150억 달러 투자를 직접 언급했으나 과세 방식은 제시하지 않았고, 참모에게도 아직 알리지 않았다고 인정했다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+    },
+    {
       "id": "trump-philippines-biggest-trade-deal-manila-denies-tariff",
       "t": "트럼프 \"필리핀과 사상 최대 무역합의 체결\"…마닐라는 \"관세율·약정 합의 없다\", 7월부터 강제노동 12.5% 추가관세",
       "c": "경제",
@@ -12520,6 +12597,17 @@
       "url": "https://www.rte.ie/news/world/2026/1107/1598334-us-offers-20m-for-information-on-iran-nuclear-programme/"
     },
     {
+      "id": "us-28-point-peace-plan-thanksgiving-deadline",
+      "t": "트럼프, 우크라이나에 28개 항 평화안 '추수감사절(11월 27일) 수락' 시한…크림·루한스크·도네츠크 러시아 통제 인정·100일 내 선거·NATO 포기·병력 감축 요구",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 74,
+      "d": "트럼프 행정부가 28개 항 평화안을 제시하고 11월 27일 추수감사절을 수락 시한으로 설정했다. 크림·루한스크·도네츠크의 러시아 통제 인정, 100일 내 선거, NATO 가입 포기, 병력 감축이 포함됐고 젤렌스키는 '존엄 상실이냐 핵심 파트너 상실이냐'라고 말했다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.kyivpost.com/post/64776"
+    },
+    {
       "id": "us-agoa-south-africa-rwanda-removal",
       "t": "美, 남아공·르완다 AGOA 특혜관세 박탈…2027년부터 발효",
       "c": "경제",
@@ -12958,6 +13046,17 @@
       "fresh": "volatile",
       "date": "2026-11-19",
       "url": "https://www.ic.com/blog/general-market-analysis-19-november-2026-ic/"
+    },
+    {
+      "id": "us-stocks-nov20-close-sp500-6910-nasdaq-ytd-negative",
+      "t": "미 증시 11월 20일 S&P500 6,910.39(-3.7%)·나스닥 22,617.73(-5.3%) 폭락…7거래일 연속 하락은 2020년 코로나 이후 최장, 나스닥 연초 이후 수익률 마이너스 전환",
+      "c": "경제",
+      "ci": "📉",
+      "s": 94,
+      "d": "11월 20일 미 증시가 S&P500 -3.7%, 나스닥 -5.3%로 폭락해 S&P500은 2020년 코로나 발발 이후 최장인 7거래일 연속 하락을 기록했고, 나스닥 종합은 2026년 연초 이후 수익률이 마이너스로 돌아섰다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://spectrumlocalnews.com/nc/coastal/business/2026/11/20/wall-street-nov-20-2026"
     },
     {
       "id": "us-stocks-nov3-mixed-semiconductor-rebound",
@@ -13766,6 +13865,12 @@
       "strength": 1.0
     },
     {
+      "t": "주가는 6거래일 연속 내리는데 수주·인수·인사는 설비 집행 쪽으로 — AI 설비투자 논쟁이 '주가'가 아니라 '수주잔고'에서 판가름날 전망",
+      "d": "AI 버블 우려로 증시가 연일 밀리는 동안 키사이트 수주 +53%, 마스텍의 기계설비 시공사 12억 5,000만 달러 인수, 삼성전자 사장 승진 3명 전원 반도체 배치가 같은 날 나와, 설비 집행 단계 지표와 주식시장 평가가 당분간 반대 방향으로 벌어질 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.7
+    },
+    {
       "t": "AI 자본지출 노출도에 따른 빅테크 차별화, 애플형 모델 재평가 전망",
       "d": "나스닥과 코스피가 AI 수익성 의구심으로 급락한 같은 주에 애플이 AI 증설 없이 9월 분기 사상 최대 실적을 내고 중국에서는 알리바바 Qwen을 빌려 쓰는 구조를 확정하면서, 자본지출 노출도가 빅테크 밸류에이션의 분기 기준이 될 가능성을 전망한다.",
       "conf": "중간",
@@ -13892,6 +13997,12 @@
       "strength": 0.8
     },
     {
+      "t": "AI 부정행위 적발이 '국가시험제도 전면 개편' 지시로 올라가 — 시험 운영·시험장 보안 조달 수요가 민간 시험까지 확대될 전망",
+      "d": "2027학년도 수능 스마트기기 부정행위 111건 적발이 제보포상·범정부 TF를 거쳐 11월 20일 대통령의 '국가시험제도 A부터 Z까지 전면 개편' 지시로 이어져, 공공·민간 시험 운영사와 시험장 보안장비 쪽에 규제성 조달 수요가 생길 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 1.0
+    },
+    {
       "t": "코스피가 서킷브레이커를 맞은 주간에 한국 개인이 미국 주식을 2조 9,820억 원 순매수하고 그 74%를 3배 레버리지 ETF 한 종목에 넣은 국면, 가계 손실이 환율 경로로 되돌아올 전망",
       "d": "코스피가 이틀간 11% 넘게 빠진 주간에 개인이 미국 주식 2조 9,820억 원을 순매수하고 74%를 SOXL에 집중한 반면 당국은 담보비율 면제·망분리 해제·가상자산 과세유예로 레버리지를 유지하는 쪽을 선택해, 가계 레버리지 손실이 환율과 정책으로 전이될 가능성을 전망한다.",
       "conf": "중간",
@@ -13901,7 +14012,7 @@
       "t": "한국 사법·입법 충돌의 11월 4~5일 분기점 집중, 선고 결과가 국정조사 명분 구도에 얹힐 전망",
       "d": "윤석열 전 대통령 공직선거법 항소심이 11월 4일 오후 2시 생중계 선고되고 조희대 대법원장 국정조사안이 11월 5일 본회의 처리를 목표로 추진되면서, 사법부 판단과 입법부 압박이 24시간 안에 교차할 가능성을 전망한다.",
       "conf": "낮음",
-      "strength": 0.9
+      "strength": 1.0
     },
     {
       "t": "스튜디오는 단일 법인으로 합치고 유럽 합작 스트리밍은 닫는데 FAST 점유율 71%에는 반독점 소송이 붙었다 — 미디어 구조조정의 다음 전선이 '제작 통합'에서 '유통 접근권'으로 옮겨갈 전망",
