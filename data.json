@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 18:16",
+  "generated_at": "2026-11-20 19:46",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -2576,6 +2576,17 @@
       "url": "https://m.news.nate.com/view/20261113n32157"
     },
     {
+      "id": "cop31-antalya-addis-adaptation-roadmap",
+      "t": "COP31 2차 초안, 적응재원 연 1,200억 달러 목표 삭제…'안탈리아-아디스아바바 로드맵'으로 대체, 아프리카 그룹 반발",
+      "c": "환경",
+      "ci": "🌍",
+      "s": 72,
+      "d": "COP31 2차 커버결정 초안이 1차 초안의 2035년 적응재원 연 1,200억 달러 3배 확대 목표를 삭제하고 COP31·COP32 의장국 주도 안탈리아-아디스아바바 적응·회복력 재원 로드맵으로 대체했다. 아프리카 그룹이 공개 반발했다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/"
+    },
+    {
       "id": "cop31-antalya-midpoint-climate-justice-rally",
       "t": "COP31 중간지점, 안탈리아 최대 규모 기후정의 행진 — 11월 20일 타결까지 적응재원·화석연료 쟁점 그대로",
       "c": "환경",
@@ -4054,7 +4065,7 @@
       "t": "연준 내부 쟁점은 '인상 여부' 아니라 속도…무살렘 \"2027년 봄 전 여러 차례\", 윌리엄스는 12월 50bp 반대, FedWatch 25bp 95%",
       "c": "경제",
       "ci": "📉",
-      "s": 86,
+      "s": 88,
       "d": "11월 5일 매도세 이후 발언한 연준 당국자 13명 전원이 추가 인상으로 기울었고 이견은 속도와 종착점에 있다. 무살렘은 2027년 봄 전 여러 차례 인상을 주장했고 윌리엄스는 12월 50bp에 반대했으며, 10월 FOMC 의사록이 11월 18일 14:00 ET 공개된다.",
       "fresh": "volatile",
       "date": "2026-11-18",
@@ -4527,7 +4538,7 @@
       "t": "현물금 11월 19일 3,700달러 붕괴…14개월 최저, 달러지수 104 돌파 19개월 최고",
       "c": "경제",
       "ci": "📉",
-      "s": 90,
+      "s": 91,
       "d": "2026년 11월 19일 현물금이 온스당 3,697.45달러로 14개월 만에 3,700달러선을 깼고, 달러지수는 104를 넘어 19개월 최고를 기록했다. 연준 추가 인상 기대와 달러 강세가 동시에 작용했다.",
       "fresh": "volatile",
       "date": "2026-11-20",
@@ -5308,7 +5319,7 @@
       "t": "라이온스게이트 '헝거게임: 선라이즈 온 더 리핑' 11월 20일 개봉…트래킹 1억~1억 2,500만 달러, 자체 전망은 8,500만 달러",
       "c": "문화",
       "ci": "🎬",
-      "s": 75,
+      "s": 77,
       "d": "2026년 11월 20일 개봉한 헝거게임 신작의 북미 오프닝 트래킹이 1억~1억 2,500만 달러로 잡혔다. 라이온스게이트 자체 전망은 8,500만 달러로 보수적이며, 성사되면 7월 스파이더맨 이후 첫 1억 달러 오프닝이다.",
       "fresh": "volatile",
       "date": "2026-11-20",
@@ -5588,6 +5599,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://insideclimatenews.org/news/07112026/un-ipcc-funding-crunch-ahead-of-cop31/"
+    },
+    {
+      "id": "iran-abdanan-bus-crash-protests",
+      "t": "이란 압단안, 가스 프로젝트 노동자 13명 사망 버스 전복에 반정부 시위…15세 포함 최소 7명 체포",
+      "c": "사회",
+      "ci": "✊",
+      "s": 63,
+      "d": "이란 남서부 일람주 압단안에서 데흘로란 가스처리 프로젝트 노동자 13명이 사망한 버스 전복 사고 뒤 수백 명이 반정부 시위를 벌였다. 보안군이 15세 소년을 포함해 최소 7명을 체포했다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.arabnews.pk/middle-east/protesters-rally-in-a-town-in-southwestern-iran-after-a-road-crash-killed-13-refinery-workers-3007426"
     },
     {
       "id": "iran-bahrain-riffa-base-drone-strike",
@@ -6182,6 +6204,17 @@
       "fresh": "volatile",
       "date": "2026-11-20",
       "url": "https://www.timeslive.co.za/news/world/2026-11-19-judge-blocks-trump-limits-on-transgender-hiv-care/"
+    },
+    {
+      "id": "jwst-napowawaenakaulua-quasar-pair",
+      "t": "제임스웹, 빅뱅 후 9억 년의 최고(最古) 밀집 쌍둥이 퀘이사 확인…1만 8,100광년 간격, 태양질량 15억·4억 배",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 55,
+      "d": "JWST가 빅뱅 후 약 9억 년 시점의 가장 오래된 밀집 쌍 초대질량 블랙홀 퀘이사 Nāpōwawāʻenakaulua(J1602+4228AB)를 확인했다. 두 퀘이사 간격은 약 1만 8,100광년이고 질량은 태양의 15억 배와 4억 배다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://starlust.org/space-weekly-recap-november-14-november-20-2026-key-stories-you-may-have-missed/"
     },
     {
       "id": "k-battery-ess-backlog-sold-out",
@@ -7370,6 +7403,17 @@
       "fresh": "volatile",
       "date": "2026-11-16",
       "url": "https://www.gurufocus.com/news/9200971/openai-and-anthropic-orders-extend-google-tpu-visibility-to-2029"
+    },
+    {
+      "id": "kushner-nato-donbas-withdrawal-option",
+      "t": "미 특사단, 비공개 협의서 '돈바스 철수 ↔ 우크라이나 NATO 완전 가입' 교환안 제시…러시아는 거부, 젤렌스키는 영토 양보만 거부",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 78,
+      "d": "쿠슈너·위트코프가 수개월간 비공개 협의에서 우크라이나의 돈바스 철수와 NATO 완전 가입을 교환하는 선택지를 논의했다고 보도됐다. 두 번째 선택지는 현 전선 교전중지와 미·유럽 안전보장이며 러시아는 완전 가입에 반대한다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://unn.ua/en/news/ukraine-joining-nato-in-exchange-for-territories-the-us-is-proposing-options-moscow-is-opposed"
     },
     {
       "id": "kyiv-ballistic-barrage-nov20-tu160",
@@ -8857,6 +8901,17 @@
       "url": "https://casrai.org/news/noeri-stanford-founders-owned-ai-110-million-2026"
     },
     {
+      "id": "noisytcp-cve-2026-99288-kernel-panic",
+      "t": "NoisyTCP(CVE-2026-99288), 리눅스 커널 11년 묵은 TCP 경쟁조건…조작 패킷만으로 미인증 커널 패닉, Ubuntu·RHEL 패치 미완",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 88,
+      "d": "리눅스 커널 TCP 소켓 조회 경쟁조건으로 미인증 원격 공격자가 조작된 TCP 패킷만 보내 커널 패닉을 낼 수 있다. 커널 4.4부터 11년간 존재했고 11월 17일 기준 Ubuntu 전 버전과 RHEL 8/9/10은 패치가 나오지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://www.linuxteck.com/noisytcp-cve-2026-99288/"
+    },
+    {
       "id": "nonghyup-kang-hodong-warrant-rejected-prosecution-office",
       "t": "강호동 농협중앙회장, 구속영장 기각…서울중앙공소청 '혐의 소명 부족', 경찰 신청 사흘 만",
       "c": "사회",
@@ -9473,6 +9528,17 @@
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
     },
     {
+      "id": "openai-performance-factory-codex-1700-investigations",
+      "t": "오픈AI '퍼포먼스 팩토리' 공개…Codex 에이전트가 하루 17건 성능 회귀 자동조사, 1,700건 중 근본원인 600건·PR 15건 머지",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 84,
+      "d": "오픈AI가 Codex 코딩 에이전트로 ChatGPT 성능 회귀를 자동 조사하는 내부 시스템을 공개했다. 3개월여 1,700건 조사에서 근본원인 600건 이상을 특정하고 Codex가 쓴 PR 15건이 그대로 머지됐으며, 적대적 리뷰어가 약 25%를 반송한다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
+    },
+    {
       "id": "openai-pierre-computer-acquisition",
       "t": "오픈AI, 피에르 컴퓨터 인수 합의…코덱스에 Git 코드 저장 계층 붙여 깃허브 영역 진입",
       "c": "기술",
@@ -9779,6 +9845,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://www.euronews.com/2026/11/07/europe-needs-cold-war-like-deterrence-for-ai-warfare-poland-says"
+    },
+    {
+      "id": "poland-kh101-airspace-violation-nov20",
+      "t": "러시아 미사일 2발·제트드론 1기 폴란드 영공 침범해 3개 마을에 낙하…폴란드, NATO에 방공 증강 요청",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 79,
+      "d": "11월 20일 러시아의 우크라이나 대규모 공습 중 Kh-101 순항미사일을 포함한 미사일 2발과 제트추진 드론 1기가 폴란드 영공을 침범해 3개 마을에 잔해를 남겼다. 인명 피해는 없고 폴란드는 NATO에 방공 전력 증강을 요청했다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://eurointegration.com.ua/eng/news/2026/11/20/7250476"
     },
     {
       "id": "polar-vortex-earliest-disruption-nov20-breakdown",
@@ -10197,6 +10274,17 @@
       "fresh": "volatile",
       "date": "2026-11-17",
       "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/fugaku-unauthorized-access/"
+    },
+    {
+      "id": "riot-anthropic-corsicana-28bn-tenant",
+      "t": "라이엇 플랫폼스, 280억 달러 텍사스 리스 임차인은 앤트로픽…910MW take-or-pay·연 18억 달러, 연장 시 540억 달러",
+      "c": "경제",
+      "ci": "📉",
+      "s": 89,
+      "d": "라이엇이 코시카나 캠퍼스 전체를 15년 약 280억 달러에 임대한 계약의 임차인이 앤트로픽으로 확인됐다. 910MW 전량에 사용 여부와 무관한 임대료가 붙고 연장 옵션 2회 행사 시 총액 약 540억 달러다.",
+      "fresh": "volatile",
+      "date": "2026-11-20",
+      "url": "https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease"
     },
     {
       "id": "riot-platforms-corsicana-910mw-ai-lease",
@@ -13590,6 +13678,12 @@
       "strength": 1.0
     },
     {
+      "t": "미국 칩 통제가 중국 AI의 자본 접근은 막지 못해, 딥시크 1,000억 위안·화웨이 어센드·STAR 마켓 상장이 한 묶음으로 움직일 전망",
+      "d": "딥시크가 1,000억 위안 2차 투자를 마감하고 상하이 STAR 마켓 상장을 준비하는 한편 화웨이 슈퍼노드로 컴퓨트를 조달한다. 엔비디아 H200 중국 판매 중단과 중국 상무부 보복 경고가 같은 주에 겹쳐, 중국 AI 수요가 구조적으로 엔비디아 밖으로 이동하고 자국 거래소 상장이 밸류에이션 재설정 트리거가 될 가능성을 전망한다.",
+      "conf": "중간~높음",
+      "strength": 1.0
+    },
+    {
       "t": "중국의 엔비디아 접근이 수출규제가 아닌 세 경로(중국 측 수입 미승인·공급사 배분·IPO 지연)로 동시에 막힌 국면, 블록화가 양방향 투자심사로 굳어질 전망",
       "d": "H200 60만 장이 중국 수입 승인을 못 받아 홍콩에 머물고 규제 대상도 아닌 RTX 프로 5500은 주문의 1%만 인도되는 가운데 EU가 킬스위치 통상도구를 예고하고 중국이 소프트뱅크의 ABB 로보틱스 인수를 안보심사로 막아, 기술 블록화가 양방향 심사 제도로 고착될 가능성을 전망한다.",
       "conf": "중간",
@@ -13599,6 +13693,12 @@
       "t": "중국 공급망 레버리지 집중, 11월 10일 희토류 역외적용 발효 전망",
       "d": "희토류 수출통제 유예의 11월 10일 만료, 사상 최대 청정기술 수출, 제조업 PMI 위축, 이미 빡빡한 메모리 공급이 겹치며 중국이 공급망 양쪽 끝을 동시에 쥔 국면이 11월 중 발효될 가능성을 전망한다.",
       "conf": "중간~높음",
+      "strength": 1.0
+    },
+    {
+      "t": "COP31 최종 결정문에서 화석연료 문구가 빠진 자리에 숫자 붙은 CCUS 목표가 들어가, 정책 수요가 '감축 규제'에서 '포집 설비 발주'로 옮겨갈 전망",
+      "d": "11월 19일 COP31 수정 초안이 화석연료 감축 문구를 삭제하고 2035년 연 5억 톤 CCUS 목표를 넣은 채 폐막 예정일을 넘겨 연장 협상에 들어갔다. 최종본이 이 구조로 채택되면 CCUS 밸류체인에 중기 발주 기대가 실리고 재생에너지 조기 전환 전제의 포지션은 불리해질 가능성을 전망한다.",
+      "conf": "중간",
       "strength": 1.0
     },
     {
@@ -13707,7 +13807,7 @@
       "t": "한국 사법·입법 충돌의 11월 4~5일 분기점 집중, 선고 결과가 국정조사 명분 구도에 얹힐 전망",
       "d": "윤석열 전 대통령 공직선거법 항소심이 11월 4일 오후 2시 생중계 선고되고 조희대 대법원장 국정조사안이 11월 5일 본회의 처리를 목표로 추진되면서, 사법부 판단과 입법부 압박이 24시간 안에 교차할 가능성을 전망한다.",
       "conf": "낮음",
-      "strength": 0.7
+      "strength": 0.9
     },
     {
       "t": "메모리 가격 상승이 '사는 쪽' 마진으로 전가됐는지가 11월 5일 아침 퀄컴 분기 숫자에서 처음 측정될 전망",
