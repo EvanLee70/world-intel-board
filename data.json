@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 19:26",
+  "generated_at": "2026-11-24 20:54",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -3515,10 +3515,10 @@
       "t": "COP31 결렬 직후 UNFCCC 개혁 착수…스틸 \"외부 지식 리더와 협의 시작\", 내년 '화석연료 전환 회의'에 약 90개국 참가 전망",
       "c": "환경",
       "ci": "🌍",
-      "s": 71,
+      "s": 73,
       "d": "COP31이 포괄 합의 없이 끝난 직후 사이먼 스틸 UNFCCC 사무총장이 외부 전문가와 개혁 협의에 착수했다고 밝혔고, 대표단은 합의제 COP 밖의 소규모 연합으로 눈을 돌려 내년 화석연료 전환 회의에 약 90개국이 참가할 것으로 전망된다.",
       "fresh": "volatile",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
     },
     {
@@ -4664,6 +4664,17 @@
       "fresh": "volatile",
       "date": "2026-11-16",
       "url": "https://www.iranintl.com/en/liveblog/202611143682"
+    },
+    {
+      "id": "ecopro-bm-singapore-622bn-nickel-smelter",
+      "t": "에코프로비엠, 싱가포르 종속회사에 6,221억원 출자 — 인도네시아 니켈 제련소 투자구조 2주 만에 변경",
+      "c": "경제",
+      "ci": "📉",
+      "s": 84,
+      "d": "에코프로비엠이 11월 24일 싱가포르 100% 종속회사 ECOPRO GLOBAL INVESTMENT에 6,221억원을 현금출자한다고 공시했고, 이는 11월 10일 공시한 인도네시아 투자법인 출자(6,271억원)를 2주 만에 싱가포르 경유 구조로 바꾼 것이다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=489753"
     },
     {
       "id": "ecuador-guayas-floods-nov14",
@@ -6503,6 +6514,28 @@
       "url": "https://www.joongdo.co.kr/web/view.php?key=20261114010004789"
     },
     {
+      "id": "hanwha-aero-changwon-defense-ai-datacenter-180mw",
+      "t": "한화에어로스페이스, 창원에 180MW 국방 AI 데이터센터 — 1단계 10조원, 2028년 7월 일부 가동",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 82,
+      "d": "한화에어로스페이스가 창원사업장 인근 약 1만 3,000평 부지에 180MW급 국방 AI 데이터센터를 구축하기로 하고 1단계에 10조원을 투입해 2028년 7월 일부 가동을 목표로 한다고 11월 24일 발표했다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452827"
+    },
+    {
+      "id": "hanwha-aero-lion-robotics-investment-withdrawal",
+      "t": "한화에어로스페이스, 4족보행 로봇 라이온로보틱스 투자 철회 — 기업가치·조건 이견, 피지컬 AI 투자는 계속",
+      "c": "경제",
+      "ci": "📉",
+      "s": 72,
+      "d": "한화에어로스페이스가 11월 24일 4족보행 로봇 기업 라이온로보틱스에 대한 전략적 투자 협상을 기업가치·투자금액 등 조건 이견으로 종료했다고 밝혔고, 피지컬 AI·로봇 관련 투자는 계속 모색한다고 했다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://www.ddaily.co.kr/page/view/2026112417192064149"
+    },
+    {
       "id": "hanyang-securities-hacking",
       "t": "한양증권 해킹…그룹웨어 '다우오피스' 경유, 증권업계 세 번째 유출",
       "c": "사회",
@@ -7460,6 +7493,17 @@
       "url": "https://www.news1.kr/world/international-economy/6354782"
     },
     {
+      "id": "intellia-lonvo-z-in-vivo-crispr-pdufa-mar2027",
+      "t": "인텔리아 lonvo-z, 체내 투여 첫 CRISPR 의약품 후보 — FDA 우선심사, PDUFA 2027년 3월 10일",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 75,
+      "d": "인텔리아 테라퓨틱스의 유전성 혈관부종 치료제 lonvoguran ziclumeran(lonvo-z)이 FDA 우선심사 대상으로 접수돼 결정 목표일이 2027년 3월 10일로 설정됐고, 승인되면 체내에 직접 투여되는 세계 첫 CRISPR 의약품이 된다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://singularityhub.com/2026/11/24/fda-set-to-approve-first-crispr-therapy-that-edits-genes-inside-the-body/"
+    },
+    {
       "id": "interior-federal-estate-sale-nps-433-realignment",
       "t": "내무부 2026~2030 전략계획에 '연방 토지 규모 축소' 명문화…국립공원 433개 단위 재편·의견수렴 제한을 1월 새 의회 전에 추진",
       "c": "정치",
@@ -7645,6 +7689,17 @@
       "fresh": "volatile",
       "date": "2026-11-22",
       "url": "https://www.iranintl.com/en/202611211549"
+    },
+    {
+      "id": "iran-land-route-42km-truck-queue-yalama",
+      "t": "미 해상봉쇄 4개월 — 이란행 육상경로에 42km·트럭 1,200대 정체, '아이언 게이트'가 인접국 국경까지 압박",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 80,
+      "d": "미국의 대이란 해상봉쇄가 4개월을 넘기며 화물이 육로로 몰려 이란행 주요 통행로에 약 42km·트럭 1,200대 정체가 발생했고, 11월 7일 출범한 미군 아이언 게이트 태스크포스가 인접국에 국경 물류 제한을 압박하고 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008860680"
     },
     {
       "id": "iran-maximum-deterrence-target-lists",
@@ -8835,6 +8890,17 @@
       "url": "https://www.seoul.co.kr/news/society/2026/11/06/20261106500213"
     },
     {
+      "id": "korea-boxoffice-pokseol-6days-462k",
+      "t": "영화 '폭설' 6일 연속 박스오피스 1위 — 누적 46만 2,142명, 예매율 1위는 '극장판 치이카와'",
+      "c": "문화",
+      "ci": "🎬",
+      "s": 56,
+      "d": "11월 24일 집계에서 영화 '폭설'이 6일 연속 국내 박스오피스 1위를 유지해 누적 46만 2,142명을 기록했고, 실시간 예매율 1위는 '극장판 치이카와: 인어 섬의 비밀'(12.4%)이었다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://m.news.nate.com/view/20261124n05525"
+    },
+    {
       "id": "korea-budget-minister-semiconductor-concentration-warning",
       "t": "박홍근 기획예산처 장관, 증시 조정을 '반도체 편중 한국경제에 보내는 신호'로 규정…산업 다변화 추진",
       "c": "경제",
@@ -9603,6 +9669,17 @@
       "fresh": "volatile",
       "date": "2026-11-24",
       "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250272"
+    },
+    {
+      "id": "korea-wage-jobs-q2-406k-20s-fifteenth-decline",
+      "t": "2026년 2분기 임금근로 일자리 40만 6,000개 증가 — 증가분 68%가 60대 이상, 20대 이하는 15분기 연속 감소",
+      "c": "경제",
+      "ci": "📉",
+      "s": 71,
+      "d": "국가데이터처 2026년 2분기 임금근로 일자리 동향에서 5월 기준 전체 일자리가 2,135만 6,000개로 40만 6,000개 늘었으나 20대 이하는 5만 6,000개 줄어 15분기 연속 감소했고, 전체 증가분의 68%가 60대 이상이었다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://www.seoul.co.kr/news/economy/2026/11/25/20261125031006"
     },
     {
       "id": "kospi-5115-nvidia-rebound-nikkei-nov18",
@@ -14093,6 +14170,17 @@
       "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court"
     },
     {
+      "id": "russia-aircraft-ulleungdo-20km-alert-third",
+      "t": "러 군용기, 울릉도 영공 20km까지 접근 — 열흘 새 3번째, 경계경보 발령·주한 러 국방무관 초치",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 74,
+      "d": "11월 24일 오전 7시 52분경 러시아 군용기 수 대가 동해 KADIZ에 진입해 울릉도 북방 영공 20km 이내까지 접근하자 군이 경계경보 발령을 요청하고 F-15K를 출동시켰으며, 정부는 주한 러시아 국방무관을 초치해 항의했다.",
+      "fresh": "volatile",
+      "date": "2026-11-24",
+      "url": "https://www.khan.co.kr/article/202611242133025/"
+    },
+    {
       "id": "russia-jti-nationalization-cocacola-hbc",
       "t": "푸틴, 일본담배(JTI) 러시아 4개 법인 전부 '임시관리' 포고령…시장점유율 40%·직원 4,000명, 같은 날 코카콜라HBC가 아테네에서 -12.5%",
       "c": "국제",
@@ -16935,10 +17023,10 @@
       "t": "미 하원 민주당 최종 258석 확정 — 1992년 이후 최대 다수당",
       "c": "정치",
       "ci": "🏛️",
-      "s": 75,
+      "s": 77,
       "d": "노스캐롤라이나에서 공화당 버지니아 폭스 의원이 패배를 인정해 2026년 중간선거 하원 집계가 사실상 확정됐고, 민주당은 44석 순증으로 최소 258석을 확보해 1992년 이후 최대 다수당이 됐다.",
       "fresh": "volatile",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "url": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708"
     },
     {
@@ -18475,6 +18563,12 @@
       "strength": 0.9
     },
     {
+      "t": "EU 탄소시장에서 '목표'는 그대로 두고 '수량'만 느슨해지는 조정이 같은 주에 세 건 통과됐다 — 다음 다툼은 ETS2 연기 여부가 아니라 2028년 출범 설계의 가격 완충 장치에서 벌어질 전망",
+      "d": "11월 23~24일 비셰그라드 4국이 ETS2의 2028년 출범 연기를 요구하고 8개국 기후장관이 방어에 나선 같은 시기 유럽의회가 MSR 소각 임계를 4억에서 7억 톤으로 올리는 개혁을 통과시켰고, 산업 무상할당 축소 속도 완화 타협안과 EU-영국 ETS 연계도 병행된다. 조문의 야심이 아니라 배출권 수량 쪽에서 완화가 누적되는 구조의 다음 전개를 전망한다.",
+      "conf": "중간",
+      "strength": 0.7
+    },
+    {
       "t": "제네릭 진입 시점이 추정에서 법정 수치로 바뀐다 — 다음 가격 변수는 특허 만료가 아니라 '가산 요건 충족 여부'가 될 전망",
       "d": "유럽의회가 11월 25일 제네릭 차단 기간을 통상 9년·최대 11년(항생제 바우처 적용 시 12년), 희귀약 시장독점을 9년+2년으로 확정하는 표결을 하는데 같은 달 희귀 호흡기 자산에 410억 달러 전액 현금이 매겨지고 바이오시밀러 2종의 미국 판매가 파트너로 넘어가, 유럽 독점 만료일이 법정 수치로 고정되면서 밸류에이션 변수가 '미충족 의료수요·항생제 바우처 지정 여부'로 옮겨갈 가능성을 전망한다.",
       "conf": "중간",
@@ -18748,7 +18842,7 @@
       "t": "원화 스테이블코인 '발행 자격'이 입법과 경쟁법 두 경로에서 동시에 좁혀지는 중 — 비은행 플랫폼의 발행 주도 기대가 11월 하순 입법 단계에서 먼저 깎일 전망",
       "d": "정부가 디지털자산기본법 정부안을 11월 하순 국회에 전달하며 원화 스테이블코인 발행 요건을 시행령으로 넘기고 은행 50%+1주 컨소시엄·거래소 대주주 15~20% 상한을 거론하는 가운데, 공정위는 아직 형성되지 않은 '원화 스테이블코인 발행 시장'을 별도 관련시장으로 획정해 네이버파이낸셜-두나무 결합을 심사하고 있다. 발행 자격이 자본금이 아니라 주주 구성으로 걸릴 때의 다음 전개를 전망한다.",
       "conf": "중간 이하",
-      "strength": 0.9
+      "strength": 1.0
     },
     {
       "t": "K팝 공연 매출이 1만석 이상(54.0%)으로 쏠리는 동안 중형 공연장은 9.2% 줄었다 — 성장 축이 공연 캐파에서 영화·글로벌 투어 IP 라이선스로 옮겨갈 전망",
