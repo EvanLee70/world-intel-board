@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 10:11",
+  "generated_at": "2026-11-25 11:42",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -4171,6 +4171,17 @@
       "url": "https://zdnet.co.kr/view/?no=20261109083329"
     },
     {
+      "id": "deere-q4-fy26-1051bn-fy27-guidance-450-525",
+      "t": "디어 FY26 4분기 순이익 10억 5,100만 달러(-1%)·FY27 가이던스 45~52.5억 달러, 북미 대형 농기계 수요 \"+5~15%\" 전망",
+      "c": "경제",
+      "ci": "📉",
+      "s": 88,
+      "d": "디어가 2026년 11월 25일 FY26 4분기 순이익 10억 5,100만 달러(주당 3.89달러)와 매출 121억 1,500만 달러(-2%)를 공시하고, FY27 순이익을 45억~52.5억 달러로 제시하며 북미 대형 농기계 수요가 5~15% 늘어난다고 전망했다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm"
+    },
+    {
       "id": "defiance-antc-antq-2x-anthropic-etf",
       "t": "앤트로픽(ANT) 2배 레버리지·2배 인버스 ETF ANTC·ANTQ 나스닥 상장 — 11월 23일 거래 개시",
       "c": "경제",
@@ -6072,6 +6083,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://www.opb.org/article/2026/11/06/heavy-rains-flood-towns-dozens-rescued-on-georgia-tennessee-border/"
+    },
+    {
+      "id": "germany-first-foreign-access-ukraine-delta-lab",
+      "t": "독일, 우크라이나 'DELTA' 전장관리체계 최초 외국 접근권 — 11월 23일 베를린 의향서, 전투·작전 데이터는 제외",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 72,
+      "d": "우크라이나 국방부가 2026년 11월 24일 독일이 DELTA 전장관리체계에 접근하는 첫 외국이 된다고 발표했고, 양국 국방장관이 11월 23일 베를린에서 'DELTA Lab' 협력 의향서에 서명했으며 우크라이나군의 전투·작전 데이터는 이전 대상에서 제외됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.kyivpost.com/post/91052"
     },
     {
       "id": "gerstner-43gw-2027-datacenter-risk-gigawatts",
@@ -16172,6 +16194,17 @@
       "url": "https://fortune.com/2026/11/06/elon-musk-tesla-cybertruck-production-wind-down-2027-sales-decline-cybercab-robotaxi-future-electric-vehicle/"
     },
     {
+      "id": "tesla-spacex-35tn-all-stock-merger-committees",
+      "t": "테슬라-스페이스X 3.5조 달러 전액주식 합병 협상 — 특별위원회 5인(테슬라 3·스페이스X 2), 테슬라 39.5억 주의 과반 동의 필요·칼시 연내 타결 확률 34%",
+      "c": "경제",
+      "ci": "📉",
+      "s": 89,
+      "d": "파이낸셜타임스가 2026년 11월 24일 테슬라와 스페이스X가 3.5조 달러 규모 전액주식 합병을 협상 중이라고 보도하고, 양사가 각각 3인·2인의 특별위원회를 구성했으며 테슬라 39.5억 주의 과반 동의가 필요해 기권이 사실상 반대로 계산되는 구조라고 전했다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.pymnts.com/cpi-posts/tesla-spacex-directors-negotiate-potential-3-5-trillion-merger-ft-reports/"
+    },
+    {
       "id": "texas-governor-flip-hinojosa",
       "t": "텍사스 주지사 민주당 플립 확정…히노호사가 애벗 3선 현역 꺾고 36년 만에 첫 민주당·첫 라티나 주지사",
       "c": "정치",
@@ -16401,6 +16434,17 @@
       "fresh": "volatile",
       "date": "2026-11-18",
       "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/"
+    },
+    {
+      "id": "trump-bipartisan-healthcare-door-trumpcare",
+      "t": "트럼프 \"의료, 민주당과 조합 가능\" — 상·하원 장악한 민주당이 메디케어 확대를 'TrumpCare'로 역제안, 백악관은 47.4조 달러 적자 추계로 응수",
+      "c": "정치",
+      "ci": "🏛️",
+      "s": 72,
+      "d": "트럼프 대통령이 2026년 11월 24일 의료 분야에서 민주당과 타협할 수 있다고 말하고 22일에는 '메디케어 포 올' 제안을 'TrumpCare'로 공유한 가운데, 2027년 상·하원을 장악하는 민주당은 ACA 보조금 복원과 메디케어 수급연령 55세 인하를 역제안했고 백악관은 10년 47.4조 달러 적자 추계를 내세웠다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-opens-door-healthcare-deal-110000379.html"
     },
     {
       "id": "trump-chief-of-staff-stephen-miller",
@@ -18475,11 +18519,22 @@
       "t": "WTI 79.95달러로 8월 이후 첫 80달러 하회 — 차바하르 인근 이란산 원유 유조선 피격·트럼프 \"모두 바다 밑으로",
       "c": "경제",
       "ci": "📉",
-      "s": 78,
+      "s": 80,
       "d": "이란산 원유를 수출하던 유조선이 2026년 11월 22일 오만만 차바하르 인근에서 피격된 가운데 WTI는 4% 이상 내린 79.95달러로 8월 이후 처음 80달러를 하회하고 브렌트는 88.75달러로 4.1% 하락했다.",
       "fresh": "volatile",
       "date": "2026-11-25",
       "url": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421"
+    },
+    {
+      "id": "xiamen-airlines-50-boeing-737max8-74bn",
+      "t": "샤먼항공, 보잉 737 MAX 8 50대 발주(정가 74억 달러) — 近 10년 보잉 최대 중국 거래, 인도는 2031~2034년",
+      "c": "경제",
+      "ci": "📉",
+      "s": 83,
+      "d": "중국남방항공 자회사 샤먼항공이 2026년 11월 24일 보잉 737-8 50대를 정가 약 74억 달러에 도입하기로 합의했다고 발표됐고, 이는 근 10년 만의 보잉 최대 중국 발주이며 인도 시기는 2031~2034년이다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
     },
     {
       "id": "xilect-metax-ubtech-500m-angel-robot-soc",
@@ -18645,6 +18700,17 @@
       "fresh": "volatile",
       "date": "2026-11-21",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"
+    },
+    {
+      "id": "zambia-mundubile-treason-indictment-high-court",
+      "t": "잠비아, 제1야당 지도자 문두빌레 등 13명 내란죄 기소 — 치안판사가 고등법원 회부, 재판일 미정",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 62,
+      "d": "잠비아 제1야당 지도자 브라이언 문두빌레가 2026년 11월 23일 다른 12명과 함께 히칠레마 정부 전복 모의 혐의로 내란죄 기소됐고, 치안판사가 사건을 고등법원에 회부했으나 재판일은 정해지지 않았다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.africanews.com/2026/11/23/zambian-opposition-leader-mundubile-formally-indicted-on-treason-charges/"
     },
     {
       "id": "zelensky-berlin-germany-winter-package",
@@ -19017,6 +19083,12 @@
       "strength": 0.8
     },
     {
+      "t": "콜롬비아 치안 사건이 11월 한 달 안에 총파업·주청사 차량폭탄·관광거점 인질극으로 누적 — 군사공세와 보복이 사이클로 고착되며 자산 안보프리미엄이 재책정될 전망",
+      "d": "11월 19일 5대 도시 전국 총파업, 23일 밤 비야비센시오 메타주청사 앞 펜톨라이트 80~100kg 차량폭탄(부상 23명), 24일 카르타헤나 인질극이 한 달 안에 누적되고 에스프리에야 대통령이 FARC 이탈조직 EMC에 보복을 공언해, 정부 공세와 이탈조직 보복이 상호 사이클로 굳어지며 콜롬비아 자산과 메타주 유전·물류의 안보프리미엄이 재책정될 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.8
+    },
+    {
       "t": "의회 조사권이 생기기 6주 전에 계약업체 입을 먼저 막은 행정명령 — 1월 개원 후 리스크가 '규제'가 아니라 '컴플라이언스 비용'으로 가격화될 전망",
       "d": "민주당이 2027년 1월 양원 조사권을 쥐기 전에 트럼프가 연방 계약업체의 의회 자료 제공을 사전통보·비공개 의무로 묶고 미준수 시 계약 해지까지 가능하게 했다. 같은 기간 의회 쪽은 이미 상무부 대중국 칩 수출허가 원자료를 공개했고 AI CEO 소환 의향을 밝혀, 1월 이후 방산·IT·AI 계약업체의 비용이 규제 본문이 아니라 소환 대응·법률 분쟁에서 먼저 발생할 가능성을 전망한다.",
       "conf": "중간",
@@ -19164,6 +19236,12 @@
       "t": "EU 환경규제가 조문은 유지한 채 적용일과 집행 주체에서 물러나고 있어, 기업의 다음 비용은 규제 강화가 아니라 '회원국별 집행 편차'에서 발생할 전망",
       "d": "11월 19일 같은 날 EUDR 관할당국 미지정으로 불가리아·그리스·말타·폴란드에 공식서한이 나가고 메탄규정 일부 요건은 2년 연기 잠정합의가 나왔으며, 11월 15일 ETS 무상할당 폐지도 연간 분할로 완화됐다. 야심을 유지한다는 문구와 적용 현실이 벌어지면서 준수 비용이 단일시장 안에서 지역별로 갈릴 가능성을 전망한다.",
       "conf": "낮음~중간",
+      "strength": 0.7
+    },
+    {
+      "t": "EU가 수입 차단 수단과 조달 역내제한을 같은 12월 창에 올림 — 역외 공급자 배제가 관세가 아니라 '조달 적격성' 문언으로 먼저 발효될 전망",
+      "d": "EU 집행위가 12월 9일 공개 예정인 신속차단 통상수단(ReadyEU·킬스위치)과 같은 분기에 최대 500억 유로 소버린 테크 에쿼티 펀드와 양자법 초안을 올렸고, 초안은 조달을 '역내 통제 기업' 제품으로 제한할 필요가 있다는 문구를 담아, 역외 공급자 배제가 관세율이 아니라 조달 적격성 정의로 먼저 작동할 가능성을 전망한다.",
+      "conf": "중간",
       "strength": 0.7
     },
     {
