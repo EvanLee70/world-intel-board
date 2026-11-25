@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 08:43",
+  "generated_at": "2026-11-25 10:11",
   "items": [
     {
       "id": "3m-pfas-735bn-personal-injury-settlement",
@@ -3258,6 +3258,17 @@
       "url": "https://colombiareports.com/colombias-labor-unions-and-social-organizations-call-national-strike-on-november-19/"
     },
     {
+      "id": "colombia-villavicencio-car-bomb-pentolite-emc",
+      "t": "콜롬비아 비야비센시오 주청사 앞 차량폭탄 — 펜톨라이트 80~100kg·최소 23명 부상, 대통령이 FARC 이탈조직 EMC 지휘관 지목",
+      "c": "국제",
+      "ci": "🌐",
+      "s": 62,
+      "d": "11월 23일 밤 콜롬비아 메타주청사 앞에서 펜톨라이트 80~100kg을 적재한 차량폭탄이 터져 최소 23명이 부상했고, 데 라 에스프리에야 대통령은 FARC 이탈조직 EMC 지휘관 안토니오 메디나를 정부 공세에 대한 보복 주체로 지목했다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://gsmglobalnews.com/article/d20261124-sub6218-colbomb1.html"
+    },
+    {
       "id": "commerce-interim-rule-issued-12m-tpp-five-countries",
       "t": "미 상무부 AI칩 중간규칙 실제 발표(11월 16일)…TPP 1,200만 초과 데이터센터는 소재지 무관 라이선스, 말레이시아·싱가포르·인도네시아·태국·브라질 5개국 신규 요건",
       "c": "기술",
@@ -5128,6 +5139,17 @@
       "url": "https://euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe"
     },
     {
+      "id": "eu-sovereign-tech-equity-fund-50bn-quantum-act",
+      "t": "EU, 최대 500억 유로 '소버린 테크 에쿼티 펀드' 추진 — AI·양자 집중, 양자법 초안은 조달을 '역내 통제 기업'으로 제한",
+      "c": "기술",
+      "ci": "🤖",
+      "s": 79,
+      "d": "EU가 AI·양자 기업에 투자하는 최대 500억 유로 규모 소버린 테크 에쿼티 펀드를 준비하고 있고, 함께 공개된 양자법 초안은 공공조달을 역내 통제 기업 제품으로 제한한다는 문구를 담아 미국 기술기업의 유럽 조달 접근이 좁아질 수 있다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.techzine.eu/news/infrastructure/146041/eu-plans-to-invest-50-billion-euros-in-own-tech-fund/"
+    },
+    {
       "id": "eu-uk-brussels-summit-sps-ets-youth-nov20",
       "t": "EU-영국 2차 정상회의 11월 20일 브뤼셀 개최…SPS·배출권 연계·청년 이동 3개 합의, GDP +0.4% 전망",
       "c": "국제",
@@ -5753,6 +5775,17 @@
       "fresh": "volatile",
       "date": "2026-11-07",
       "url": "https://www.france24.com/en/live-news/20261107-france-braces-for-protests-as-yellow-vests-urge-mass-disobedience"
+    },
+    {
+      "id": "france-yearend-budget-2026-adopted-deficit-54",
+      "t": "프랑스 의회, 2026년 연말 예산법안 확정 가결 — 재정적자 GDP 5.4% 유지, 49조 3항 미발동",
+      "c": "경제",
+      "ci": "📉",
+      "s": 75,
+      "d": "프랑스 국민의회가 11월 24일 2026년 연말 예산법안을 135 대 64로 가결하고 상원도 231 대 111로 통과시켜, 공공 재정적자를 GDP의 5.4%로 유지한 채 헌법 49조 3항 없이 예산이 확정됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.newsminimalist.com/articles/french-parliament-adopts-2026-budget-bill-keeping-public-deficit-at-54percent-of-gdp-037df1c7"
     },
     {
       "id": "francophonie-summit-phnom-penh",
@@ -8714,6 +8747,17 @@
       "url": "https://www.koreajoongangdaily.com/business/husband-of-jensen-huangs-alleged-affair-partner-had-a-hand-in-beijingbacked-data-center-projects-wsj/12978033"
     },
     {
+      "id": "kasa-third-space-new-tech-4-spacemedic-bio",
+      "t": "우주항공청 제3차 우주신기술 4건 지정 — 우주바이오 첫 지정(스페이스메딕 무인 미세생리 시스템), 심사 분과에 우주의학·우주반도체 추가",
+      "c": "과학",
+      "ci": "🧬",
+      "s": 62,
+      "d": "우주항공청이 11월 25일 제3차 우주신기술로 위성 2건·발사체 1건·우주바이오 1건을 지정하고, 심사 분과에 우주의학과 우주용 반도체·소재를 신설해 올해 누적 17건이 됐다.",
+      "fresh": "volatile",
+      "date": "2026-11-25",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140743"
+    },
+    {
       "id": "katherine-clark-house-majority-leader-first-woman",
       "t": "미 하원 민주당, 캐서린 클라크를 차기 원내대표로 선출 — 양원 최초 여성 원내대표, 제프리스는 251-11로 의장 지명",
       "c": "정치",
@@ -9180,10 +9224,10 @@
       "t": "청해부대 작전구역 2배 확대, 오만 두큼항 남단까지…호르무즈 650km 앞, P-8 초계기·EOD·무인 소해전력 75명 증원",
       "c": "국제",
       "ci": "🌐",
-      "s": 81,
+      "s": 83,
       "d": "정부가 청해부대 작전구역을 아덴만 600해리에서 오만 남방 1,200해리로 확대하고 P-8 해상초계기와 기뢰제거 전력을 추가 파견한다. 11월 5일 파견 연장 수정 동의안을 국회에 제출했다.",
       "fresh": "volatile",
-      "date": "2026-11-05",
+      "date": "2026-11-25",
       "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6344049"
     },
     {
@@ -18769,6 +18813,12 @@
       "strength": 1.0
     },
     {
+      "t": "AI 생성 콘텐츠 규제가 '라벨'에서 '제거·금지'로 넘어갔다 — 집행 단위가 제품 카테고리로 잡히며 생성 서비스의 배포 경로가 좁아질 전망",
+      "d": "타이달의 12월 9일 전면 AI 음악 2,900만곡 삭제와 뉴욕주의 3~12세 AI 장난감 5년 금지가 같은 주에 나오고, 라벨만 붙으면 허용되는 공간과 탐지 정확도 주장이 같은 구간에 갱신된 사실에서, 플랫폼 대응이 표기에서 제거로 이동하며 생성 서비스의 유통 경로가 축소될 가능성을 전망한다.",
+      "conf": "낮음~중간",
+      "strength": 0.9
+    },
+    {
       "t": "AI 조정의 내부 분화, '확정 수주 보유'가 가격 기준선으로 자리잡을 전망",
       "d": "나스닥100이 조정 영역에 진입한 직후 AMD가 4분기 170억 달러 가이던스를 내놓고 팔란티어는 매출 +96%에도 하락했으며 코스피는 반도체주로 2.43% 반등하면서, AI 조정이 일률적 할인이 아니라 확정 수주 보유 여부에 따른 분화로 진행될 가능성을 전망한다.",
       "conf": "중간",
@@ -19039,6 +19089,18 @@
       "strength": 1.0
     },
     {
+      "t": "연준 내부 매파 표수가 처음 숫자로 공개됐다 — 12월 쟁점이 '인상 여부'도 '폭'도 아니라 '2027년 횟수'로 굳을 전망",
+      "d": "재할인율 의사록에서 인상을 권고한 지역 연준이 2개→7개→8개로 세 달 연속 늘고 이사회가 두 차례 기각한 사실이 확인되면서, 12월 25bp가 95% 반영된 상태에서 남은 미반영 변수가 2027년 인상 횟수로 좁혀질 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 0.9
+    },
+    {
+      "t": "다우 5만 신고가와 SOX -8%가 같은 세션에 나왔다 — 'AI 거래'와 '미국 주식'이 분리돼 지수별 분화가 이어질 전망",
+      "d": "11월 24일 다우가 사상 첫 5만 선 위 종가(50,018.70)를 쓰는 동시에 SOX가 약 8%, 엔비디아가 5.9% 빠지고 자금이 헬스케어·소매로 회전한 사실에서, 하락이 시장 전체 위험회피가 아니라 AI 집중 포지션 청산으로 국한돼 지수·지역별 분화가 12월 9일 FOMC까지 이어질 가능성을 전망한다.",
+      "conf": "중간",
+      "strength": 1.0
+    },
+    {
       "t": "미국이 종전선언·'폐기 불요구' 성명까지 올렸는데도 회담이 무산됐다 — 다음 라운드의 출발선이 '비핵화'가 아니라 '관리'에서 시작될 전망",
       "d": "WSJ 보도로 미 행정부가 11월 16~19일 순방 중 북미정상회담을 위해 한국전쟁 종전선언·핵 폐기 불요구 성명·연락사무소 개설까지 검토한 사실이 공개됐으나 북한 조건으로 무산됐다. 같은 기간 IAEA가 영변 원 농축공장 증축 완공을 보고하고 북한은 해군 전력 증강을 공표해, 협상의 출발선이 후퇴하는 동시에 능력은 늘어나는 병행 구조가 굳을 가능성을 전망한다.",
       "conf": "중간",
@@ -19090,7 +19152,7 @@
       "t": "EU 탄소시장에서 '목표'는 그대로 두고 '수량'만 느슨해지는 조정이 같은 주에 세 건 통과됐다 — 다음 다툼은 ETS2 연기 여부가 아니라 2028년 출범 설계의 가격 완충 장치에서 벌어질 전망",
       "d": "11월 23~24일 비셰그라드 4국이 ETS2의 2028년 출범 연기를 요구하고 8개국 기후장관이 방어에 나선 같은 시기 유럽의회가 MSR 소각 임계를 4억에서 7억 톤으로 올리는 개혁을 통과시켰고, 산업 무상할당 축소 속도 완화 타협안과 EU-영국 ETS 연계도 병행된다. 조문의 야심이 아니라 배출권 수량 쪽에서 완화가 누적되는 구조의 다음 전개를 전망한다.",
       "conf": "중간",
-      "strength": 0.7
+      "strength": 0.8
     },
     {
       "t": "제네릭 진입 시점이 추정에서 법정 수치로 바뀐다 — 다음 가격 변수는 특허 만료가 아니라 '가산 요건 충족 여부'가 될 전망",
